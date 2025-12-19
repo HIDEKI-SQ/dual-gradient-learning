@@ -1,0 +1,11 @@
+,,test_error,test_error,avg_cos_similarity,avg_gmix_norm
+,,mean,std,mean,mean
+condition,lambda,,,,
++Renorm,0.2,0.1529,0.0019,-0.0827,1.0
++Renorm,0.3,0.1152,0.0014,-0.1241,1.0
++Renorm+K1,0.2,0.2269,0.0036,0.6975,1.0
++Renorm+K1,0.3,0.1634,0.0017,0.6891,1.0
+Baseline,0.2,0.1466,0.0014,-0.0864,0.8057
+Baseline,0.3,0.1158,0.0024,-0.1634,0.7093
+TrueAnti+K1,0.2,0.4126,0.0099,-0.7703,1.0
+TrueAnti+K1,0.3,0.4621,0.0163,-0.8138,1.0

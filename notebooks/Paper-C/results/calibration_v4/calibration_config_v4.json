@@ -1,0 +1,28 @@
+{
+  "calibration_rule": "Clean training test accuracy in 70-85% range",
+  "version": "v4 (adjusted SNR range)",
+  "timestamp": "2025-12-18 06:22:41",
+  "recommended_settings": {
+    "center_scale": 2.5,
+    "noise_std": 1.0,
+    "snr": 2.5,
+    "expected_test_acc": 0.7989999850591024,
+    "test_acc_std": 0.00042427827500966656
+  },
+  "data_settings": {
+    "n_train": 20000,
+    "n_test": 10000,
+    "n_classes": 10,
+    "dim_per_view": 8,
+    "center_seed": 0
+  },
+  "all_valid_settings": [
+    {
+      "center_scale": 2.5,
+      "noise_std": 1.0,
+      "snr": 2.5,
+      "test_acc": 0.7989999850591024,
+      "test_std": 0.00042427827500966656
+    }
+  ]
+}

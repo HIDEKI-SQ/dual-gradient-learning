@@ -1,0 +1,47 @@
+{
+  "experiment": "E3_production",
+  "timestamp": "2025-12-18 06:40:05",
+  "calibrated_settings": {
+    "center_scale": 2.5,
+    "noise_std": 1.0,
+    "snr": 2.5
+  },
+  "grid": {
+    "noise_rates": [
+      0.0,
+      0.3,
+      0.5
+    ],
+    "rho_values": [
+      -0.7,
+      -0.4,
+      -0.2,
+      0.0,
+      0.4,
+      0.7,
+      1.0
+    ],
+    "lambda_values": [
+      0.0,
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "n_seeds": 10
+  },
+  "total_runs": 1050,
+  "cos_verification": {
+    "max_deviation": 2.5818222448847905e-08,
+    "mean_deviation": 1.2283138430477368e-08
+  },
+  "accuracy_summary": {
+    "overall_mean": 0.6723170305814018,
+    "overall_std": 0.26633408056546554,
+    "by_noise": {
+      "0%": 0.6782945538631507,
+      "30%": 0.6724651262676343,
+      "50%": 0.6661914116134202
+    }
+  }
+}
