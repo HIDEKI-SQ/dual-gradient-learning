@@ -15,7 +15,7 @@ Paper-B consists of two complementary articles:
 | Paper | Title | Target Journal | DOI |
 |-------|-------|----------------|-----|
 | **B-I** | The Sub-Additivity Principle: How Integration and Value Alignment Jointly Determine Cognitive Capacity | Psychological Review | [10.5281/zenodo.17970754](https://doi.org/10.5281/zenodo.17970754) |
-| **B-II** | Sub-additive interaction between integration and value alignment in learning systems: Evidence from 14,400 simulations | Supporting Evidence | [10.5281/zenodo.17940361](https://doi.org/10.5281/zenodo.17940361) |
+| **B-II** | Sub-additive interaction between integration and value alignment in learning systems: Evidence from 14,400 simulations | Neural Computation | [10.5281/zenodo.17940361](https://doi.org/10.5281/zenodo.17940361) |
 
 - **Author**: HIDEKI (ORCID: [0009-0002-0019-6608](https://orcid.org/0009-0002-0019-6608))
 
@@ -133,7 +133,7 @@ Designed for Google Colab (A100 GPU).
   title = {Sub-additive interaction between integration and value alignment in learning systems: Evidence from 14,400 simulations},
   year = {2025},
   doi = {10.5281/zenodo.17940361},
-  note = {Preprint}
+  note = {Preprint, Target: Neural Computation}
 }
 ```
 
