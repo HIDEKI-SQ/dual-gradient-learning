@@ -1,0 +1,28 @@
+{
+  "experiment": "E2",
+  "timestamp": "2025-12-20T05:31:48.185331",
+  "config": {
+    "n_features": 16,
+    "n_classes": 10,
+    "epsilon_values": [
+      0.0001,
+      0.0003,
+      0.001
+    ],
+    "n_epochs": 100,
+    "n_seeds": 5,
+    "methods": [
+      "sgd",
+      "natgrad"
+    ]
+  },
+  "gate_summary": {
+    "gate_a_pass_rate": 1.0,
+    "gate_b_pass_rate": 1.0,
+    "mean_kl_ratio": 1.0033659300589879
+  },
+  "performance_summary": {
+    "sgd_mean_accuracy": 0.06826666841904322,
+    "ng_mean_accuracy": 0.06773333599170049
+  }
+}

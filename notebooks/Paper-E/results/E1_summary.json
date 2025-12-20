@@ -1,0 +1,25 @@
+{
+  "experiment": "E1",
+  "timestamp": "2025-12-20T05:17:47.213332",
+  "config": {
+    "n_features": 16,
+    "n_classes": 10,
+    "use_bias": false,
+    "epsilon_values": [
+      1e-05,
+      3e-05,
+      0.0001,
+      0.0003,
+      0.001,
+      0.003,
+      0.01,
+      0.03,
+      0.1
+    ],
+    "n_seeds": 10
+  },
+  "gate_a_pass_rate": 1.0,
+  "mean_relative_advantage_pct": 1.9823511441191926,
+  "min_advantage_pct": 1.9605967793917929,
+  "max_advantage_pct": 2.0338473974202786
+}
