@@ -1,0 +1,55 @@
+{
+  "experiment": "D_value_perturbed_geometry",
+  "version": "1.0",
+  "timestamp": "2025-12-21T06:00:05.350754",
+  "config": {
+    "P": [
+      0.0,
+      1.5
+    ],
+    "Q": [
+      0.0,
+      0.0
+    ],
+    "R": [
+      2.0,
+      0.0
+    ],
+    "nu": [
+      0.7071067811865475,
+      0.7071067811865475
+    ],
+    "psi": [
+      0.7071067811865475,
+      -0.7071067811865475
+    ],
+    "alpha_isotropic": 0.3,
+    "beta_curvature": 0.4,
+    "V_range": [
+      0.0,
+      2.0
+    ],
+    "n_points": 100
+  },
+  "results": {
+    "gate_0_passed": true,
+    "residual_at_V0": 0.0,
+    "residual_at_V1_aniso": 0.011363636363635798,
+    "residual_at_V2_aniso": 1.1249999999999991,
+    "residual_max_iso": 8.881784197001252e-16,
+    "curvature_at_V0": 0.0,
+    "curvature_at_V2": 1.6
+  },
+  "theorem_verification": {
+    "theorem_5_6_i": true,
+    "theorem_5_6_ii": true,
+    "anisotropic_breaks_pythagorean": true,
+    "isotropic_preserves_pythagorean": true
+  },
+  "figures": [
+    "D_fig_pythagorean.pdf",
+    "D_fig_curvature.pdf",
+    "D_fig_metric.pdf",
+    "D_fig_triangle.pdf"
+  ]
+}
