@@ -11,14 +11,14 @@ Contact: hideki@r3776.jp
 
 ## Papers
 
-| Paper | Title | Preprint DOI | Target Journal |
-|-------|-------|--------------|----------------|
-| **A** | The Geometry of Dual-Gradient Learning: Phase Structure and the Misalignment Paradox under Label Noise | [10.5281/zenodo.17945912](https://doi.org/10.5281/zenodo.17945912) | Neural Computation |
-| **B-I** | The Sub-Additivity Principle: How Integration and Value Alignment Jointly Determine Cognitive Capacity | [10.5281/zenodo.17970754](https://doi.org/10.5281/zenodo.17970754) | Psychological Review |
-| **B-II** | Sub-additive Interaction between Integration and Value Alignment in Learning Systems: Evidence from 14,400 Simulations | [10.5281/zenodo.17940361](https://doi.org/10.5281/zenodo.17940361) | Neural Computation |
-| **C** | ρ-Design: Orthogonal Control of Gradient Direction and Mixing Strength in Learning Experiments | [10.5281/zenodo.17982236](https://doi.org/10.5281/zenodo.17982236) | JMLR |
-| **D** | Beyond Dual Flatness: Curvature Emergence via Anisotropic Metric Perturbations | [10.5281/zenodo.18027618](https://doi.org/10.5281/zenodo.18027618) | Information Geometry |
-| **E** | Natural Gradient Descent: Characterizing Local Efficiency and Coordinate Invariance in Controlled Settings | [10.5281/zenodo.18004827](https://doi.org/10.5281/zenodo.18004827) | JMLR |
+| Paper | Title | Preprint DOI |
+|-------|-------|--------------|
+| **A** | The Geometry of Dual-Gradient Learning: Phase Structure and the Misalignment Paradox under Label Noise | [10.5281/zenodo.17945912](https://doi.org/10.5281/zenodo.17945912) |
+| **B-I** | The Sub-Additivity Principle: How Integration and Value Alignment Jointly Determine Cognitive Capacity | [10.5281/zenodo.17970754](https://doi.org/10.5281/zenodo.17970754) |
+| **B-II** | Sub-additive Interaction between Integration and Value Alignment in Learning Systems: Evidence from 14,400 Simulations | [10.5281/zenodo.17940361](https://doi.org/10.5281/zenodo.17940361) |
+| **C** | ρ-Design: Orthogonal Control of Gradient Direction and Mixing Strength in Learning Experiments | [10.5281/zenodo.17982236](https://doi.org/10.5281/zenodo.17982236) |
+| **D** | Beyond Dual Flatness: Curvature Emergence via Anisotropic Metric Perturbations | [10.5281/zenodo.18027618](https://doi.org/10.5281/zenodo.18027618) |
+| **E** | Natural Gradient Descent: Characterizing Local Efficiency and Coordinate Invariance in Controlled Settings | [10.5281/zenodo.18004827](https://doi.org/10.5281/zenodo.18004827) |
 
 ## Repository Structure
 
