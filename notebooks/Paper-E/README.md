@@ -9,7 +9,7 @@ This directory contains the experimental code and results for Paper-E, which pro
 ## Publication
 
 - **Author**: HIDEKI (ORCID: [0009-0002-0019-6608](https://orcid.org/0009-0002-0019-6608))
-- **Preprint DOI**: [To be added upon Zenodo publication]
+- **Preprint DOI**: [(10.5281/zenodo.18004827)]https://doi.org/10.5281/zenodo.18004827
 
 ## Key Results
 
@@ -147,7 +147,7 @@ Natural Gradient exhibits **machine-precision invariance**:
   title = {Natural Gradient Descent: Empirical Validation of Local Efficiency and Coordinate Invariance},
   year = {2025},
   note = {Preprint},
-  doi = {[To be added]}
+  doi = {https://doi.org/10.5281/zenodo.18004827}
 }
 ```
 
