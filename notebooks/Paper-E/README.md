@@ -10,7 +10,6 @@ This directory contains the experimental code and results for Paper-E, which pro
 
 - **Author**: HIDEKI (ORCID: [0009-0002-0019-6608](https://orcid.org/0009-0002-0019-6608))
 - **Preprint DOI**: [To be added upon Zenodo publication]
-- **Target Journal**: Journal of Machine Learning Research (JMLR)
 
 ## Key Results
 
