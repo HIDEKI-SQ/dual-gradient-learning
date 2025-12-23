@@ -10,7 +10,6 @@ This directory contains the experimental code and results for Paper-A, which int
 
 - **Author**: HIDEKI (ORCID: [0009-0002-0019-6608](https://orcid.org/0009-0002-0019-6608))
 - **Preprint DOI**: [10.5281/zenodo.17945912](https://doi.org/10.5281/zenodo.17945912) 
-- **Target Journal**: Neural Computation
 
 ## Key Results
 
