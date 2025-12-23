@@ -7,15 +7,15 @@
 This directory contains the theoretical framework and computational evidence for Paper-B, which proposes the **Sub-Additivity Principle**—a general composition rule stating that integration (*I*) and value alignment (*A*) combine sub-additively, yielding diminishing returns when both factors are already high.
 
 Paper-B consists of two complementary articles:
-- **B-I (Theory)**: Theoretical framework for Psychological Review
+- **B-I (Theory)**: Theoretical framework
 - **B-II (Evidence)**: Computational demonstration with 14,400 simulations
 
 ## Publications
 
-| Paper | Title | Target Journal | DOI |
-|-------|-------|----------------|-----|
-| **B-I** | The Sub-Additivity Principle: How Integration and Value Alignment Jointly Determine Cognitive Capacity | Psychological Review | [10.5281/zenodo.17970754](https://doi.org/10.5281/zenodo.17970754) |
-| **B-II** | Sub-additive interaction between integration and value alignment in learning systems: Evidence from 14,400 simulations | Neural Computation | [10.5281/zenodo.17940361](https://doi.org/10.5281/zenodo.17940361) |
+| Paper | Title | DOI |
+|-------|-------|-----|
+| **B-I** | The Sub-Additivity Principle: How Integration and Value Alignment Jointly Determine Cognitive Capacity | [10.5281/zenodo.17970754](https://doi.org/10.5281/zenodo.17970754) |
+| **B-II** | Sub-additive interaction between integration and value alignment in learning systems: Evidence from 14,400 simulations | [10.5281/zenodo.17940361](https://doi.org/10.5281/zenodo.17940361) |
 
 - **Author**: HIDEKI (ORCID: [0009-0002-0019-6608](https://orcid.org/0009-0002-0019-6608))
 
