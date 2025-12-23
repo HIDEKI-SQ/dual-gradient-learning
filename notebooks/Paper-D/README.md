@@ -9,7 +9,7 @@ This directory contains the experimental code and results for Paper-D, which est
 ## Publication
 
 - **Author**: HIDEKI (ORCID: [0009-0002-0019-6608](https://orcid.org/0009-0002-0019-6608))
-- **Preprint DOI**: [To be added upon Zenodo publication]
+- **Preprint DOI**: [10.5281/zenodo.18027618](https://doi.org/10.5281/zenodo.18027618)
 - **Target Journal**: Information Geometry (Springer)
 
 ## Key Results
@@ -156,7 +156,7 @@ Neither directional selectivity alone nor point dependence alone suffices to bre
   title = {Beyond Dual Flatness: Curvature Emergence via Anisotropic Metric Perturbations},
   year = {2025},
   note = {Preprint},
-  doi = {[To be added]}
+  doi = {https://doi.org/10.5281/zenodo.18027618}
 }
 ```
 
