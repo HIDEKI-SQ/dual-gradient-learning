@@ -10,7 +10,6 @@ This directory contains the experimental code and results for Paper-D, which est
 
 - **Author**: HIDEKI (ORCID: [0009-0002-0019-6608](https://orcid.org/0009-0002-0019-6608))
 - **Preprint DOI**: [10.5281/zenodo.18027618](https://doi.org/10.5281/zenodo.18027618)
-- **Target Journal**: Information Geometry (Springer)
 
 ## Key Results
 
