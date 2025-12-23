@@ -1,6 +1,6 @@
-# Dual-Gradient Learning: Amari Reinterpretation Series
+# Dual-Gradient Learning
 
-This repository contains the experimental code and results for the **Amari Reinterpretation Series**—a collection of six papers extending information geometry through value-perturbation theory and empirical validation.
+This repository contains the experimental code and results for the **Dual-Gradient Learning Series**—a collection of six papers extending information geometry through value-perturbation theory and empirical validation.
 
 ## Author
 
