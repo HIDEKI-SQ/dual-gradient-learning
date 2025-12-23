@@ -10,7 +10,6 @@ This directory contains the experimental code and results for Paper-C, which int
 
 - **Author**: HIDEKI (ORCID: [0009-0002-0019-6608](https://orcid.org/0009-0002-0019-6608))
 - **Preprint DOI**: https://doi.org/10.5281/zenodo.17982236
-- **Target Journal**: Journal of Machine Learning Research (JMLR)
 
 ## Key Results
 
