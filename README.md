@@ -103,6 +103,8 @@ Each Paper directory contains:
 - Publication-ready figures (PDF, PNG)
 - Detailed README with parameters
 
+**Experimental Environment**: All experiments were conducted on Google Colab (December 2025).
+
 ## Citation
 
 If you use this code or data, please cite the relevant paper(s):
