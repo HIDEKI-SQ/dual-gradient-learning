@@ -9,7 +9,7 @@ This directory contains the experimental code and results for Paper-E, which pro
 ## Publication
 
 - **Author**: HIDEKI (ORCID: [0009-0002-0019-6608](https://orcid.org/0009-0002-0019-6608))
-- **Preprint DOI**: [(10.5281/zenodo.18004827)]https://doi.org/10.5281/zenodo.18004827
+- **Preprint DOI**: https://doi.org/10.5281/zenodo.18004827
 
 ## Key Results
 
