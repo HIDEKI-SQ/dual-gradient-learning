@@ -1,0 +1,41 @@
+{
+  "experiment": "E4",
+  "title": "Approximation Invariance Test",
+  "timestamp": "2026-01-06T05:26:11.923555",
+  "config": {
+    "kappa_values": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "n_seeds": 3,
+    "eta": 0.001,
+    "rcond": 1e-08,
+    "n_features": 16,
+    "n_classes": 10
+  },
+  "methods": [
+    "sgd",
+    "exact",
+    "kfac",
+    "empirical"
+  ],
+  "results_at_kappa_1000": {
+    "exact_ng": 7.903922024617034e-11,
+    "kfac_ng": 1.055525338538391e-10,
+    "empirical_ng": 3.911232676710036e-11,
+    "sgd": 0.15332678857361914
+  },
+  "ratios_vs_exact": {
+    "kfac_vs_exact": 1.3354450300128486,
+    "empirical_vs_exact": 0.4948470726973733,
+    "sgd_vs_exact": 1939882353.2934363
+  },
+  "invariance_ranking": [
+    "empirical",
+    "exact",
+    "kfac",
+    "sgd"
+  ]
+}
