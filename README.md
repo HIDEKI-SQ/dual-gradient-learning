@@ -18,7 +18,7 @@ Contact: hideki@r3776.jp
 | **B-II** | Sub-additive Interaction between Integration and Value Alignment in Learning Systems: Evidence from 14,400 Simulations | [10.5281/zenodo.17940361](https://doi.org/10.5281/zenodo.17940361) |
 | **C** | ρ-Design: Orthogonal Control of Gradient Direction and Mixing Strength in Learning Experiments | [10.5281/zenodo.17982236](https://doi.org/10.5281/zenodo.17982236) |
 | **D** | Beyond Dual Flatness: Curvature Emergence via Anisotropic Metric Perturbations | [10.5281/zenodo.18027618](https://doi.org/10.5281/zenodo.18027618) |
-| **E** | Natural Gradient Descent: Characterizing Local Efficiency and Coordinate Invariance in Controlled Settings | [10.5281/zenodo.18004827](https://doi.org/10.5281/zenodo.18004827) |
+| **E** | Natural Gradient Descent: Characterizing Local Efficiency and Coordinate Invariance in Controlled Settings | [10.5281/zenodo.18163401](https://doi.org/10.5281/zenodo.18163401) |
 
 ## Repository Structure
 
@@ -148,8 +148,8 @@ If you use this code or data, please cite the relevant paper(s):
 @misc{hideki2025natgrad,
   author = {HIDEKI},
   title = {Natural Gradient Descent: Characterizing Local Efficiency and Coordinate Invariance in Controlled Settings},
-  year = {2025},
-  doi = {10.5281/zenodo.18004827}
+  year = {2026},
+  doi = {10.5281/zenodo.18163401}
 }
 ```
 
