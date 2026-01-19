@@ -180,12 +180,11 @@ results/
     ├── exp_Tb2_eta08_v2_20260118_124918/   # v2, empty (superseded by v3)
     ├── exp_V3_vgg11_20260118_095347/       # VGG11 v1, failed
     ├── exp_V3_vgg11_v2_20260118_124820/    # VGG11 v2, empty
-    └── notebooks/                          # Unused/superseded notebooks
-        ├── nb_Tb2_eta08.ipynb              # v1
-        ├── nb_Tb2_eta08_v2.ipynb           # v2
-        ├── nb_V3_vgg11.ipynb               # VGG11 v1
-        ├── nb_V3_vgg11_v2.ipynb            # VGG11 v2
-        └── nb_T1*_lifetime_*.ipynb         # Planned but skipped (T1a/T13 sufficient)
+    ├── nb_Tb2_eta08.ipynb                  # v1 notebook
+    ├── nb_Tb2_eta08_v2.ipynb               # v2 notebook
+    ├── nb_V3_vgg11.ipynb                   # VGG11 v1 notebook
+    ├── nb_V3_vgg11_v2.ipynb                # VGG11 v2 notebook
+    └── nb_T1*_lifetime_*.ipynb             # Planned but skipped (7 files)
 ```
 
 ### Archive Notes
