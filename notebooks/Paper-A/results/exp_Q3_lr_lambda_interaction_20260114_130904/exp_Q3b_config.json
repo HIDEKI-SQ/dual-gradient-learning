@@ -1,0 +1,30 @@
+{
+  "experiment": "exp_Q3b_lr_lambda_interaction",
+  "description": "LR-lambda interaction: \u03b7=0.8",
+  "parameters": {
+    "noise_rate": 0.8,
+    "learning_rates": [
+      0.05,
+      0.1,
+      0.2
+    ],
+    "lambdas": [
+      0.3,
+      0.35,
+      0.45,
+      0.5,
+      0.6
+    ],
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "epochs": 100,
+    "batch_size": 256,
+    "K": 16
+  },
+  "total_runs": 75
+}

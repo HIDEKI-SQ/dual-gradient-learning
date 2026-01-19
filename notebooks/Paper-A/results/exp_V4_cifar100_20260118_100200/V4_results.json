@@ -1,0 +1,257 @@
+[
+  {
+    "seed": 0,
+    "dataset": "CIFAR-100",
+    "num_classes": 100,
+    "ordered_init_error": 0.40059999999999996,
+    "collapse_init_error": 0.7901,
+    "ordered_trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.39980000000000004
+      },
+      {
+        "lambda": 0.35,
+        "error": 0.39649999999999996
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.39790000000000003
+      },
+      {
+        "lambda": 0.45,
+        "error": 0.3993
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.39670000000000005
+      },
+      {
+        "lambda": 0.55,
+        "error": 0.39559999999999995
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.39149999999999996
+      },
+      {
+        "lambda": 0.65,
+        "error": 0.3912
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.39049999999999996
+      }
+    ],
+    "collapse_trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.7911
+      },
+      {
+        "lambda": 0.65,
+        "error": 0.7859
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.7824
+      },
+      {
+        "lambda": 0.55,
+        "error": 0.7831
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.7784
+      },
+      {
+        "lambda": 0.45,
+        "error": 0.7754
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.7746
+      },
+      {
+        "lambda": 0.35,
+        "error": 0.772
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.7716000000000001
+      }
+    ],
+    "time_seconds": 1303.5118525028229,
+    "experiment_id": "V4-seed00"
+  },
+  {
+    "seed": 1,
+    "dataset": "CIFAR-100",
+    "num_classes": 100,
+    "ordered_init_error": 0.4043,
+    "collapse_init_error": 0.8176,
+    "ordered_trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.40249999999999997
+      },
+      {
+        "lambda": 0.35,
+        "error": 0.40169999999999995
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.3983
+      },
+      {
+        "lambda": 0.45,
+        "error": 0.3991
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.3974
+      },
+      {
+        "lambda": 0.55,
+        "error": 0.3972
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.39370000000000005
+      },
+      {
+        "lambda": 0.65,
+        "error": 0.3973
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.3951
+      }
+    ],
+    "collapse_trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.8144
+      },
+      {
+        "lambda": 0.65,
+        "error": 0.8114
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.8121
+      },
+      {
+        "lambda": 0.55,
+        "error": 0.8061
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.8033
+      },
+      {
+        "lambda": 0.45,
+        "error": 0.8027
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.8017
+      },
+      {
+        "lambda": 0.35,
+        "error": 0.7974
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.7954
+      }
+    ],
+    "time_seconds": 1305.3627631664276,
+    "experiment_id": "V4-seed01"
+  },
+  {
+    "seed": 2,
+    "dataset": "CIFAR-100",
+    "num_classes": 100,
+    "ordered_init_error": 0.4072,
+    "collapse_init_error": 0.8423,
+    "ordered_trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.40690000000000004
+      },
+      {
+        "lambda": 0.35,
+        "error": 0.4053
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.4041
+      },
+      {
+        "lambda": 0.45,
+        "error": 0.40149999999999997
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.4032
+      },
+      {
+        "lambda": 0.55,
+        "error": 0.3992
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.39990000000000003
+      },
+      {
+        "lambda": 0.65,
+        "error": 0.40069999999999995
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.40249999999999997
+      }
+    ],
+    "collapse_trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.8435
+      },
+      {
+        "lambda": 0.65,
+        "error": 0.8408
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.8378
+      },
+      {
+        "lambda": 0.55,
+        "error": 0.8345
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.8341000000000001
+      },
+      {
+        "lambda": 0.45,
+        "error": 0.8335
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.8311
+      },
+      {
+        "lambda": 0.35,
+        "error": 0.8286
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.8284
+      }
+    ],
+    "time_seconds": 1313.7999670505524,
+    "experiment_id": "V4-seed02"
+  }
+]

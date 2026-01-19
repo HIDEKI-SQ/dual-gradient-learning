@@ -1,0 +1,30 @@
+{
+  "experiment": "exp_P2_architecture_vgg_cnn",
+  "timestamp": "20260114_000021",
+  "description": "VGG11/SimpleCNN with lr=0.01 (re-experiment)",
+  "parameters": {
+    "models": [
+      "VGG11",
+      "SimpleCNN"
+    ],
+    "lambdas": [
+      0.15,
+      0.25,
+      0.35,
+      0.45,
+      0.55,
+      0.65
+    ],
+    "noise_rate": 0.4,
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "epochs": 100,
+    "batch_size": 256,
+    "lr": 0.01,
+    "K": 16
+  },
+  "total_runs": 36
+}

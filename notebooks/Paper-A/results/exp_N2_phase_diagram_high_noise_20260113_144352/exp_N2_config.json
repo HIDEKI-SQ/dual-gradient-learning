@@ -1,0 +1,34 @@
+{
+  "experiment": "exp_N2_phase_diagram_high_noise",
+  "timestamp": "20260113_144352",
+  "description": "2D phase diagram - high noise rates (eta=0.6, 0.8)",
+  "parameters": {
+    "lambdas": [
+      0.2,
+      0.3,
+      0.35,
+      0.4,
+      0.45,
+      0.5,
+      0.6
+    ],
+    "noise_rates": [
+      0.6,
+      0.8
+    ],
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "epochs": 100,
+    "batch_size": 256,
+    "lr": 0.1,
+    "K": 16
+  },
+  "total_runs": 70,
+  "series": "N (2D phase diagram)",
+  "part": "2 of 2 (high noise)"
+}

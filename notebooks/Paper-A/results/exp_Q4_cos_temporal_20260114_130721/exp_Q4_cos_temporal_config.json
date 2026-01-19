@@ -1,0 +1,30 @@
+{
+  "experiment": "exp_Q4_cos_temporal",
+  "description": "Cosine temporal evolution: detailed logging of cos dynamics",
+  "parameters": {
+    "noise_lambda_map": {
+      "0.4": {
+        "0.35": "ordered",
+        "0.48": "critical",
+        "0.6": "collapse"
+      },
+      "0.8": {
+        "0.35": "ordered",
+        "0.44": "critical",
+        "0.55": "collapse"
+      }
+    },
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "epochs": 100,
+    "batch_size": 256,
+    "lr": 0.1,
+    "K": 16
+  },
+  "total_runs": 30
+}

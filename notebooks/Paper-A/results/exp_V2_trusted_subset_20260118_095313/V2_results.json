@@ -1,0 +1,650 @@
+[
+  {
+    "seed": 0,
+    "trusted_ratio": 0.01,
+    "branch": "ordered_up",
+    "init_error": 0.33520000000000005,
+    "final_error": 0.3318,
+    "trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.3348
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.3304
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.3318
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.3266
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.32820000000000005
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.3266
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.3248
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.32489999999999997
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.32999999999999996
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.32989999999999997
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.3318
+      }
+    ],
+    "experiment_id": "V2-tr01-ord-s0"
+  },
+  {
+    "seed": 100,
+    "trusted_ratio": 0.01,
+    "branch": "collapse_down",
+    "init_error": 0.9,
+    "final_error": 0.9,
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.9
+      }
+    ],
+    "experiment_id": "V2-tr01-col-s0"
+  },
+  {
+    "seed": 1,
+    "trusted_ratio": 0.01,
+    "branch": "ordered_up",
+    "init_error": 0.3456,
+    "final_error": 0.33999999999999997,
+    "trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.3448
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.3407
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.34309999999999996
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.33940000000000003
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.3418
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.33299999999999996
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.3377
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.34019999999999995
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.33909999999999996
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.34309999999999996
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.33999999999999997
+      }
+    ],
+    "experiment_id": "V2-tr01-ord-s1"
+  },
+  {
+    "seed": 101,
+    "trusted_ratio": 0.01,
+    "branch": "collapse_down",
+    "init_error": 0.9,
+    "final_error": 0.9,
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.9
+      }
+    ],
+    "experiment_id": "V2-tr01-col-s1"
+  },
+  {
+    "seed": 2,
+    "trusted_ratio": 0.01,
+    "branch": "ordered_up",
+    "init_error": 0.3387,
+    "final_error": 0.33399999999999996,
+    "trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.33899999999999997
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.33830000000000005
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.3438
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.3355
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.33220000000000005
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.33220000000000005
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.3377
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.3358
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.3327
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.3319
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.33399999999999996
+      }
+    ],
+    "experiment_id": "V2-tr01-ord-s2"
+  },
+  {
+    "seed": 102,
+    "trusted_ratio": 0.01,
+    "branch": "collapse_down",
+    "init_error": 0.7706999999999999,
+    "final_error": 0.7345999999999999,
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.7683
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.8207
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.7705
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.767
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.7906
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.7657
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.7653
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.7629
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.7433000000000001
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.7416
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.7345999999999999
+      }
+    ],
+    "experiment_id": "V2-tr01-col-s2"
+  },
+  {
+    "seed": 0,
+    "trusted_ratio": 0.05,
+    "branch": "ordered_up",
+    "init_error": 0.2601,
+    "final_error": 0.2519,
+    "trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.2549
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.2572
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.25449999999999995
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.2522
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.25039999999999996
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.2521
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.25070000000000003
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.25129999999999997
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.2479
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.25239999999999996
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.2519
+      }
+    ],
+    "experiment_id": "V2-tr05-ord-s0"
+  },
+  {
+    "seed": 100,
+    "trusted_ratio": 0.05,
+    "branch": "collapse_down",
+    "init_error": 0.9,
+    "final_error": 0.9,
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.9
+      }
+    ],
+    "experiment_id": "V2-tr05-col-s0"
+  },
+  {
+    "seed": 1,
+    "trusted_ratio": 0.05,
+    "branch": "ordered_up",
+    "init_error": 0.262,
+    "final_error": 0.2599,
+    "trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.25980000000000003
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.25739999999999996
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.25460000000000005
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.25349999999999995
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.25470000000000004
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.25060000000000004
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.2522
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.25429999999999997
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.25860000000000005
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.25660000000000005
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.2599
+      }
+    ],
+    "experiment_id": "V2-tr05-ord-s1"
+  },
+  {
+    "seed": 101,
+    "trusted_ratio": 0.05,
+    "branch": "collapse_down",
+    "init_error": 0.9,
+    "final_error": 0.9,
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.9
+      }
+    ],
+    "experiment_id": "V2-tr05-col-s1"
+  },
+  {
+    "seed": 2,
+    "trusted_ratio": 0.05,
+    "branch": "ordered_up",
+    "init_error": 0.26680000000000004,
+    "final_error": 0.25270000000000004,
+    "trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.2639
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.2622
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.2592
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.25560000000000005
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.25649999999999995
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.2521
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.25670000000000004
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.2572
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.25539999999999996
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.2541
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.25270000000000004
+      }
+    ],
+    "experiment_id": "V2-tr05-ord-s2"
+  },
+  {
+    "seed": 102,
+    "trusted_ratio": 0.05,
+    "branch": "collapse_down",
+    "init_error": 0.9,
+    "final_error": 0.9,
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.9
+      }
+    ],
+    "experiment_id": "V2-tr05-col-s2"
+  }
+]

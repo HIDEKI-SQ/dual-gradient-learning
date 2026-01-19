@@ -1,0 +1,5306 @@
+[
+  {
+    "experiment_id": "S2g-0.40-000",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 0,
+    "final_error": 0.23250000000000004,
+    "avg_cos": -0.4357407256506314,
+    "phase": "intermediate",
+    "time": 621.7089807987213,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7602
+      },
+      {
+        "epoch": 20,
+        "error": 0.6778
+      },
+      {
+        "epoch": 30,
+        "error": 0.5736
+      },
+      {
+        "epoch": 40,
+        "error": 0.5634
+      },
+      {
+        "epoch": 50,
+        "error": 0.4595
+      },
+      {
+        "epoch": 60,
+        "error": 0.3032
+      },
+      {
+        "epoch": 70,
+        "error": 0.26949999999999996
+      },
+      {
+        "epoch": 80,
+        "error": 0.23729999999999996
+      },
+      {
+        "epoch": 90,
+        "error": 0.23119999999999996
+      },
+      {
+        "epoch": 100,
+        "error": 0.23250000000000004
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-001",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 1,
+    "final_error": 0.21940000000000004,
+    "avg_cos": -0.43433719907640195,
+    "phase": "intermediate",
+    "time": 627.712522983551,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7458
+      },
+      {
+        "epoch": 20,
+        "error": 0.6607000000000001
+      },
+      {
+        "epoch": 30,
+        "error": 0.5804
+      },
+      {
+        "epoch": 40,
+        "error": 0.5166999999999999
+      },
+      {
+        "epoch": 50,
+        "error": 0.41569999999999996
+      },
+      {
+        "epoch": 60,
+        "error": 0.2945
+      },
+      {
+        "epoch": 70,
+        "error": 0.254
+      },
+      {
+        "epoch": 80,
+        "error": 0.2278
+      },
+      {
+        "epoch": 90,
+        "error": 0.22609999999999997
+      },
+      {
+        "epoch": 100,
+        "error": 0.21940000000000004
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-002",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 2,
+    "final_error": 0.24229999999999996,
+    "avg_cos": -0.4326627011833015,
+    "phase": "intermediate",
+    "time": 625.4301495552063,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7242
+      },
+      {
+        "epoch": 20,
+        "error": 0.7228
+      },
+      {
+        "epoch": 30,
+        "error": 0.6148
+      },
+      {
+        "epoch": 40,
+        "error": 0.6605
+      },
+      {
+        "epoch": 50,
+        "error": 0.47609999999999997
+      },
+      {
+        "epoch": 60,
+        "error": 0.30900000000000005
+      },
+      {
+        "epoch": 70,
+        "error": 0.2761
+      },
+      {
+        "epoch": 80,
+        "error": 0.2489
+      },
+      {
+        "epoch": 90,
+        "error": 0.24570000000000003
+      },
+      {
+        "epoch": 100,
+        "error": 0.24229999999999996
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-003",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 3,
+    "final_error": 0.2116,
+    "avg_cos": -0.4334154181440162,
+    "phase": "intermediate",
+    "time": 621.6975772380829,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.6278
+      },
+      {
+        "epoch": 20,
+        "error": 0.6362
+      },
+      {
+        "epoch": 30,
+        "error": 0.5749
+      },
+      {
+        "epoch": 40,
+        "error": 0.5868
+      },
+      {
+        "epoch": 50,
+        "error": 0.44589999999999996
+      },
+      {
+        "epoch": 60,
+        "error": 0.25849999999999995
+      },
+      {
+        "epoch": 70,
+        "error": 0.25139999999999996
+      },
+      {
+        "epoch": 80,
+        "error": 0.21740000000000004
+      },
+      {
+        "epoch": 90,
+        "error": 0.21350000000000002
+      },
+      {
+        "epoch": 100,
+        "error": 0.2116
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-004",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 4,
+    "final_error": 0.28459999999999996,
+    "avg_cos": -0.4230670086784782,
+    "phase": "intermediate",
+    "time": 621.7133996486664,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7786
+      },
+      {
+        "epoch": 20,
+        "error": 0.743
+      },
+      {
+        "epoch": 30,
+        "error": 0.6337999999999999
+      },
+      {
+        "epoch": 40,
+        "error": 0.6598999999999999
+      },
+      {
+        "epoch": 50,
+        "error": 0.5019
+      },
+      {
+        "epoch": 60,
+        "error": 0.36450000000000005
+      },
+      {
+        "epoch": 70,
+        "error": 0.3349
+      },
+      {
+        "epoch": 80,
+        "error": 0.29469999999999996
+      },
+      {
+        "epoch": 90,
+        "error": 0.29100000000000004
+      },
+      {
+        "epoch": 100,
+        "error": 0.28459999999999996
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-005",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 5,
+    "final_error": 0.21740000000000004,
+    "avg_cos": -0.4357059195609668,
+    "phase": "intermediate",
+    "time": 621.7920942306519,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7081
+      },
+      {
+        "epoch": 20,
+        "error": 0.6484
+      },
+      {
+        "epoch": 30,
+        "error": 0.6192
+      },
+      {
+        "epoch": 40,
+        "error": 0.5058
+      },
+      {
+        "epoch": 50,
+        "error": 0.4283
+      },
+      {
+        "epoch": 60,
+        "error": 0.2669
+      },
+      {
+        "epoch": 70,
+        "error": 0.247
+      },
+      {
+        "epoch": 80,
+        "error": 0.2239
+      },
+      {
+        "epoch": 90,
+        "error": 0.22030000000000005
+      },
+      {
+        "epoch": 100,
+        "error": 0.21740000000000004
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-006",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 6,
+    "final_error": 0.21430000000000005,
+    "avg_cos": -0.4357270023637874,
+    "phase": "intermediate",
+    "time": 635.4158744812012,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7404999999999999
+      },
+      {
+        "epoch": 20,
+        "error": 0.7275
+      },
+      {
+        "epoch": 30,
+        "error": 0.6141
+      },
+      {
+        "epoch": 40,
+        "error": 0.5525
+      },
+      {
+        "epoch": 50,
+        "error": 0.43479999999999996
+      },
+      {
+        "epoch": 60,
+        "error": 0.2845
+      },
+      {
+        "epoch": 70,
+        "error": 0.2531
+      },
+      {
+        "epoch": 80,
+        "error": 0.22199999999999998
+      },
+      {
+        "epoch": 90,
+        "error": 0.21709999999999996
+      },
+      {
+        "epoch": 100,
+        "error": 0.21430000000000005
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-007",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 7,
+    "final_error": 0.24150000000000005,
+    "avg_cos": -0.43893324237622133,
+    "phase": "intermediate",
+    "time": 625.7060849666595,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7653
+      },
+      {
+        "epoch": 20,
+        "error": 0.7171000000000001
+      },
+      {
+        "epoch": 30,
+        "error": 0.642
+      },
+      {
+        "epoch": 40,
+        "error": 0.5135000000000001
+      },
+      {
+        "epoch": 50,
+        "error": 0.48150000000000004
+      },
+      {
+        "epoch": 60,
+        "error": 0.30889999999999995
+      },
+      {
+        "epoch": 70,
+        "error": 0.28969999999999996
+      },
+      {
+        "epoch": 80,
+        "error": 0.2552
+      },
+      {
+        "epoch": 90,
+        "error": 0.24739999999999995
+      },
+      {
+        "epoch": 100,
+        "error": 0.24150000000000005
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-008",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 8,
+    "final_error": 0.21799999999999997,
+    "avg_cos": -0.4537186895778559,
+    "phase": "intermediate",
+    "time": 622.238267660141,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7556
+      },
+      {
+        "epoch": 20,
+        "error": 0.7293000000000001
+      },
+      {
+        "epoch": 30,
+        "error": 0.5529999999999999
+      },
+      {
+        "epoch": 40,
+        "error": 0.5674
+      },
+      {
+        "epoch": 50,
+        "error": 0.41800000000000004
+      },
+      {
+        "epoch": 60,
+        "error": 0.2722
+      },
+      {
+        "epoch": 70,
+        "error": 0.25370000000000004
+      },
+      {
+        "epoch": 80,
+        "error": 0.22840000000000005
+      },
+      {
+        "epoch": 90,
+        "error": 0.22450000000000003
+      },
+      {
+        "epoch": 100,
+        "error": 0.21799999999999997
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-009",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 9,
+    "final_error": 0.24529999999999996,
+    "avg_cos": -0.4246264904494664,
+    "phase": "intermediate",
+    "time": 622.4154398441315,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7565
+      },
+      {
+        "epoch": 20,
+        "error": 0.7028
+      },
+      {
+        "epoch": 30,
+        "error": 0.6073999999999999
+      },
+      {
+        "epoch": 40,
+        "error": 0.616
+      },
+      {
+        "epoch": 50,
+        "error": 0.5391
+      },
+      {
+        "epoch": 60,
+        "error": 0.3195
+      },
+      {
+        "epoch": 70,
+        "error": 0.2825
+      },
+      {
+        "epoch": 80,
+        "error": 0.25970000000000004
+      },
+      {
+        "epoch": 90,
+        "error": 0.24919999999999998
+      },
+      {
+        "epoch": 100,
+        "error": 0.24529999999999996
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-010",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 10,
+    "final_error": 0.2227,
+    "avg_cos": -0.43049033958698885,
+    "phase": "intermediate",
+    "time": 622.0886211395264,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.6972
+      },
+      {
+        "epoch": 20,
+        "error": 0.7537
+      },
+      {
+        "epoch": 30,
+        "error": 0.5972999999999999
+      },
+      {
+        "epoch": 40,
+        "error": 0.5624
+      },
+      {
+        "epoch": 50,
+        "error": 0.4867
+      },
+      {
+        "epoch": 60,
+        "error": 0.2982
+      },
+      {
+        "epoch": 70,
+        "error": 0.25880000000000003
+      },
+      {
+        "epoch": 80,
+        "error": 0.2318
+      },
+      {
+        "epoch": 90,
+        "error": 0.22799999999999998
+      },
+      {
+        "epoch": 100,
+        "error": 0.2227
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-011",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 11,
+    "final_error": 0.23299999999999998,
+    "avg_cos": -0.42753276572441584,
+    "phase": "intermediate",
+    "time": 622.0332779884338,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7381
+      },
+      {
+        "epoch": 20,
+        "error": 0.7626
+      },
+      {
+        "epoch": 30,
+        "error": 0.6436999999999999
+      },
+      {
+        "epoch": 40,
+        "error": 0.6443
+      },
+      {
+        "epoch": 50,
+        "error": 0.49729999999999996
+      },
+      {
+        "epoch": 60,
+        "error": 0.3056
+      },
+      {
+        "epoch": 70,
+        "error": 0.2683
+      },
+      {
+        "epoch": 80,
+        "error": 0.24580000000000002
+      },
+      {
+        "epoch": 90,
+        "error": 0.23950000000000005
+      },
+      {
+        "epoch": 100,
+        "error": 0.23299999999999998
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-012",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 12,
+    "final_error": 0.2722,
+    "avg_cos": -0.4299381070568853,
+    "phase": "intermediate",
+    "time": 622.2776064872742,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7211000000000001
+      },
+      {
+        "epoch": 20,
+        "error": 0.7304999999999999
+      },
+      {
+        "epoch": 30,
+        "error": 0.5944
+      },
+      {
+        "epoch": 40,
+        "error": 0.6682
+      },
+      {
+        "epoch": 50,
+        "error": 0.5004
+      },
+      {
+        "epoch": 60,
+        "error": 0.34340000000000004
+      },
+      {
+        "epoch": 70,
+        "error": 0.31889999999999996
+      },
+      {
+        "epoch": 80,
+        "error": 0.28469999999999995
+      },
+      {
+        "epoch": 90,
+        "error": 0.27780000000000005
+      },
+      {
+        "epoch": 100,
+        "error": 0.2722
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-013",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 13,
+    "final_error": 0.2098,
+    "avg_cos": -0.44628227245702873,
+    "phase": "intermediate",
+    "time": 622.1191487312317,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7169
+      },
+      {
+        "epoch": 20,
+        "error": 0.6317999999999999
+      },
+      {
+        "epoch": 30,
+        "error": 0.5288999999999999
+      },
+      {
+        "epoch": 40,
+        "error": 0.6544
+      },
+      {
+        "epoch": 50,
+        "error": 0.47650000000000003
+      },
+      {
+        "epoch": 60,
+        "error": 0.259
+      },
+      {
+        "epoch": 70,
+        "error": 0.2288
+      },
+      {
+        "epoch": 80,
+        "error": 0.21189999999999998
+      },
+      {
+        "epoch": 90,
+        "error": 0.2076
+      },
+      {
+        "epoch": 100,
+        "error": 0.2098
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-014",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 14,
+    "final_error": 0.21840000000000004,
+    "avg_cos": -0.44090722388339615,
+    "phase": "intermediate",
+    "time": 622.8133437633514,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.6937
+      },
+      {
+        "epoch": 20,
+        "error": 0.6778
+      },
+      {
+        "epoch": 30,
+        "error": 0.6443
+      },
+      {
+        "epoch": 40,
+        "error": 0.6081
+      },
+      {
+        "epoch": 50,
+        "error": 0.4185
+      },
+      {
+        "epoch": 60,
+        "error": 0.2711
+      },
+      {
+        "epoch": 70,
+        "error": 0.2449
+      },
+      {
+        "epoch": 80,
+        "error": 0.22240000000000004
+      },
+      {
+        "epoch": 90,
+        "error": 0.2198
+      },
+      {
+        "epoch": 100,
+        "error": 0.21840000000000004
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-015",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 15,
+    "final_error": 0.22829999999999995,
+    "avg_cos": -0.4359988248214478,
+    "phase": "intermediate",
+    "time": 622.3903164863586,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7176
+      },
+      {
+        "epoch": 20,
+        "error": 0.6805
+      },
+      {
+        "epoch": 30,
+        "error": 0.6133
+      },
+      {
+        "epoch": 40,
+        "error": 0.7030000000000001
+      },
+      {
+        "epoch": 50,
+        "error": 0.49539999999999995
+      },
+      {
+        "epoch": 60,
+        "error": 0.2931
+      },
+      {
+        "epoch": 70,
+        "error": 0.2602
+      },
+      {
+        "epoch": 80,
+        "error": 0.23360000000000003
+      },
+      {
+        "epoch": 90,
+        "error": 0.23060000000000003
+      },
+      {
+        "epoch": 100,
+        "error": 0.22829999999999995
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-016",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 16,
+    "final_error": 0.21650000000000003,
+    "avg_cos": -0.4412322698330343,
+    "phase": "intermediate",
+    "time": 622.1211309432983,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.6948
+      },
+      {
+        "epoch": 20,
+        "error": 0.6325000000000001
+      },
+      {
+        "epoch": 30,
+        "error": 0.5731999999999999
+      },
+      {
+        "epoch": 40,
+        "error": 0.5164
+      },
+      {
+        "epoch": 50,
+        "error": 0.41900000000000004
+      },
+      {
+        "epoch": 60,
+        "error": 0.2609
+      },
+      {
+        "epoch": 70,
+        "error": 0.25429999999999997
+      },
+      {
+        "epoch": 80,
+        "error": 0.22360000000000002
+      },
+      {
+        "epoch": 90,
+        "error": 0.21819999999999995
+      },
+      {
+        "epoch": 100,
+        "error": 0.21650000000000003
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-017",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 17,
+    "final_error": 0.23809999999999998,
+    "avg_cos": -0.4542452032634469,
+    "phase": "intermediate",
+    "time": 621.7117004394531,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7444999999999999
+      },
+      {
+        "epoch": 20,
+        "error": 0.7531
+      },
+      {
+        "epoch": 30,
+        "error": 0.6406000000000001
+      },
+      {
+        "epoch": 40,
+        "error": 0.49739999999999995
+      },
+      {
+        "epoch": 50,
+        "error": 0.5017
+      },
+      {
+        "epoch": 60,
+        "error": 0.3084
+      },
+      {
+        "epoch": 70,
+        "error": 0.2704
+      },
+      {
+        "epoch": 80,
+        "error": 0.24880000000000002
+      },
+      {
+        "epoch": 90,
+        "error": 0.24339999999999995
+      },
+      {
+        "epoch": 100,
+        "error": 0.23809999999999998
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-018",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 18,
+    "final_error": 0.20850000000000002,
+    "avg_cos": -0.4381571332076611,
+    "phase": "intermediate",
+    "time": 622.265771150589,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.6476999999999999
+      },
+      {
+        "epoch": 20,
+        "error": 0.6609
+      },
+      {
+        "epoch": 30,
+        "error": 0.5295000000000001
+      },
+      {
+        "epoch": 40,
+        "error": 0.5191
+      },
+      {
+        "epoch": 50,
+        "error": 0.4383
+      },
+      {
+        "epoch": 60,
+        "error": 0.2583
+      },
+      {
+        "epoch": 70,
+        "error": 0.23309999999999997
+      },
+      {
+        "epoch": 80,
+        "error": 0.21140000000000003
+      },
+      {
+        "epoch": 90,
+        "error": 0.2087
+      },
+      {
+        "epoch": 100,
+        "error": 0.20850000000000002
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-019",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 19,
+    "final_error": 0.23929999999999996,
+    "avg_cos": -0.44766972189274973,
+    "phase": "intermediate",
+    "time": 622.0405049324036,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7303999999999999
+      },
+      {
+        "epoch": 20,
+        "error": 0.7114
+      },
+      {
+        "epoch": 30,
+        "error": 0.6374
+      },
+      {
+        "epoch": 40,
+        "error": 0.5781000000000001
+      },
+      {
+        "epoch": 50,
+        "error": 0.5085
+      },
+      {
+        "epoch": 60,
+        "error": 0.3113
+      },
+      {
+        "epoch": 70,
+        "error": 0.28369999999999995
+      },
+      {
+        "epoch": 80,
+        "error": 0.2528
+      },
+      {
+        "epoch": 90,
+        "error": 0.245
+      },
+      {
+        "epoch": 100,
+        "error": 0.23929999999999996
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-020",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 20,
+    "final_error": 0.20009999999999994,
+    "avg_cos": -0.43081364975121983,
+    "phase": "intermediate",
+    "time": 621.5257368087769,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7214
+      },
+      {
+        "epoch": 20,
+        "error": 0.6718999999999999
+      },
+      {
+        "epoch": 30,
+        "error": 0.5094000000000001
+      },
+      {
+        "epoch": 40,
+        "error": 0.5848
+      },
+      {
+        "epoch": 50,
+        "error": 0.42410000000000003
+      },
+      {
+        "epoch": 60,
+        "error": 0.2542
+      },
+      {
+        "epoch": 70,
+        "error": 0.23909999999999998
+      },
+      {
+        "epoch": 80,
+        "error": 0.20909999999999995
+      },
+      {
+        "epoch": 90,
+        "error": 0.20220000000000005
+      },
+      {
+        "epoch": 100,
+        "error": 0.20009999999999994
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-021",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 21,
+    "final_error": 0.22099999999999997,
+    "avg_cos": -0.43581714902415264,
+    "phase": "intermediate",
+    "time": 621.9522092342377,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.6740999999999999
+      },
+      {
+        "epoch": 20,
+        "error": 0.6804
+      },
+      {
+        "epoch": 30,
+        "error": 0.5517000000000001
+      },
+      {
+        "epoch": 40,
+        "error": 0.5048
+      },
+      {
+        "epoch": 50,
+        "error": 0.43379999999999996
+      },
+      {
+        "epoch": 60,
+        "error": 0.2752
+      },
+      {
+        "epoch": 70,
+        "error": 0.2542
+      },
+      {
+        "epoch": 80,
+        "error": 0.23099999999999998
+      },
+      {
+        "epoch": 90,
+        "error": 0.22230000000000005
+      },
+      {
+        "epoch": 100,
+        "error": 0.22099999999999997
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-022",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 22,
+    "final_error": 0.21099999999999997,
+    "avg_cos": -0.4339798329452561,
+    "phase": "intermediate",
+    "time": 617.3882896900177,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.6743
+      },
+      {
+        "epoch": 20,
+        "error": 0.5867
+      },
+      {
+        "epoch": 30,
+        "error": 0.5265
+      },
+      {
+        "epoch": 40,
+        "error": 0.5544
+      },
+      {
+        "epoch": 50,
+        "error": 0.4295
+      },
+      {
+        "epoch": 60,
+        "error": 0.26349999999999996
+      },
+      {
+        "epoch": 70,
+        "error": 0.24550000000000005
+      },
+      {
+        "epoch": 80,
+        "error": 0.21499999999999997
+      },
+      {
+        "epoch": 90,
+        "error": 0.21220000000000006
+      },
+      {
+        "epoch": 100,
+        "error": 0.21099999999999997
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-023",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 23,
+    "final_error": 0.23839999999999995,
+    "avg_cos": -0.4276929953883222,
+    "phase": "intermediate",
+    "time": 614.8472702503204,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.742
+      },
+      {
+        "epoch": 20,
+        "error": 0.6846
+      },
+      {
+        "epoch": 30,
+        "error": 0.622
+      },
+      {
+        "epoch": 40,
+        "error": 0.5434
+      },
+      {
+        "epoch": 50,
+        "error": 0.49139999999999995
+      },
+      {
+        "epoch": 60,
+        "error": 0.31489999999999996
+      },
+      {
+        "epoch": 70,
+        "error": 0.2864
+      },
+      {
+        "epoch": 80,
+        "error": 0.251
+      },
+      {
+        "epoch": 90,
+        "error": 0.24339999999999995
+      },
+      {
+        "epoch": 100,
+        "error": 0.23839999999999995
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-024",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 24,
+    "final_error": 0.20330000000000004,
+    "avg_cos": -0.43481348692491756,
+    "phase": "intermediate",
+    "time": 631.0027279853821,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7196
+      },
+      {
+        "epoch": 20,
+        "error": 0.6675
+      },
+      {
+        "epoch": 30,
+        "error": 0.531
+      },
+      {
+        "epoch": 40,
+        "error": 0.49739999999999995
+      },
+      {
+        "epoch": 50,
+        "error": 0.49660000000000004
+      },
+      {
+        "epoch": 60,
+        "error": 0.247
+      },
+      {
+        "epoch": 70,
+        "error": 0.244
+      },
+      {
+        "epoch": 80,
+        "error": 0.2116
+      },
+      {
+        "epoch": 90,
+        "error": 0.20809999999999995
+      },
+      {
+        "epoch": 100,
+        "error": 0.20330000000000004
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-025",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 25,
+    "final_error": 0.2227,
+    "avg_cos": -0.43002651467406167,
+    "phase": "intermediate",
+    "time": 616.5906937122345,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7053
+      },
+      {
+        "epoch": 20,
+        "error": 0.6673
+      },
+      {
+        "epoch": 30,
+        "error": 0.5563
+      },
+      {
+        "epoch": 40,
+        "error": 0.6243000000000001
+      },
+      {
+        "epoch": 50,
+        "error": 0.43589999999999995
+      },
+      {
+        "epoch": 60,
+        "error": 0.27349999999999997
+      },
+      {
+        "epoch": 70,
+        "error": 0.25880000000000003
+      },
+      {
+        "epoch": 80,
+        "error": 0.22970000000000002
+      },
+      {
+        "epoch": 90,
+        "error": 0.22709999999999997
+      },
+      {
+        "epoch": 100,
+        "error": 0.2227
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-026",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 26,
+    "final_error": 0.24239999999999995,
+    "avg_cos": -0.4366078048315356,
+    "phase": "intermediate",
+    "time": 615.7559051513672,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7156
+      },
+      {
+        "epoch": 20,
+        "error": 0.6932
+      },
+      {
+        "epoch": 30,
+        "error": 0.5643
+      },
+      {
+        "epoch": 40,
+        "error": 0.5811
+      },
+      {
+        "epoch": 50,
+        "error": 0.5863
+      },
+      {
+        "epoch": 60,
+        "error": 0.3123
+      },
+      {
+        "epoch": 70,
+        "error": 0.28180000000000005
+      },
+      {
+        "epoch": 80,
+        "error": 0.2508
+      },
+      {
+        "epoch": 90,
+        "error": 0.24380000000000002
+      },
+      {
+        "epoch": 100,
+        "error": 0.24239999999999995
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-027",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 27,
+    "final_error": 0.22970000000000002,
+    "avg_cos": -0.44640010548762654,
+    "phase": "intermediate",
+    "time": 615.2547478675842,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.6933
+      },
+      {
+        "epoch": 20,
+        "error": 0.8018000000000001
+      },
+      {
+        "epoch": 30,
+        "error": 0.6172
+      },
+      {
+        "epoch": 40,
+        "error": 0.5582
+      },
+      {
+        "epoch": 50,
+        "error": 0.4645
+      },
+      {
+        "epoch": 60,
+        "error": 0.2855
+      },
+      {
+        "epoch": 70,
+        "error": 0.254
+      },
+      {
+        "epoch": 80,
+        "error": 0.23729999999999996
+      },
+      {
+        "epoch": 90,
+        "error": 0.2298
+      },
+      {
+        "epoch": 100,
+        "error": 0.22970000000000002
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-028",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 28,
+    "final_error": 0.21419999999999995,
+    "avg_cos": -0.4339933814395014,
+    "phase": "intermediate",
+    "time": 615.2436630725861,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7094
+      },
+      {
+        "epoch": 20,
+        "error": 0.6668000000000001
+      },
+      {
+        "epoch": 30,
+        "error": 0.6146
+      },
+      {
+        "epoch": 40,
+        "error": 0.5364
+      },
+      {
+        "epoch": 50,
+        "error": 0.48129999999999995
+      },
+      {
+        "epoch": 60,
+        "error": 0.27049999999999996
+      },
+      {
+        "epoch": 70,
+        "error": 0.24529999999999996
+      },
+      {
+        "epoch": 80,
+        "error": 0.22399999999999998
+      },
+      {
+        "epoch": 90,
+        "error": 0.2197
+      },
+      {
+        "epoch": 100,
+        "error": 0.21419999999999995
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-029",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 29,
+    "final_error": 0.21419999999999995,
+    "avg_cos": -0.44034439863529584,
+    "phase": "intermediate",
+    "time": 617.7128210067749,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.6607000000000001
+      },
+      {
+        "epoch": 20,
+        "error": 0.6638999999999999
+      },
+      {
+        "epoch": 30,
+        "error": 0.5648
+      },
+      {
+        "epoch": 40,
+        "error": 0.5619000000000001
+      },
+      {
+        "epoch": 50,
+        "error": 0.4223
+      },
+      {
+        "epoch": 60,
+        "error": 0.26839999999999997
+      },
+      {
+        "epoch": 70,
+        "error": 0.23829999999999996
+      },
+      {
+        "epoch": 80,
+        "error": 0.22140000000000004
+      },
+      {
+        "epoch": 90,
+        "error": 0.2138
+      },
+      {
+        "epoch": 100,
+        "error": 0.21419999999999995
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-030",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 30,
+    "final_error": 0.20230000000000004,
+    "avg_cos": -0.43399563068942143,
+    "phase": "intermediate",
+    "time": 617.7571940422058,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.6672
+      },
+      {
+        "epoch": 20,
+        "error": 0.6845
+      },
+      {
+        "epoch": 30,
+        "error": 0.5401
+      },
+      {
+        "epoch": 40,
+        "error": 0.5329999999999999
+      },
+      {
+        "epoch": 50,
+        "error": 0.44889999999999997
+      },
+      {
+        "epoch": 60,
+        "error": 0.25939999999999996
+      },
+      {
+        "epoch": 70,
+        "error": 0.23040000000000005
+      },
+      {
+        "epoch": 80,
+        "error": 0.21299999999999997
+      },
+      {
+        "epoch": 90,
+        "error": 0.20420000000000005
+      },
+      {
+        "epoch": 100,
+        "error": 0.20230000000000004
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-031",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 31,
+    "final_error": 0.21050000000000002,
+    "avg_cos": -0.4403897791942082,
+    "phase": "intermediate",
+    "time": 616.9138975143433,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7488
+      },
+      {
+        "epoch": 20,
+        "error": 0.6913
+      },
+      {
+        "epoch": 30,
+        "error": 0.5267
+      },
+      {
+        "epoch": 40,
+        "error": 0.6740999999999999
+      },
+      {
+        "epoch": 50,
+        "error": 0.43320000000000003
+      },
+      {
+        "epoch": 60,
+        "error": 0.25660000000000005
+      },
+      {
+        "epoch": 70,
+        "error": 0.23750000000000004
+      },
+      {
+        "epoch": 80,
+        "error": 0.21909999999999996
+      },
+      {
+        "epoch": 90,
+        "error": 0.21209999999999996
+      },
+      {
+        "epoch": 100,
+        "error": 0.21050000000000002
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-032",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 32,
+    "final_error": 0.22599999999999998,
+    "avg_cos": -0.453800632454923,
+    "phase": "intermediate",
+    "time": 619.0235123634338,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7448
+      },
+      {
+        "epoch": 20,
+        "error": 0.6589
+      },
+      {
+        "epoch": 30,
+        "error": 0.6585
+      },
+      {
+        "epoch": 40,
+        "error": 0.5845
+      },
+      {
+        "epoch": 50,
+        "error": 0.4578
+      },
+      {
+        "epoch": 60,
+        "error": 0.2723
+      },
+      {
+        "epoch": 70,
+        "error": 0.253
+      },
+      {
+        "epoch": 80,
+        "error": 0.23140000000000005
+      },
+      {
+        "epoch": 90,
+        "error": 0.2258
+      },
+      {
+        "epoch": 100,
+        "error": 0.22599999999999998
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.40-033",
+    "eta": 0.8,
+    "lambda": 0.4,
+    "seed": 33,
+    "final_error": 0.24209999999999998,
+    "avg_cos": -0.429044213273654,
+    "phase": "intermediate",
+    "time": 618.2875907421112,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7385999999999999
+      },
+      {
+        "epoch": 20,
+        "error": 0.7453000000000001
+      },
+      {
+        "epoch": 30,
+        "error": 0.6368
+      },
+      {
+        "epoch": 40,
+        "error": 0.6686000000000001
+      },
+      {
+        "epoch": 50,
+        "error": 0.43899999999999995
+      },
+      {
+        "epoch": 60,
+        "error": 0.31999999999999995
+      },
+      {
+        "epoch": 70,
+        "error": 0.2875
+      },
+      {
+        "epoch": 80,
+        "error": 0.2521
+      },
+      {
+        "epoch": 90,
+        "error": 0.2429
+      },
+      {
+        "epoch": 100,
+        "error": 0.24209999999999998
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-000",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 0,
+    "final_error": 0.29710000000000003,
+    "avg_cos": -0.4034393395733906,
+    "phase": "intermediate",
+    "time": 618.3270013332367,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7744
+      },
+      {
+        "epoch": 20,
+        "error": 0.7471
+      },
+      {
+        "epoch": 30,
+        "error": 0.6774
+      },
+      {
+        "epoch": 40,
+        "error": 0.6809000000000001
+      },
+      {
+        "epoch": 50,
+        "error": 0.5872999999999999
+      },
+      {
+        "epoch": 60,
+        "error": 0.38380000000000003
+      },
+      {
+        "epoch": 70,
+        "error": 0.35050000000000003
+      },
+      {
+        "epoch": 80,
+        "error": 0.3096
+      },
+      {
+        "epoch": 90,
+        "error": 0.30289999999999995
+      },
+      {
+        "epoch": 100,
+        "error": 0.29710000000000003
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-001",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 1,
+    "final_error": 0.32489999999999997,
+    "avg_cos": -0.3820529360424048,
+    "phase": "intermediate",
+    "time": 618.0974218845367,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7541
+      },
+      {
+        "epoch": 20,
+        "error": 0.823
+      },
+      {
+        "epoch": 30,
+        "error": 0.6787000000000001
+      },
+      {
+        "epoch": 40,
+        "error": 0.7014
+      },
+      {
+        "epoch": 50,
+        "error": 0.6672
+      },
+      {
+        "epoch": 60,
+        "error": 0.49350000000000005
+      },
+      {
+        "epoch": 70,
+        "error": 0.4155
+      },
+      {
+        "epoch": 80,
+        "error": 0.3468
+      },
+      {
+        "epoch": 90,
+        "error": 0.3399
+      },
+      {
+        "epoch": 100,
+        "error": 0.32489999999999997
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-002",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 2,
+    "final_error": 0.3012,
+    "avg_cos": -0.44465754993107254,
+    "phase": "intermediate",
+    "time": 615.8500306606293,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7581
+      },
+      {
+        "epoch": 20,
+        "error": 0.768
+      },
+      {
+        "epoch": 30,
+        "error": 0.6977
+      },
+      {
+        "epoch": 40,
+        "error": 0.7173
+      },
+      {
+        "epoch": 50,
+        "error": 0.5809
+      },
+      {
+        "epoch": 60,
+        "error": 0.41300000000000003
+      },
+      {
+        "epoch": 70,
+        "error": 0.3679
+      },
+      {
+        "epoch": 80,
+        "error": 0.3265
+      },
+      {
+        "epoch": 90,
+        "error": 0.3134
+      },
+      {
+        "epoch": 100,
+        "error": 0.3012
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-003",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 3,
+    "final_error": 0.4324,
+    "avg_cos": -0.35803673343111664,
+    "phase": "collapsed",
+    "time": 615.9169945716858,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8022
+      },
+      {
+        "epoch": 20,
+        "error": 0.7895
+      },
+      {
+        "epoch": 30,
+        "error": 0.7784
+      },
+      {
+        "epoch": 40,
+        "error": 0.8209
+      },
+      {
+        "epoch": 50,
+        "error": 0.777
+      },
+      {
+        "epoch": 60,
+        "error": 0.5999
+      },
+      {
+        "epoch": 70,
+        "error": 0.5689
+      },
+      {
+        "epoch": 80,
+        "error": 0.47119999999999995
+      },
+      {
+        "epoch": 90,
+        "error": 0.4535
+      },
+      {
+        "epoch": 100,
+        "error": 0.4324
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-004",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 4,
+    "final_error": 0.44530000000000003,
+    "avg_cos": -0.3185038715844251,
+    "phase": "collapsed",
+    "time": 615.5336356163025,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7661
+      },
+      {
+        "epoch": 20,
+        "error": 0.7574
+      },
+      {
+        "epoch": 30,
+        "error": 0.7562
+      },
+      {
+        "epoch": 40,
+        "error": 0.7539
+      },
+      {
+        "epoch": 50,
+        "error": 0.749
+      },
+      {
+        "epoch": 60,
+        "error": 0.6126
+      },
+      {
+        "epoch": 70,
+        "error": 0.5391
+      },
+      {
+        "epoch": 80,
+        "error": 0.4807
+      },
+      {
+        "epoch": 90,
+        "error": 0.46009999999999995
+      },
+      {
+        "epoch": 100,
+        "error": 0.44530000000000003
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-005",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 5,
+    "final_error": 0.38970000000000005,
+    "avg_cos": -0.34485973144002374,
+    "phase": "intermediate",
+    "time": 617.7179043292999,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8318
+      },
+      {
+        "epoch": 20,
+        "error": 0.8126
+      },
+      {
+        "epoch": 30,
+        "error": 0.7359
+      },
+      {
+        "epoch": 40,
+        "error": 0.7311000000000001
+      },
+      {
+        "epoch": 50,
+        "error": 0.7122999999999999
+      },
+      {
+        "epoch": 60,
+        "error": 0.6111
+      },
+      {
+        "epoch": 70,
+        "error": 0.4881
+      },
+      {
+        "epoch": 80,
+        "error": 0.4155
+      },
+      {
+        "epoch": 90,
+        "error": 0.39990000000000003
+      },
+      {
+        "epoch": 100,
+        "error": 0.38970000000000005
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-006",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 6,
+    "final_error": 0.27659999999999996,
+    "avg_cos": -0.4376807669954189,
+    "phase": "intermediate",
+    "time": 618.1706235408783,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7592
+      },
+      {
+        "epoch": 20,
+        "error": 0.8412999999999999
+      },
+      {
+        "epoch": 30,
+        "error": 0.7015
+      },
+      {
+        "epoch": 40,
+        "error": 0.5952999999999999
+      },
+      {
+        "epoch": 50,
+        "error": 0.5278
+      },
+      {
+        "epoch": 60,
+        "error": 0.38039999999999996
+      },
+      {
+        "epoch": 70,
+        "error": 0.33199999999999996
+      },
+      {
+        "epoch": 80,
+        "error": 0.29079999999999995
+      },
+      {
+        "epoch": 90,
+        "error": 0.281
+      },
+      {
+        "epoch": 100,
+        "error": 0.27659999999999996
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-007",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 7,
+    "final_error": 0.38370000000000004,
+    "avg_cos": -0.3256691864249534,
+    "phase": "intermediate",
+    "time": 618.7579009532928,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7727999999999999
+      },
+      {
+        "epoch": 20,
+        "error": 0.7645
+      },
+      {
+        "epoch": 30,
+        "error": 0.7101999999999999
+      },
+      {
+        "epoch": 40,
+        "error": 0.7735
+      },
+      {
+        "epoch": 50,
+        "error": 0.76
+      },
+      {
+        "epoch": 60,
+        "error": 0.5666
+      },
+      {
+        "epoch": 70,
+        "error": 0.49570000000000003
+      },
+      {
+        "epoch": 80,
+        "error": 0.41459999999999997
+      },
+      {
+        "epoch": 90,
+        "error": 0.39990000000000003
+      },
+      {
+        "epoch": 100,
+        "error": 0.38370000000000004
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-008",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 8,
+    "final_error": 0.3468,
+    "avg_cos": -0.4102489747489892,
+    "phase": "intermediate",
+    "time": 633.1254088878632,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8387
+      },
+      {
+        "epoch": 20,
+        "error": 0.753
+      },
+      {
+        "epoch": 30,
+        "error": 0.7229
+      },
+      {
+        "epoch": 40,
+        "error": 0.8127
+      },
+      {
+        "epoch": 50,
+        "error": 0.6843
+      },
+      {
+        "epoch": 60,
+        "error": 0.49860000000000004
+      },
+      {
+        "epoch": 70,
+        "error": 0.43489999999999995
+      },
+      {
+        "epoch": 80,
+        "error": 0.3677
+      },
+      {
+        "epoch": 90,
+        "error": 0.35629999999999995
+      },
+      {
+        "epoch": 100,
+        "error": 0.3468
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-009",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 9,
+    "final_error": 0.3267,
+    "avg_cos": -0.4270517424895662,
+    "phase": "intermediate",
+    "time": 618.1128900051117,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7498
+      },
+      {
+        "epoch": 20,
+        "error": 0.8069
+      },
+      {
+        "epoch": 30,
+        "error": 0.7456
+      },
+      {
+        "epoch": 40,
+        "error": 0.7162
+      },
+      {
+        "epoch": 50,
+        "error": 0.616
+      },
+      {
+        "epoch": 60,
+        "error": 0.45489999999999997
+      },
+      {
+        "epoch": 70,
+        "error": 0.39049999999999996
+      },
+      {
+        "epoch": 80,
+        "error": 0.3449
+      },
+      {
+        "epoch": 90,
+        "error": 0.33320000000000005
+      },
+      {
+        "epoch": 100,
+        "error": 0.3267
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-010",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 10,
+    "final_error": 0.2611,
+    "avg_cos": -0.44244103191021295,
+    "phase": "intermediate",
+    "time": 617.8812375068665,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7686
+      },
+      {
+        "epoch": 20,
+        "error": 0.7623
+      },
+      {
+        "epoch": 30,
+        "error": 0.6940999999999999
+      },
+      {
+        "epoch": 40,
+        "error": 0.6513
+      },
+      {
+        "epoch": 50,
+        "error": 0.5268999999999999
+      },
+      {
+        "epoch": 60,
+        "error": 0.3618
+      },
+      {
+        "epoch": 70,
+        "error": 0.3228
+      },
+      {
+        "epoch": 80,
+        "error": 0.2794
+      },
+      {
+        "epoch": 90,
+        "error": 0.268
+      },
+      {
+        "epoch": 100,
+        "error": 0.2611
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-011",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 11,
+    "final_error": 0.31399999999999995,
+    "avg_cos": -0.43261940219836326,
+    "phase": "intermediate",
+    "time": 617.9904630184174,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7352000000000001
+      },
+      {
+        "epoch": 20,
+        "error": 0.7243999999999999
+      },
+      {
+        "epoch": 30,
+        "error": 0.7325999999999999
+      },
+      {
+        "epoch": 40,
+        "error": 0.7645
+      },
+      {
+        "epoch": 50,
+        "error": 0.6242
+      },
+      {
+        "epoch": 60,
+        "error": 0.41969999999999996
+      },
+      {
+        "epoch": 70,
+        "error": 0.38180000000000003
+      },
+      {
+        "epoch": 80,
+        "error": 0.33609999999999995
+      },
+      {
+        "epoch": 90,
+        "error": 0.3294
+      },
+      {
+        "epoch": 100,
+        "error": 0.31399999999999995
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-012",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 12,
+    "final_error": 0.34830000000000005,
+    "avg_cos": -0.41070607755809535,
+    "phase": "intermediate",
+    "time": 618.5699009895325,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7527
+      },
+      {
+        "epoch": 20,
+        "error": 0.7584
+      },
+      {
+        "epoch": 30,
+        "error": 0.7221
+      },
+      {
+        "epoch": 40,
+        "error": 0.7686
+      },
+      {
+        "epoch": 50,
+        "error": 0.6391
+      },
+      {
+        "epoch": 60,
+        "error": 0.46519999999999995
+      },
+      {
+        "epoch": 70,
+        "error": 0.4313
+      },
+      {
+        "epoch": 80,
+        "error": 0.3712
+      },
+      {
+        "epoch": 90,
+        "error": 0.3567
+      },
+      {
+        "epoch": 100,
+        "error": 0.34830000000000005
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-013",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 13,
+    "final_error": 0.35240000000000005,
+    "avg_cos": -0.3671017742512642,
+    "phase": "intermediate",
+    "time": 618.6392087936401,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8143
+      },
+      {
+        "epoch": 20,
+        "error": 0.8201
+      },
+      {
+        "epoch": 30,
+        "error": 0.7431
+      },
+      {
+        "epoch": 40,
+        "error": 0.7407
+      },
+      {
+        "epoch": 50,
+        "error": 0.685
+      },
+      {
+        "epoch": 60,
+        "error": 0.505
+      },
+      {
+        "epoch": 70,
+        "error": 0.43620000000000003
+      },
+      {
+        "epoch": 80,
+        "error": 0.3732
+      },
+      {
+        "epoch": 90,
+        "error": 0.35960000000000003
+      },
+      {
+        "epoch": 100,
+        "error": 0.35240000000000005
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-014",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 14,
+    "final_error": 0.27390000000000003,
+    "avg_cos": -0.42242673306754425,
+    "phase": "intermediate",
+    "time": 618.1294455528259,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7186
+      },
+      {
+        "epoch": 20,
+        "error": 0.7931
+      },
+      {
+        "epoch": 30,
+        "error": 0.659
+      },
+      {
+        "epoch": 40,
+        "error": 0.739
+      },
+      {
+        "epoch": 50,
+        "error": 0.5971
+      },
+      {
+        "epoch": 60,
+        "error": 0.39159999999999995
+      },
+      {
+        "epoch": 70,
+        "error": 0.33620000000000005
+      },
+      {
+        "epoch": 80,
+        "error": 0.28790000000000004
+      },
+      {
+        "epoch": 90,
+        "error": 0.28259999999999996
+      },
+      {
+        "epoch": 100,
+        "error": 0.27390000000000003
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-015",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 15,
+    "final_error": 0.3268,
+    "avg_cos": -0.3933569091484687,
+    "phase": "intermediate",
+    "time": 618.8156831264496,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7937
+      },
+      {
+        "epoch": 20,
+        "error": 0.8324
+      },
+      {
+        "epoch": 30,
+        "error": 0.7239
+      },
+      {
+        "epoch": 40,
+        "error": 0.7695
+      },
+      {
+        "epoch": 50,
+        "error": 0.6705
+      },
+      {
+        "epoch": 60,
+        "error": 0.4548
+      },
+      {
+        "epoch": 70,
+        "error": 0.41479999999999995
+      },
+      {
+        "epoch": 80,
+        "error": 0.3476
+      },
+      {
+        "epoch": 90,
+        "error": 0.33609999999999995
+      },
+      {
+        "epoch": 100,
+        "error": 0.3268
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-016",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 16,
+    "final_error": 0.4225,
+    "avg_cos": -0.30942931298027526,
+    "phase": "collapsed",
+    "time": 619.9656462669373,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7655000000000001
+      },
+      {
+        "epoch": 20,
+        "error": 0.7401
+      },
+      {
+        "epoch": 30,
+        "error": 0.7559
+      },
+      {
+        "epoch": 40,
+        "error": 0.8337
+      },
+      {
+        "epoch": 50,
+        "error": 0.8366
+      },
+      {
+        "epoch": 60,
+        "error": 0.6077
+      },
+      {
+        "epoch": 70,
+        "error": 0.5453
+      },
+      {
+        "epoch": 80,
+        "error": 0.46609999999999996
+      },
+      {
+        "epoch": 90,
+        "error": 0.44389999999999996
+      },
+      {
+        "epoch": 100,
+        "error": 0.4225
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-017",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 17,
+    "final_error": 0.37960000000000005,
+    "avg_cos": -0.3157216613155989,
+    "phase": "intermediate",
+    "time": 618.8813922405243,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7439
+      },
+      {
+        "epoch": 20,
+        "error": 0.7782
+      },
+      {
+        "epoch": 30,
+        "error": 0.6826
+      },
+      {
+        "epoch": 40,
+        "error": 0.791
+      },
+      {
+        "epoch": 50,
+        "error": 0.7645
+      },
+      {
+        "epoch": 60,
+        "error": 0.5714
+      },
+      {
+        "epoch": 70,
+        "error": 0.5028
+      },
+      {
+        "epoch": 80,
+        "error": 0.4161
+      },
+      {
+        "epoch": 90,
+        "error": 0.3902
+      },
+      {
+        "epoch": 100,
+        "error": 0.37960000000000005
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-018",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 18,
+    "final_error": 0.36160000000000003,
+    "avg_cos": -0.36664949845294564,
+    "phase": "intermediate",
+    "time": 617.2192621231079,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7948999999999999
+      },
+      {
+        "epoch": 20,
+        "error": 0.7685
+      },
+      {
+        "epoch": 30,
+        "error": 0.6828000000000001
+      },
+      {
+        "epoch": 40,
+        "error": 0.7067
+      },
+      {
+        "epoch": 50,
+        "error": 0.739
+      },
+      {
+        "epoch": 60,
+        "error": 0.48939999999999995
+      },
+      {
+        "epoch": 70,
+        "error": 0.4335
+      },
+      {
+        "epoch": 80,
+        "error": 0.384
+      },
+      {
+        "epoch": 90,
+        "error": 0.36939999999999995
+      },
+      {
+        "epoch": 100,
+        "error": 0.36160000000000003
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-019",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 19,
+    "final_error": 0.3819,
+    "avg_cos": -0.3104441294316155,
+    "phase": "intermediate",
+    "time": 615.2699193954468,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7582
+      },
+      {
+        "epoch": 20,
+        "error": 0.7908999999999999
+      },
+      {
+        "epoch": 30,
+        "error": 0.7229
+      },
+      {
+        "epoch": 40,
+        "error": 0.8076
+      },
+      {
+        "epoch": 50,
+        "error": 0.7599
+      },
+      {
+        "epoch": 60,
+        "error": 0.5887
+      },
+      {
+        "epoch": 70,
+        "error": 0.5015000000000001
+      },
+      {
+        "epoch": 80,
+        "error": 0.41159999999999997
+      },
+      {
+        "epoch": 90,
+        "error": 0.39449999999999996
+      },
+      {
+        "epoch": 100,
+        "error": 0.3819
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-020",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 20,
+    "final_error": 0.405,
+    "avg_cos": -0.3066868669705285,
+    "phase": "collapsed",
+    "time": 616.4730386734009,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7663
+      },
+      {
+        "epoch": 20,
+        "error": 0.7901
+      },
+      {
+        "epoch": 30,
+        "error": 0.7278
+      },
+      {
+        "epoch": 40,
+        "error": 0.8006
+      },
+      {
+        "epoch": 50,
+        "error": 0.7642
+      },
+      {
+        "epoch": 60,
+        "error": 0.5789
+      },
+      {
+        "epoch": 70,
+        "error": 0.5218
+      },
+      {
+        "epoch": 80,
+        "error": 0.42869999999999997
+      },
+      {
+        "epoch": 90,
+        "error": 0.41600000000000004
+      },
+      {
+        "epoch": 100,
+        "error": 0.405
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-021",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 21,
+    "final_error": 0.2671,
+    "avg_cos": -0.45954318231229474,
+    "phase": "intermediate",
+    "time": 615.4127511978149,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7581
+      },
+      {
+        "epoch": 20,
+        "error": 0.7579
+      },
+      {
+        "epoch": 30,
+        "error": 0.6496999999999999
+      },
+      {
+        "epoch": 40,
+        "error": 0.5763
+      },
+      {
+        "epoch": 50,
+        "error": 0.5905
+      },
+      {
+        "epoch": 60,
+        "error": 0.36529999999999996
+      },
+      {
+        "epoch": 70,
+        "error": 0.3208
+      },
+      {
+        "epoch": 80,
+        "error": 0.28300000000000003
+      },
+      {
+        "epoch": 90,
+        "error": 0.27249999999999996
+      },
+      {
+        "epoch": 100,
+        "error": 0.2671
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-022",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 22,
+    "final_error": 0.33530000000000004,
+    "avg_cos": -0.44933046495926804,
+    "phase": "intermediate",
+    "time": 615.8882734775543,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.754
+      },
+      {
+        "epoch": 20,
+        "error": 0.7803
+      },
+      {
+        "epoch": 30,
+        "error": 0.6849000000000001
+      },
+      {
+        "epoch": 40,
+        "error": 0.7343
+      },
+      {
+        "epoch": 50,
+        "error": 0.6374
+      },
+      {
+        "epoch": 60,
+        "error": 0.47709999999999997
+      },
+      {
+        "epoch": 70,
+        "error": 0.41200000000000003
+      },
+      {
+        "epoch": 80,
+        "error": 0.3577
+      },
+      {
+        "epoch": 90,
+        "error": 0.34640000000000004
+      },
+      {
+        "epoch": 100,
+        "error": 0.33530000000000004
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-023",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 23,
+    "final_error": 0.26180000000000003,
+    "avg_cos": -0.4258582605850973,
+    "phase": "intermediate",
+    "time": 615.5413315296173,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7284999999999999
+      },
+      {
+        "epoch": 20,
+        "error": 0.7574
+      },
+      {
+        "epoch": 30,
+        "error": 0.642
+      },
+      {
+        "epoch": 40,
+        "error": 0.6071
+      },
+      {
+        "epoch": 50,
+        "error": 0.6262
+      },
+      {
+        "epoch": 60,
+        "error": 0.36360000000000003
+      },
+      {
+        "epoch": 70,
+        "error": 0.32189999999999996
+      },
+      {
+        "epoch": 80,
+        "error": 0.2822
+      },
+      {
+        "epoch": 90,
+        "error": 0.271
+      },
+      {
+        "epoch": 100,
+        "error": 0.26180000000000003
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-024",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 24,
+    "final_error": 0.3294,
+    "avg_cos": -0.37906645333116445,
+    "phase": "intermediate",
+    "time": 616.6290299892426,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7793
+      },
+      {
+        "epoch": 20,
+        "error": 0.7716000000000001
+      },
+      {
+        "epoch": 30,
+        "error": 0.7469
+      },
+      {
+        "epoch": 40,
+        "error": 0.7981
+      },
+      {
+        "epoch": 50,
+        "error": 0.7185
+      },
+      {
+        "epoch": 60,
+        "error": 0.47350000000000003
+      },
+      {
+        "epoch": 70,
+        "error": 0.41500000000000004
+      },
+      {
+        "epoch": 80,
+        "error": 0.35109999999999997
+      },
+      {
+        "epoch": 90,
+        "error": 0.3389
+      },
+      {
+        "epoch": 100,
+        "error": 0.3294
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-025",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 25,
+    "final_error": 0.3347,
+    "avg_cos": -0.3136699470554417,
+    "phase": "intermediate",
+    "time": 616.1598520278931,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7601
+      },
+      {
+        "epoch": 20,
+        "error": 0.7494000000000001
+      },
+      {
+        "epoch": 30,
+        "error": 0.7463
+      },
+      {
+        "epoch": 40,
+        "error": 0.7912
+      },
+      {
+        "epoch": 50,
+        "error": 0.7424999999999999
+      },
+      {
+        "epoch": 60,
+        "error": 0.4928
+      },
+      {
+        "epoch": 70,
+        "error": 0.41359999999999997
+      },
+      {
+        "epoch": 80,
+        "error": 0.35760000000000003
+      },
+      {
+        "epoch": 90,
+        "error": 0.3427
+      },
+      {
+        "epoch": 100,
+        "error": 0.3347
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-026",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 26,
+    "final_error": 0.33140000000000003,
+    "avg_cos": -0.3743730288521061,
+    "phase": "intermediate",
+    "time": 629.2264149188995,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7749
+      },
+      {
+        "epoch": 20,
+        "error": 0.7081
+      },
+      {
+        "epoch": 30,
+        "error": 0.7449
+      },
+      {
+        "epoch": 40,
+        "error": 0.6791
+      },
+      {
+        "epoch": 50,
+        "error": 0.6722
+      },
+      {
+        "epoch": 60,
+        "error": 0.44620000000000004
+      },
+      {
+        "epoch": 70,
+        "error": 0.4082
+      },
+      {
+        "epoch": 80,
+        "error": 0.34919999999999995
+      },
+      {
+        "epoch": 90,
+        "error": 0.3399
+      },
+      {
+        "epoch": 100,
+        "error": 0.33140000000000003
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-027",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 27,
+    "final_error": 0.26649999999999996,
+    "avg_cos": -0.46237408201264835,
+    "phase": "intermediate",
+    "time": 615.5694332122803,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7723
+      },
+      {
+        "epoch": 20,
+        "error": 0.7445999999999999
+      },
+      {
+        "epoch": 30,
+        "error": 0.6900999999999999
+      },
+      {
+        "epoch": 40,
+        "error": 0.6726
+      },
+      {
+        "epoch": 50,
+        "error": 0.5171
+      },
+      {
+        "epoch": 60,
+        "error": 0.3579
+      },
+      {
+        "epoch": 70,
+        "error": 0.3173
+      },
+      {
+        "epoch": 80,
+        "error": 0.28400000000000003
+      },
+      {
+        "epoch": 90,
+        "error": 0.2733
+      },
+      {
+        "epoch": 100,
+        "error": 0.26649999999999996
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-028",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 28,
+    "final_error": 0.26849999999999996,
+    "avg_cos": -0.42101995227473543,
+    "phase": "intermediate",
+    "time": 617.0271985530853,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7972
+      },
+      {
+        "epoch": 20,
+        "error": 0.7604
+      },
+      {
+        "epoch": 30,
+        "error": 0.6535
+      },
+      {
+        "epoch": 40,
+        "error": 0.6244000000000001
+      },
+      {
+        "epoch": 50,
+        "error": 0.5182
+      },
+      {
+        "epoch": 60,
+        "error": 0.37370000000000003
+      },
+      {
+        "epoch": 70,
+        "error": 0.33109999999999995
+      },
+      {
+        "epoch": 80,
+        "error": 0.28480000000000005
+      },
+      {
+        "epoch": 90,
+        "error": 0.2764
+      },
+      {
+        "epoch": 100,
+        "error": 0.26849999999999996
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-029",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 29,
+    "final_error": 0.35840000000000005,
+    "avg_cos": -0.33457475216301363,
+    "phase": "intermediate",
+    "time": 616.7512545585632,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7694
+      },
+      {
+        "epoch": 20,
+        "error": 0.802
+      },
+      {
+        "epoch": 30,
+        "error": 0.6987
+      },
+      {
+        "epoch": 40,
+        "error": 0.7458
+      },
+      {
+        "epoch": 50,
+        "error": 0.7422
+      },
+      {
+        "epoch": 60,
+        "error": 0.5571999999999999
+      },
+      {
+        "epoch": 70,
+        "error": 0.4538
+      },
+      {
+        "epoch": 80,
+        "error": 0.3913
+      },
+      {
+        "epoch": 90,
+        "error": 0.3822
+      },
+      {
+        "epoch": 100,
+        "error": 0.35840000000000005
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-030",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 30,
+    "final_error": 0.3517,
+    "avg_cos": -0.3238108296727652,
+    "phase": "intermediate",
+    "time": 617.3753871917725,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7812
+      },
+      {
+        "epoch": 20,
+        "error": 0.8026
+      },
+      {
+        "epoch": 30,
+        "error": 0.719
+      },
+      {
+        "epoch": 40,
+        "error": 0.7959
+      },
+      {
+        "epoch": 50,
+        "error": 0.7608
+      },
+      {
+        "epoch": 60,
+        "error": 0.5383
+      },
+      {
+        "epoch": 70,
+        "error": 0.4625
+      },
+      {
+        "epoch": 80,
+        "error": 0.37360000000000004
+      },
+      {
+        "epoch": 90,
+        "error": 0.35960000000000003
+      },
+      {
+        "epoch": 100,
+        "error": 0.3517
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-031",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 31,
+    "final_error": 0.4707,
+    "avg_cos": -0.2898038778389562,
+    "phase": "collapsed",
+    "time": 617.9930655956268,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.77
+      },
+      {
+        "epoch": 20,
+        "error": 0.8221
+      },
+      {
+        "epoch": 30,
+        "error": 0.7654
+      },
+      {
+        "epoch": 40,
+        "error": 0.7525
+      },
+      {
+        "epoch": 50,
+        "error": 0.8206
+      },
+      {
+        "epoch": 60,
+        "error": 0.683
+      },
+      {
+        "epoch": 70,
+        "error": 0.6244000000000001
+      },
+      {
+        "epoch": 80,
+        "error": 0.5267999999999999
+      },
+      {
+        "epoch": 90,
+        "error": 0.5029
+      },
+      {
+        "epoch": 100,
+        "error": 0.4707
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-032",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 32,
+    "final_error": 0.4588,
+    "avg_cos": -0.2807692748802234,
+    "phase": "collapsed",
+    "time": 618.5194158554077,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7774
+      },
+      {
+        "epoch": 20,
+        "error": 0.8268
+      },
+      {
+        "epoch": 30,
+        "error": 0.7875
+      },
+      {
+        "epoch": 40,
+        "error": 0.7871
+      },
+      {
+        "epoch": 50,
+        "error": 0.834
+      },
+      {
+        "epoch": 60,
+        "error": 0.645
+      },
+      {
+        "epoch": 70,
+        "error": 0.5659000000000001
+      },
+      {
+        "epoch": 80,
+        "error": 0.49429999999999996
+      },
+      {
+        "epoch": 90,
+        "error": 0.4675
+      },
+      {
+        "epoch": 100,
+        "error": 0.4588
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.44-033",
+    "eta": 0.8,
+    "lambda": 0.44,
+    "seed": 33,
+    "final_error": 0.31479999999999997,
+    "avg_cos": -0.40632044578496157,
+    "phase": "intermediate",
+    "time": 618.1857914924622,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7325999999999999
+      },
+      {
+        "epoch": 20,
+        "error": 0.7825
+      },
+      {
+        "epoch": 30,
+        "error": 0.6773
+      },
+      {
+        "epoch": 40,
+        "error": 0.7706
+      },
+      {
+        "epoch": 50,
+        "error": 0.6740999999999999
+      },
+      {
+        "epoch": 60,
+        "error": 0.4518
+      },
+      {
+        "epoch": 70,
+        "error": 0.39159999999999995
+      },
+      {
+        "epoch": 80,
+        "error": 0.33540000000000003
+      },
+      {
+        "epoch": 90,
+        "error": 0.3218
+      },
+      {
+        "epoch": 100,
+        "error": 0.31479999999999997
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-000",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 0,
+    "final_error": 0.48560000000000003,
+    "avg_cos": -0.22233675827944593,
+    "phase": "collapsed",
+    "time": 618.6202092170715,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7733
+      },
+      {
+        "epoch": 20,
+        "error": 0.8046
+      },
+      {
+        "epoch": 30,
+        "error": 0.8243
+      },
+      {
+        "epoch": 40,
+        "error": 0.8197
+      },
+      {
+        "epoch": 50,
+        "error": 0.8277
+      },
+      {
+        "epoch": 60,
+        "error": 0.6707000000000001
+      },
+      {
+        "epoch": 70,
+        "error": 0.6119
+      },
+      {
+        "epoch": 80,
+        "error": 0.5146
+      },
+      {
+        "epoch": 90,
+        "error": 0.4968
+      },
+      {
+        "epoch": 100,
+        "error": 0.48560000000000003
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-001",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 1,
+    "final_error": 0.5099,
+    "avg_cos": -0.21320670128641983,
+    "phase": "collapsed",
+    "time": 618.0056390762329,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8
+      },
+      {
+        "epoch": 20,
+        "error": 0.8485
+      },
+      {
+        "epoch": 30,
+        "error": 0.8315
+      },
+      {
+        "epoch": 40,
+        "error": 0.825
+      },
+      {
+        "epoch": 50,
+        "error": 0.8747
+      },
+      {
+        "epoch": 60,
+        "error": 0.6656
+      },
+      {
+        "epoch": 70,
+        "error": 0.6273
+      },
+      {
+        "epoch": 80,
+        "error": 0.5504
+      },
+      {
+        "epoch": 90,
+        "error": 0.5251
+      },
+      {
+        "epoch": 100,
+        "error": 0.5099
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-002",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 2,
+    "final_error": 0.9,
+    "avg_cos": -0.029156987633243106,
+    "phase": "collapsed",
+    "time": 618.1001913547516,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8627
+      },
+      {
+        "epoch": 20,
+        "error": 0.885
+      },
+      {
+        "epoch": 30,
+        "error": 0.9
+      },
+      {
+        "epoch": 40,
+        "error": 0.8354
+      },
+      {
+        "epoch": 50,
+        "error": 0.9
+      },
+      {
+        "epoch": 60,
+        "error": 0.9
+      },
+      {
+        "epoch": 70,
+        "error": 0.9
+      },
+      {
+        "epoch": 80,
+        "error": 0.9
+      },
+      {
+        "epoch": 90,
+        "error": 0.9
+      },
+      {
+        "epoch": 100,
+        "error": 0.9
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-003",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 3,
+    "final_error": 0.667,
+    "avg_cos": -0.25305621716635757,
+    "phase": "collapsed",
+    "time": 617.6569993495941,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8412999999999999
+      },
+      {
+        "epoch": 20,
+        "error": 0.897
+      },
+      {
+        "epoch": 30,
+        "error": 0.8079000000000001
+      },
+      {
+        "epoch": 40,
+        "error": 0.833
+      },
+      {
+        "epoch": 50,
+        "error": 0.8261000000000001
+      },
+      {
+        "epoch": 60,
+        "error": 0.7202999999999999
+      },
+      {
+        "epoch": 70,
+        "error": 0.7034
+      },
+      {
+        "epoch": 80,
+        "error": 0.6958
+      },
+      {
+        "epoch": 90,
+        "error": 0.6817
+      },
+      {
+        "epoch": 100,
+        "error": 0.667
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-004",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 4,
+    "final_error": 0.4444,
+    "avg_cos": -0.2071778881006841,
+    "phase": "collapsed",
+    "time": 618.3168354034424,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8792
+      },
+      {
+        "epoch": 20,
+        "error": 0.8118
+      },
+      {
+        "epoch": 30,
+        "error": 0.7884
+      },
+      {
+        "epoch": 40,
+        "error": 0.8733
+      },
+      {
+        "epoch": 50,
+        "error": 0.7975
+      },
+      {
+        "epoch": 60,
+        "error": 0.6845
+      },
+      {
+        "epoch": 70,
+        "error": 0.5697
+      },
+      {
+        "epoch": 80,
+        "error": 0.47619999999999996
+      },
+      {
+        "epoch": 90,
+        "error": 0.4605
+      },
+      {
+        "epoch": 100,
+        "error": 0.4444
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-005",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 5,
+    "final_error": 0.5488,
+    "avg_cos": -0.17372670908646815,
+    "phase": "collapsed",
+    "time": 617.8762719631195,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.775
+      },
+      {
+        "epoch": 20,
+        "error": 0.8899
+      },
+      {
+        "epoch": 30,
+        "error": 0.7962
+      },
+      {
+        "epoch": 40,
+        "error": 0.8227
+      },
+      {
+        "epoch": 50,
+        "error": 0.8398
+      },
+      {
+        "epoch": 60,
+        "error": 0.6649
+      },
+      {
+        "epoch": 70,
+        "error": 0.6613
+      },
+      {
+        "epoch": 80,
+        "error": 0.562
+      },
+      {
+        "epoch": 90,
+        "error": 0.5528
+      },
+      {
+        "epoch": 100,
+        "error": 0.5488
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-006",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 6,
+    "final_error": 0.4383,
+    "avg_cos": -0.36491309612328954,
+    "phase": "collapsed",
+    "time": 618.6500823497772,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7695
+      },
+      {
+        "epoch": 20,
+        "error": 0.7759
+      },
+      {
+        "epoch": 30,
+        "error": 0.7555000000000001
+      },
+      {
+        "epoch": 40,
+        "error": 0.7959
+      },
+      {
+        "epoch": 50,
+        "error": 0.8227
+      },
+      {
+        "epoch": 60,
+        "error": 0.6845
+      },
+      {
+        "epoch": 70,
+        "error": 0.575
+      },
+      {
+        "epoch": 80,
+        "error": 0.4877
+      },
+      {
+        "epoch": 90,
+        "error": 0.4598
+      },
+      {
+        "epoch": 100,
+        "error": 0.4383
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-007",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 7,
+    "final_error": 0.5384,
+    "avg_cos": -0.23407511615224674,
+    "phase": "collapsed",
+    "time": 618.7637631893158,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8352999999999999
+      },
+      {
+        "epoch": 20,
+        "error": 0.9021
+      },
+      {
+        "epoch": 30,
+        "error": 0.9
+      },
+      {
+        "epoch": 40,
+        "error": 0.8975
+      },
+      {
+        "epoch": 50,
+        "error": 0.8347
+      },
+      {
+        "epoch": 60,
+        "error": 0.755
+      },
+      {
+        "epoch": 70,
+        "error": 0.6722
+      },
+      {
+        "epoch": 80,
+        "error": 0.5744
+      },
+      {
+        "epoch": 90,
+        "error": 0.5398000000000001
+      },
+      {
+        "epoch": 100,
+        "error": 0.5384
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-008",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 8,
+    "final_error": 0.49970000000000003,
+    "avg_cos": -0.23060520584794234,
+    "phase": "collapsed",
+    "time": 615.0552492141724,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8452999999999999
+      },
+      {
+        "epoch": 20,
+        "error": 0.7715
+      },
+      {
+        "epoch": 30,
+        "error": 0.7913
+      },
+      {
+        "epoch": 40,
+        "error": 0.8093
+      },
+      {
+        "epoch": 50,
+        "error": 0.8388
+      },
+      {
+        "epoch": 60,
+        "error": 0.6574
+      },
+      {
+        "epoch": 70,
+        "error": 0.6273
+      },
+      {
+        "epoch": 80,
+        "error": 0.529
+      },
+      {
+        "epoch": 90,
+        "error": 0.5187999999999999
+      },
+      {
+        "epoch": 100,
+        "error": 0.49970000000000003
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-009",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 9,
+    "final_error": 0.8079000000000001,
+    "avg_cos": -0.36941452681775944,
+    "phase": "collapsed",
+    "time": 616.24422955513,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8789
+      },
+      {
+        "epoch": 20,
+        "error": 0.7968
+      },
+      {
+        "epoch": 30,
+        "error": 0.8212
+      },
+      {
+        "epoch": 40,
+        "error": 0.8176
+      },
+      {
+        "epoch": 50,
+        "error": 0.8251999999999999
+      },
+      {
+        "epoch": 60,
+        "error": 0.8234
+      },
+      {
+        "epoch": 70,
+        "error": 0.8057
+      },
+      {
+        "epoch": 80,
+        "error": 0.8081
+      },
+      {
+        "epoch": 90,
+        "error": 0.802
+      },
+      {
+        "epoch": 100,
+        "error": 0.8079000000000001
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-010",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 10,
+    "final_error": 0.565,
+    "avg_cos": -0.24326752637094842,
+    "phase": "collapsed",
+    "time": 630.3954863548279,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7774
+      },
+      {
+        "epoch": 20,
+        "error": 0.7933
+      },
+      {
+        "epoch": 30,
+        "error": 0.8371
+      },
+      {
+        "epoch": 40,
+        "error": 0.8241
+      },
+      {
+        "epoch": 50,
+        "error": 0.8987
+      },
+      {
+        "epoch": 60,
+        "error": 0.7947
+      },
+      {
+        "epoch": 70,
+        "error": 0.6986
+      },
+      {
+        "epoch": 80,
+        "error": 0.6027
+      },
+      {
+        "epoch": 90,
+        "error": 0.5766
+      },
+      {
+        "epoch": 100,
+        "error": 0.565
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-011",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 11,
+    "final_error": 0.6312,
+    "avg_cos": -0.24141106754138097,
+    "phase": "collapsed",
+    "time": 614.7479529380798,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8280000000000001
+      },
+      {
+        "epoch": 20,
+        "error": 0.8124
+      },
+      {
+        "epoch": 30,
+        "error": 0.8309
+      },
+      {
+        "epoch": 40,
+        "error": 0.8985
+      },
+      {
+        "epoch": 50,
+        "error": 0.8298
+      },
+      {
+        "epoch": 60,
+        "error": 0.8125
+      },
+      {
+        "epoch": 70,
+        "error": 0.7485999999999999
+      },
+      {
+        "epoch": 80,
+        "error": 0.6623
+      },
+      {
+        "epoch": 90,
+        "error": 0.6544
+      },
+      {
+        "epoch": 100,
+        "error": 0.6312
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-012",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 12,
+    "final_error": 0.5339,
+    "avg_cos": -0.31694462252246236,
+    "phase": "collapsed",
+    "time": 615.211229801178,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8181
+      },
+      {
+        "epoch": 20,
+        "error": 0.8647
+      },
+      {
+        "epoch": 30,
+        "error": 0.8404
+      },
+      {
+        "epoch": 40,
+        "error": 0.8545
+      },
+      {
+        "epoch": 50,
+        "error": 0.8632
+      },
+      {
+        "epoch": 60,
+        "error": 0.7441
+      },
+      {
+        "epoch": 70,
+        "error": 0.6508
+      },
+      {
+        "epoch": 80,
+        "error": 0.583
+      },
+      {
+        "epoch": 90,
+        "error": 0.5553
+      },
+      {
+        "epoch": 100,
+        "error": 0.5339
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-013",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 13,
+    "final_error": 0.6255,
+    "avg_cos": -0.2513056976414091,
+    "phase": "collapsed",
+    "time": 615.0662500858307,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8220000000000001
+      },
+      {
+        "epoch": 20,
+        "error": 0.8274
+      },
+      {
+        "epoch": 30,
+        "error": 0.8196
+      },
+      {
+        "epoch": 40,
+        "error": 0.8449
+      },
+      {
+        "epoch": 50,
+        "error": 0.8976999999999999
+      },
+      {
+        "epoch": 60,
+        "error": 0.7739
+      },
+      {
+        "epoch": 70,
+        "error": 0.7385999999999999
+      },
+      {
+        "epoch": 80,
+        "error": 0.673
+      },
+      {
+        "epoch": 90,
+        "error": 0.6402
+      },
+      {
+        "epoch": 100,
+        "error": 0.6255
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-014",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 14,
+    "final_error": 0.42369999999999997,
+    "avg_cos": -0.21066496779430632,
+    "phase": "collapsed",
+    "time": 615.6880962848663,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7881
+      },
+      {
+        "epoch": 20,
+        "error": 0.8140000000000001
+      },
+      {
+        "epoch": 30,
+        "error": 0.7933
+      },
+      {
+        "epoch": 40,
+        "error": 0.8072
+      },
+      {
+        "epoch": 50,
+        "error": 0.8502000000000001
+      },
+      {
+        "epoch": 60,
+        "error": 0.6411
+      },
+      {
+        "epoch": 70,
+        "error": 0.5434
+      },
+      {
+        "epoch": 80,
+        "error": 0.45120000000000005
+      },
+      {
+        "epoch": 90,
+        "error": 0.4285
+      },
+      {
+        "epoch": 100,
+        "error": 0.42369999999999997
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-015",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 15,
+    "final_error": 0.5041,
+    "avg_cos": -0.1978799467209676,
+    "phase": "collapsed",
+    "time": 615.3005561828613,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.798
+      },
+      {
+        "epoch": 20,
+        "error": 0.8529
+      },
+      {
+        "epoch": 30,
+        "error": 0.8254
+      },
+      {
+        "epoch": 40,
+        "error": 0.8994
+      },
+      {
+        "epoch": 50,
+        "error": 0.8258
+      },
+      {
+        "epoch": 60,
+        "error": 0.7358
+      },
+      {
+        "epoch": 70,
+        "error": 0.5961000000000001
+      },
+      {
+        "epoch": 80,
+        "error": 0.5353
+      },
+      {
+        "epoch": 90,
+        "error": 0.5154000000000001
+      },
+      {
+        "epoch": 100,
+        "error": 0.5041
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-016",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 16,
+    "final_error": 0.5525,
+    "avg_cos": -0.27781334415653114,
+    "phase": "collapsed",
+    "time": 615.0646121501923,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8206
+      },
+      {
+        "epoch": 20,
+        "error": 0.8035
+      },
+      {
+        "epoch": 30,
+        "error": 0.8249
+      },
+      {
+        "epoch": 40,
+        "error": 0.9
+      },
+      {
+        "epoch": 50,
+        "error": 0.7969999999999999
+      },
+      {
+        "epoch": 60,
+        "error": 0.7619
+      },
+      {
+        "epoch": 70,
+        "error": 0.7039
+      },
+      {
+        "epoch": 80,
+        "error": 0.6097
+      },
+      {
+        "epoch": 90,
+        "error": 0.5711999999999999
+      },
+      {
+        "epoch": 100,
+        "error": 0.5525
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-017",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 17,
+    "final_error": 0.9,
+    "avg_cos": -0.03470704930839223,
+    "phase": "collapsed",
+    "time": 614.4994730949402,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8478
+      },
+      {
+        "epoch": 20,
+        "error": 0.8041
+      },
+      {
+        "epoch": 30,
+        "error": 0.8317
+      },
+      {
+        "epoch": 40,
+        "error": 0.8864
+      },
+      {
+        "epoch": 50,
+        "error": 0.9
+      },
+      {
+        "epoch": 60,
+        "error": 0.9
+      },
+      {
+        "epoch": 70,
+        "error": 0.9
+      },
+      {
+        "epoch": 80,
+        "error": 0.9
+      },
+      {
+        "epoch": 90,
+        "error": 0.9
+      },
+      {
+        "epoch": 100,
+        "error": 0.9
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-018",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 18,
+    "final_error": 0.47350000000000003,
+    "avg_cos": -0.23686397690217872,
+    "phase": "collapsed",
+    "time": 615.4123156070709,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8188
+      },
+      {
+        "epoch": 20,
+        "error": 0.8382000000000001
+      },
+      {
+        "epoch": 30,
+        "error": 0.7861
+      },
+      {
+        "epoch": 40,
+        "error": 0.8316
+      },
+      {
+        "epoch": 50,
+        "error": 0.7877000000000001
+      },
+      {
+        "epoch": 60,
+        "error": 0.6693
+      },
+      {
+        "epoch": 70,
+        "error": 0.5853999999999999
+      },
+      {
+        "epoch": 80,
+        "error": 0.5226
+      },
+      {
+        "epoch": 90,
+        "error": 0.49760000000000004
+      },
+      {
+        "epoch": 100,
+        "error": 0.47350000000000003
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-019",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 19,
+    "final_error": 0.4628,
+    "avg_cos": -0.235645191197887,
+    "phase": "collapsed",
+    "time": 615.4038736820221,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8167
+      },
+      {
+        "epoch": 20,
+        "error": 0.808
+      },
+      {
+        "epoch": 30,
+        "error": 0.8452999999999999
+      },
+      {
+        "epoch": 40,
+        "error": 0.8423
+      },
+      {
+        "epoch": 50,
+        "error": 0.8794
+      },
+      {
+        "epoch": 60,
+        "error": 0.6957
+      },
+      {
+        "epoch": 70,
+        "error": 0.6127
+      },
+      {
+        "epoch": 80,
+        "error": 0.5138
+      },
+      {
+        "epoch": 90,
+        "error": 0.4867
+      },
+      {
+        "epoch": 100,
+        "error": 0.4628
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-020",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 20,
+    "final_error": 0.6191,
+    "avg_cos": -0.2274284387423956,
+    "phase": "collapsed",
+    "time": 626.3076989650726,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7846
+      },
+      {
+        "epoch": 20,
+        "error": 0.8812
+      },
+      {
+        "epoch": 30,
+        "error": 0.897
+      },
+      {
+        "epoch": 40,
+        "error": 0.8777
+      },
+      {
+        "epoch": 50,
+        "error": 0.8616
+      },
+      {
+        "epoch": 60,
+        "error": 0.7674
+      },
+      {
+        "epoch": 70,
+        "error": 0.7339
+      },
+      {
+        "epoch": 80,
+        "error": 0.645
+      },
+      {
+        "epoch": 90,
+        "error": 0.6251
+      },
+      {
+        "epoch": 100,
+        "error": 0.6191
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-021",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 21,
+    "final_error": 0.48760000000000003,
+    "avg_cos": -0.19144320892141267,
+    "phase": "collapsed",
+    "time": 630.8897874355316,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8145
+      },
+      {
+        "epoch": 20,
+        "error": 0.8243
+      },
+      {
+        "epoch": 30,
+        "error": 0.9
+      },
+      {
+        "epoch": 40,
+        "error": 0.8966
+      },
+      {
+        "epoch": 50,
+        "error": 0.8454
+      },
+      {
+        "epoch": 60,
+        "error": 0.6995
+      },
+      {
+        "epoch": 70,
+        "error": 0.6027
+      },
+      {
+        "epoch": 80,
+        "error": 0.5385
+      },
+      {
+        "epoch": 90,
+        "error": 0.5122
+      },
+      {
+        "epoch": 100,
+        "error": 0.48760000000000003
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-022",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 22,
+    "final_error": 0.43189999999999995,
+    "avg_cos": -0.21564809582173602,
+    "phase": "collapsed",
+    "time": 630.397803068161,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8092
+      },
+      {
+        "epoch": 20,
+        "error": 0.7316
+      },
+      {
+        "epoch": 30,
+        "error": 0.8439
+      },
+      {
+        "epoch": 40,
+        "error": 0.9
+      },
+      {
+        "epoch": 50,
+        "error": 0.8916
+      },
+      {
+        "epoch": 60,
+        "error": 0.6595
+      },
+      {
+        "epoch": 70,
+        "error": 0.5557000000000001
+      },
+      {
+        "epoch": 80,
+        "error": 0.48160000000000003
+      },
+      {
+        "epoch": 90,
+        "error": 0.45599999999999996
+      },
+      {
+        "epoch": 100,
+        "error": 0.43189999999999995
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-023",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 23,
+    "final_error": 0.5123,
+    "avg_cos": -0.21841439466430493,
+    "phase": "collapsed",
+    "time": 622.5126376152039,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7724
+      },
+      {
+        "epoch": 20,
+        "error": 0.7496
+      },
+      {
+        "epoch": 30,
+        "error": 0.8408
+      },
+      {
+        "epoch": 40,
+        "error": 0.9
+      },
+      {
+        "epoch": 50,
+        "error": 0.8364
+      },
+      {
+        "epoch": 60,
+        "error": 0.6574
+      },
+      {
+        "epoch": 70,
+        "error": 0.6198
+      },
+      {
+        "epoch": 80,
+        "error": 0.5558000000000001
+      },
+      {
+        "epoch": 90,
+        "error": 0.5323
+      },
+      {
+        "epoch": 100,
+        "error": 0.5123
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-024",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 24,
+    "final_error": 0.5149,
+    "avg_cos": -0.20025765239963145,
+    "phase": "collapsed",
+    "time": 620.7860889434814,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8041
+      },
+      {
+        "epoch": 20,
+        "error": 0.8294
+      },
+      {
+        "epoch": 30,
+        "error": 0.8392999999999999
+      },
+      {
+        "epoch": 40,
+        "error": 0.9
+      },
+      {
+        "epoch": 50,
+        "error": 0.8841
+      },
+      {
+        "epoch": 60,
+        "error": 0.6799999999999999
+      },
+      {
+        "epoch": 70,
+        "error": 0.6404000000000001
+      },
+      {
+        "epoch": 80,
+        "error": 0.5589999999999999
+      },
+      {
+        "epoch": 90,
+        "error": 0.5382
+      },
+      {
+        "epoch": 100,
+        "error": 0.5149
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-025",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 25,
+    "final_error": 0.49670000000000003,
+    "avg_cos": -0.179230934521712,
+    "phase": "collapsed",
+    "time": 620.1864011287689,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7996
+      },
+      {
+        "epoch": 20,
+        "error": 0.8779
+      },
+      {
+        "epoch": 30,
+        "error": 0.8163
+      },
+      {
+        "epoch": 40,
+        "error": 0.8367
+      },
+      {
+        "epoch": 50,
+        "error": 0.8125
+      },
+      {
+        "epoch": 60,
+        "error": 0.6820999999999999
+      },
+      {
+        "epoch": 70,
+        "error": 0.5974999999999999
+      },
+      {
+        "epoch": 80,
+        "error": 0.5296000000000001
+      },
+      {
+        "epoch": 90,
+        "error": 0.5082
+      },
+      {
+        "epoch": 100,
+        "error": 0.49670000000000003
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-026",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 26,
+    "final_error": 0.6048,
+    "avg_cos": -0.22958470840433226,
+    "phase": "collapsed",
+    "time": 619.7339189052582,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8684000000000001
+      },
+      {
+        "epoch": 20,
+        "error": 0.8203
+      },
+      {
+        "epoch": 30,
+        "error": 0.8697
+      },
+      {
+        "epoch": 40,
+        "error": 0.8498
+      },
+      {
+        "epoch": 50,
+        "error": 0.8454
+      },
+      {
+        "epoch": 60,
+        "error": 0.7663
+      },
+      {
+        "epoch": 70,
+        "error": 0.6908000000000001
+      },
+      {
+        "epoch": 80,
+        "error": 0.6165
+      },
+      {
+        "epoch": 90,
+        "error": 0.618
+      },
+      {
+        "epoch": 100,
+        "error": 0.6048
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-027",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 27,
+    "final_error": 0.5837,
+    "avg_cos": -0.23468923520256424,
+    "phase": "collapsed",
+    "time": 626.0094165802002,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8127
+      },
+      {
+        "epoch": 20,
+        "error": 0.8323
+      },
+      {
+        "epoch": 30,
+        "error": 0.8204
+      },
+      {
+        "epoch": 40,
+        "error": 0.8577
+      },
+      {
+        "epoch": 50,
+        "error": 0.9
+      },
+      {
+        "epoch": 60,
+        "error": 0.7799
+      },
+      {
+        "epoch": 70,
+        "error": 0.6923
+      },
+      {
+        "epoch": 80,
+        "error": 0.6078
+      },
+      {
+        "epoch": 90,
+        "error": 0.5949
+      },
+      {
+        "epoch": 100,
+        "error": 0.5837
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-028",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 28,
+    "final_error": 0.5331,
+    "avg_cos": -0.236993797007789,
+    "phase": "collapsed",
+    "time": 618.0308878421783,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8525
+      },
+      {
+        "epoch": 20,
+        "error": 0.8691
+      },
+      {
+        "epoch": 30,
+        "error": 0.8331999999999999
+      },
+      {
+        "epoch": 40,
+        "error": 0.8999
+      },
+      {
+        "epoch": 50,
+        "error": 0.8233
+      },
+      {
+        "epoch": 60,
+        "error": 0.6992
+      },
+      {
+        "epoch": 70,
+        "error": 0.6381
+      },
+      {
+        "epoch": 80,
+        "error": 0.5653
+      },
+      {
+        "epoch": 90,
+        "error": 0.5452
+      },
+      {
+        "epoch": 100,
+        "error": 0.5331
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-029",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 29,
+    "final_error": 0.5710999999999999,
+    "avg_cos": -0.2052112696414435,
+    "phase": "collapsed",
+    "time": 617.1696529388428,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8167
+      },
+      {
+        "epoch": 20,
+        "error": 0.8737
+      },
+      {
+        "epoch": 30,
+        "error": 0.7835
+      },
+      {
+        "epoch": 40,
+        "error": 0.8102
+      },
+      {
+        "epoch": 50,
+        "error": 0.9
+      },
+      {
+        "epoch": 60,
+        "error": 0.7432000000000001
+      },
+      {
+        "epoch": 70,
+        "error": 0.6936
+      },
+      {
+        "epoch": 80,
+        "error": 0.6293
+      },
+      {
+        "epoch": 90,
+        "error": 0.598
+      },
+      {
+        "epoch": 100,
+        "error": 0.5710999999999999
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-030",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 30,
+    "final_error": 0.542,
+    "avg_cos": -0.21946712837291393,
+    "phase": "collapsed",
+    "time": 626.9900376796722,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8286
+      },
+      {
+        "epoch": 20,
+        "error": 0.8098
+      },
+      {
+        "epoch": 30,
+        "error": 0.8266
+      },
+      {
+        "epoch": 40,
+        "error": 0.9138
+      },
+      {
+        "epoch": 50,
+        "error": 0.8139000000000001
+      },
+      {
+        "epoch": 60,
+        "error": 0.7479
+      },
+      {
+        "epoch": 70,
+        "error": 0.6878
+      },
+      {
+        "epoch": 80,
+        "error": 0.5754
+      },
+      {
+        "epoch": 90,
+        "error": 0.5547
+      },
+      {
+        "epoch": 100,
+        "error": 0.542
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-031",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 31,
+    "final_error": 0.6114999999999999,
+    "avg_cos": -0.2327906482613037,
+    "phase": "collapsed",
+    "time": 631.330632686615,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.8212
+      },
+      {
+        "epoch": 20,
+        "error": 0.8204
+      },
+      {
+        "epoch": 30,
+        "error": 0.8778
+      },
+      {
+        "epoch": 40,
+        "error": 0.9
+      },
+      {
+        "epoch": 50,
+        "error": 0.9
+      },
+      {
+        "epoch": 60,
+        "error": 0.738
+      },
+      {
+        "epoch": 70,
+        "error": 0.6638999999999999
+      },
+      {
+        "epoch": 80,
+        "error": 0.615
+      },
+      {
+        "epoch": 90,
+        "error": 0.6182000000000001
+      },
+      {
+        "epoch": 100,
+        "error": 0.6114999999999999
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-032",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 32,
+    "final_error": 0.5046999999999999,
+    "avg_cos": -0.21604114844331612,
+    "phase": "collapsed",
+    "time": 631.0862164497375,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.855
+      },
+      {
+        "epoch": 20,
+        "error": 0.8855999999999999
+      },
+      {
+        "epoch": 30,
+        "error": 0.8046
+      },
+      {
+        "epoch": 40,
+        "error": 0.8198
+      },
+      {
+        "epoch": 50,
+        "error": 0.78
+      },
+      {
+        "epoch": 60,
+        "error": 0.6809000000000001
+      },
+      {
+        "epoch": 70,
+        "error": 0.5997
+      },
+      {
+        "epoch": 80,
+        "error": 0.5473
+      },
+      {
+        "epoch": 90,
+        "error": 0.5115000000000001
+      },
+      {
+        "epoch": 100,
+        "error": 0.5046999999999999
+      }
+    ]
+  },
+  {
+    "experiment_id": "S2g-0.48-033",
+    "eta": 0.8,
+    "lambda": 0.48,
+    "seed": 33,
+    "final_error": 0.48950000000000005,
+    "avg_cos": -0.35299069749046036,
+    "phase": "collapsed",
+    "time": 631.7162177562714,
+    "error_history": [
+      {
+        "epoch": 10,
+        "error": 0.7826
+      },
+      {
+        "epoch": 20,
+        "error": 0.8475
+      },
+      {
+        "epoch": 30,
+        "error": 0.7963
+      },
+      {
+        "epoch": 40,
+        "error": 0.8260000000000001
+      },
+      {
+        "epoch": 50,
+        "error": 0.7787
+      },
+      {
+        "epoch": 60,
+        "error": 0.6786
+      },
+      {
+        "epoch": 70,
+        "error": 0.6393
+      },
+      {
+        "epoch": 80,
+        "error": 0.5514
+      },
+      {
+        "epoch": 90,
+        "error": 0.5208999999999999
+      },
+      {
+        "epoch": 100,
+        "error": 0.48950000000000005
+      }
+    ]
+  }
+]

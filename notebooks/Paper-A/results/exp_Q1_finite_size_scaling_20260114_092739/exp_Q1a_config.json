@@ -1,0 +1,40 @@
+{
+  "experiment": "exp_Q1a_finite_size_scaling",
+  "description": "Finite-size scaling: width=0.5\u00d7",
+  "parameters": {
+    "width_mult": 0.5,
+    "noise_lambda_map": {
+      "0.4": [
+        0.42,
+        0.44,
+        0.46,
+        0.48,
+        0.5
+      ],
+      "0.8": [
+        0.38,
+        0.4,
+        0.42,
+        0.44,
+        0.46
+      ]
+    },
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "epochs": 100,
+    "batch_size": 256,
+    "lr": 0.1,
+    "K": 16
+  },
+  "total_runs": 100
+}

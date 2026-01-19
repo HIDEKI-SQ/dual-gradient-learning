@@ -1,0 +1,5842 @@
+[
+  {
+    "seed": 0,
+    "init_error": 0.9,
+    "init_success": true,
+    "lambda_down": null,
+    "recovered": false,
+    "final_lambda": 0.38,
+    "final_error": 0.43910000000000005,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 10,
+        "error": 0.8439
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 20,
+        "error": 0.8973
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 30,
+        "error": 0.8218
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 40,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 50,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 61,
+        "error": 0.8415
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 62,
+        "error": 0.7937
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 63,
+        "error": 0.8011
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 64,
+        "error": 0.7885
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 65,
+        "error": 0.8126
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 66,
+        "error": 0.8005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 67,
+        "error": 0.8017
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 68,
+        "error": 0.8072
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 69,
+        "error": 0.7829
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 70,
+        "error": 0.7821
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 71,
+        "error": 0.7744
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 72,
+        "error": 0.7415
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 73,
+        "error": 0.7354
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 74,
+        "error": 0.687
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 75,
+        "error": 0.7022999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 76,
+        "error": 0.6740999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 77,
+        "error": 0.6702
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 78,
+        "error": 0.6785
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 79,
+        "error": 0.669
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 80,
+        "error": 0.6581
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 81,
+        "error": 0.6677
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 82,
+        "error": 0.6508
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 83,
+        "error": 0.6615
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 84,
+        "error": 0.6403
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 85,
+        "error": 0.6365000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 86,
+        "error": 0.6334
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 87,
+        "error": 0.6332
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 88,
+        "error": 0.6319
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 89,
+        "error": 0.6265000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 90,
+        "error": 0.6178
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 91,
+        "error": 0.6193
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 92,
+        "error": 0.6088
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 93,
+        "error": 0.5952999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 94,
+        "error": 0.5932999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 95,
+        "error": 0.6058
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 96,
+        "error": 0.5942000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 97,
+        "error": 0.597
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 98,
+        "error": 0.5688
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 99,
+        "error": 0.5738
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 100,
+        "error": 0.5704
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 101,
+        "error": 0.5682
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 102,
+        "error": 0.5785
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 103,
+        "error": 0.5487
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 104,
+        "error": 0.5483
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 105,
+        "error": 0.5499
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 106,
+        "error": 0.5475
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 107,
+        "error": 0.5446
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 108,
+        "error": 0.5479
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 109,
+        "error": 0.5559000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 110,
+        "error": 0.5448
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 111,
+        "error": 0.5233
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 112,
+        "error": 0.5146
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 113,
+        "error": 0.5219
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 114,
+        "error": 0.5133
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 115,
+        "error": 0.5535
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 116,
+        "error": 0.5186
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 117,
+        "error": 0.5015000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 118,
+        "error": 0.49950000000000006
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 119,
+        "error": 0.514
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 120,
+        "error": 0.49639999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 121,
+        "error": 0.4941
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 122,
+        "error": 0.48950000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 123,
+        "error": 0.48250000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 124,
+        "error": 0.48860000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 125,
+        "error": 0.509
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 126,
+        "error": 0.4696
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 127,
+        "error": 0.47040000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 128,
+        "error": 0.47209999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 129,
+        "error": 0.47209999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 130,
+        "error": 0.474
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 131,
+        "error": 0.4638
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 132,
+        "error": 0.47850000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 133,
+        "error": 0.4585
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 134,
+        "error": 0.45599999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 135,
+        "error": 0.4566
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 136,
+        "error": 0.4547
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 137,
+        "error": 0.45230000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 138,
+        "error": 0.45089999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 139,
+        "error": 0.43889999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 140,
+        "error": 0.43910000000000005
+      }
+    ],
+    "experiment_id": "T2-spinodal-000",
+    "eta": 0.4,
+    "time": 862.1145207881927
+  },
+  {
+    "seed": 1,
+    "init_error": 0.9072,
+    "init_success": true,
+    "lambda_down": null,
+    "recovered": false,
+    "final_lambda": 0.38,
+    "final_error": 0.3317,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 10,
+        "error": 0.8939
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 20,
+        "error": 0.8709
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 30,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 40,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 50,
+        "error": 0.9072
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.8331999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.8047
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.7666999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.7418
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.7137
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.7109
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.6591
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.6601
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.6283000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.6339
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 61,
+        "error": 0.6371
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 62,
+        "error": 0.591
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 63,
+        "error": 0.5838
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 64,
+        "error": 0.5928
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 65,
+        "error": 0.5873999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 66,
+        "error": 0.5487
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 67,
+        "error": 0.5629
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 68,
+        "error": 0.5382
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 69,
+        "error": 0.5956
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 70,
+        "error": 0.5707
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 71,
+        "error": 0.5214
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 72,
+        "error": 0.5554
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 73,
+        "error": 0.5079
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 74,
+        "error": 0.5034000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 75,
+        "error": 0.5146
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 76,
+        "error": 0.44610000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 77,
+        "error": 0.44210000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 78,
+        "error": 0.44089999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 79,
+        "error": 0.4353
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 80,
+        "error": 0.43689999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 81,
+        "error": 0.4315
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 82,
+        "error": 0.43000000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 83,
+        "error": 0.42779999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 84,
+        "error": 0.4224
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 85,
+        "error": 0.4236
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 86,
+        "error": 0.42110000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 87,
+        "error": 0.4181
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 88,
+        "error": 0.4171
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 89,
+        "error": 0.41379999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 90,
+        "error": 0.40980000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 91,
+        "error": 0.40790000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 92,
+        "error": 0.41180000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 93,
+        "error": 0.4053
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 94,
+        "error": 0.4053
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 95,
+        "error": 0.40259999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 96,
+        "error": 0.39949999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 97,
+        "error": 0.3951
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 98,
+        "error": 0.3932
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 99,
+        "error": 0.39449999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 100,
+        "error": 0.39590000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 101,
+        "error": 0.38670000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 102,
+        "error": 0.39059999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 103,
+        "error": 0.38549999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 104,
+        "error": 0.38780000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 105,
+        "error": 0.3832
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 106,
+        "error": 0.38029999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 107,
+        "error": 0.3791
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 108,
+        "error": 0.37529999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 109,
+        "error": 0.3812
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 110,
+        "error": 0.37060000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 111,
+        "error": 0.3731
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 112,
+        "error": 0.3681
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 113,
+        "error": 0.3631
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 114,
+        "error": 0.37129999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 115,
+        "error": 0.366
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 116,
+        "error": 0.36429999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 117,
+        "error": 0.3579
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 118,
+        "error": 0.3609
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 119,
+        "error": 0.3579
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 120,
+        "error": 0.36019999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 121,
+        "error": 0.3639
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 122,
+        "error": 0.3537
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 123,
+        "error": 0.355
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 124,
+        "error": 0.3489
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 125,
+        "error": 0.35150000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 126,
+        "error": 0.34850000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 127,
+        "error": 0.35229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 128,
+        "error": 0.3429
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 129,
+        "error": 0.34140000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 130,
+        "error": 0.34099999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 131,
+        "error": 0.3459
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 132,
+        "error": 0.3436
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 133,
+        "error": 0.33899999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 134,
+        "error": 0.34040000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 135,
+        "error": 0.3339
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 136,
+        "error": 0.3377
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 137,
+        "error": 0.3264
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 138,
+        "error": 0.3336
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 139,
+        "error": 0.32689999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 140,
+        "error": 0.3317
+      }
+    ],
+    "experiment_id": "T2-spinodal-001",
+    "eta": 0.4,
+    "time": 862.9794998168945
+  },
+  {
+    "seed": 2,
+    "init_error": 0.9,
+    "init_success": true,
+    "lambda_down": null,
+    "recovered": false,
+    "final_lambda": 0.38,
+    "final_error": 0.9,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 10,
+        "error": 0.8678
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 20,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 30,
+        "error": 0.8771
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 40,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 50,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 61,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 62,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 63,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 64,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 65,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 66,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 67,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 68,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 69,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 70,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 71,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 72,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 73,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 74,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 75,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 76,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 77,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 78,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 79,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 80,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 81,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 82,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 83,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 84,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 85,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 86,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 87,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 88,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 89,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 90,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 91,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 92,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 93,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 94,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 95,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 96,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 97,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 98,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 99,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 100,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 101,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 102,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 103,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 104,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 105,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 106,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 107,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 108,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 109,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 110,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 111,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 112,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 113,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 114,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 115,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 116,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 117,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 118,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 119,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 120,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 121,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 122,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 123,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 124,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 125,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 126,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 127,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 128,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 129,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 130,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 131,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 132,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 133,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 134,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 135,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 136,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 137,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 138,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 139,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 140,
+        "error": 0.9
+      }
+    ],
+    "experiment_id": "T2-spinodal-002",
+    "eta": 0.4,
+    "time": 865.0040686130524
+  },
+  {
+    "seed": 3,
+    "init_error": 0.8706,
+    "init_success": true,
+    "lambda_down": null,
+    "recovered": false,
+    "final_lambda": 0.38,
+    "final_error": 0.3396,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 10,
+        "error": 0.8287
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 20,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 30,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 40,
+        "error": 0.8774
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 50,
+        "error": 0.8706
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.8354
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.7862
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.7953
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.7887
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.7592
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.7477
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.7861
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.7293000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.6700999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.719
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 61,
+        "error": 0.7041
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 62,
+        "error": 0.6960999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 63,
+        "error": 0.6554
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 64,
+        "error": 0.681
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 65,
+        "error": 0.6365000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 66,
+        "error": 0.6372
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 67,
+        "error": 0.6174
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 68,
+        "error": 0.6061000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 69,
+        "error": 0.6216999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 70,
+        "error": 0.5962000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 71,
+        "error": 0.5893999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 72,
+        "error": 0.5509999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 73,
+        "error": 0.5683
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 74,
+        "error": 0.5315
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 75,
+        "error": 0.5075000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 76,
+        "error": 0.4639
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 77,
+        "error": 0.45699999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 78,
+        "error": 0.4548
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 79,
+        "error": 0.45089999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 80,
+        "error": 0.45220000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 81,
+        "error": 0.4437
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 82,
+        "error": 0.4397
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 83,
+        "error": 0.44320000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 84,
+        "error": 0.4393
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 85,
+        "error": 0.43479999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 86,
+        "error": 0.43420000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 87,
+        "error": 0.4296
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 88,
+        "error": 0.4252
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 89,
+        "error": 0.4282
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 90,
+        "error": 0.42379999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 91,
+        "error": 0.42500000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 92,
+        "error": 0.4222
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 93,
+        "error": 0.42390000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 94,
+        "error": 0.4163
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 95,
+        "error": 0.41279999999999994
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 96,
+        "error": 0.41000000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 97,
+        "error": 0.4085
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 98,
+        "error": 0.40559999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 99,
+        "error": 0.4034
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 100,
+        "error": 0.40259999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 101,
+        "error": 0.39970000000000006
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 102,
+        "error": 0.4011
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 103,
+        "error": 0.3951
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 104,
+        "error": 0.4032
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 105,
+        "error": 0.391
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 106,
+        "error": 0.38949999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 107,
+        "error": 0.3921
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 108,
+        "error": 0.385
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 109,
+        "error": 0.38439999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 110,
+        "error": 0.391
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 111,
+        "error": 0.381
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 112,
+        "error": 0.38170000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 113,
+        "error": 0.3809
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 114,
+        "error": 0.3788
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 115,
+        "error": 0.37539999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 116,
+        "error": 0.37029999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 117,
+        "error": 0.37160000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 118,
+        "error": 0.37
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 119,
+        "error": 0.36360000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 120,
+        "error": 0.3607
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 121,
+        "error": 0.3669
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 122,
+        "error": 0.35950000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 123,
+        "error": 0.36229999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 124,
+        "error": 0.35950000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 125,
+        "error": 0.35550000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 126,
+        "error": 0.354
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 127,
+        "error": 0.35629999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 128,
+        "error": 0.35650000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 129,
+        "error": 0.34319999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 130,
+        "error": 0.3467
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 131,
+        "error": 0.34840000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 132,
+        "error": 0.34619999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 133,
+        "error": 0.34509999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 134,
+        "error": 0.34209999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 135,
+        "error": 0.3368
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 136,
+        "error": 0.34109999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 137,
+        "error": 0.33840000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 138,
+        "error": 0.34509999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 139,
+        "error": 0.34209999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 140,
+        "error": 0.3396
+      }
+    ],
+    "experiment_id": "T2-spinodal-003",
+    "eta": 0.4,
+    "time": 874.9118800163269
+  },
+  {
+    "seed": 4,
+    "init_error": 0.9,
+    "init_success": true,
+    "lambda_down": null,
+    "recovered": false,
+    "final_lambda": 0.38,
+    "final_error": 0.9,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 10,
+        "error": 0.8263
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 20,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 30,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 40,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 50,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 61,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 62,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 63,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 64,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 65,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 66,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 67,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 68,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 69,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 70,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 71,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 72,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 73,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 74,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 75,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 76,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 77,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 78,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 79,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 80,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 81,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 82,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 83,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 84,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 85,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 86,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 87,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 88,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 89,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 90,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 91,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 92,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 93,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 94,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 95,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 96,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 97,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 98,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 99,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 100,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 101,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 102,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 103,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 104,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 105,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 106,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 107,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 108,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 109,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 110,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 111,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 112,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 113,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 114,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 115,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 116,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 117,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 118,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 119,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 120,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 121,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 122,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 123,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 124,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 125,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 126,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 127,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 128,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 129,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 130,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 131,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 132,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 133,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 134,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 135,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 136,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 137,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 138,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 139,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 140,
+        "error": 0.9
+      }
+    ],
+    "experiment_id": "T2-spinodal-004",
+    "eta": 0.4,
+    "time": 864.9875543117523
+  },
+  {
+    "seed": 5,
+    "init_error": 0.9,
+    "init_success": true,
+    "lambda_down": null,
+    "recovered": false,
+    "final_lambda": 0.38,
+    "final_error": 0.9,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 10,
+        "error": 0.83
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 20,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 30,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 40,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 50,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 61,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 62,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 63,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 64,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 65,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 66,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 67,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 68,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 69,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 70,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 71,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 72,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 73,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 74,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 75,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 76,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 77,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 78,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 79,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 80,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 81,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 82,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 83,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 84,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 85,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 86,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 87,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 88,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 89,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 90,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 91,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 92,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 93,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 94,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 95,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 96,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 97,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 98,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 99,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 100,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 101,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 102,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 103,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 104,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 105,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 106,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 107,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 108,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 109,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 110,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 111,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 112,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 113,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 114,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 115,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 116,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 117,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 118,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 119,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 120,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 121,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 122,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 123,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 124,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 125,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 126,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 127,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 128,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 129,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 130,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 131,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 132,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 133,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 134,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 135,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 136,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 137,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 138,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 139,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 140,
+        "error": 0.9
+      }
+    ],
+    "experiment_id": "T2-spinodal-005",
+    "eta": 0.4,
+    "time": 864.3111853599548
+  },
+  {
+    "seed": 6,
+    "init_error": 0.9,
+    "init_success": true,
+    "lambda_down": null,
+    "recovered": false,
+    "final_lambda": 0.38,
+    "final_error": 0.9,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 10,
+        "error": 0.8492999999999999
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 20,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 30,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 40,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 50,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 61,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 62,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 63,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 64,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 65,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 66,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 67,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 68,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 69,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 70,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 71,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 72,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 73,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 74,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 75,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 76,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 77,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 78,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 79,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 80,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 81,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 82,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 83,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 84,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 85,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 86,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 87,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 88,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 89,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 90,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 91,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 92,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 93,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 94,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 95,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 96,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 97,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 98,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 99,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 100,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 101,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 102,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 103,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 104,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 105,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 106,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 107,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 108,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 109,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 110,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 111,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 112,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 113,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 114,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 115,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 116,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 117,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 118,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 119,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 120,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 121,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 122,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 123,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 124,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 125,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 126,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 127,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 128,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 129,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 130,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 131,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 132,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 133,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 134,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 135,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 136,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 137,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 138,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 139,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 140,
+        "error": 0.9
+      }
+    ],
+    "experiment_id": "T2-spinodal-006",
+    "eta": 0.4,
+    "time": 866.1060302257538
+  },
+  {
+    "seed": 7,
+    "init_error": 0.9,
+    "init_success": true,
+    "lambda_down": null,
+    "recovered": false,
+    "final_lambda": 0.38,
+    "final_error": 0.9,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 10,
+        "error": 0.8162
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 20,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 30,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 40,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 50,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 61,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 62,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 63,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 64,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 65,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 66,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 67,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 68,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 69,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 70,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 71,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 72,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 73,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 74,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 75,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 76,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 77,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 78,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 79,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 80,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 81,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 82,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 83,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 84,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 85,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 86,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 87,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 88,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 89,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 90,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 91,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 92,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 93,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 94,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 95,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 96,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 97,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 98,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 99,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 100,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 101,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 102,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 103,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 104,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 105,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 106,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 107,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 108,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 109,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 110,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 111,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 112,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 113,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 114,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 115,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 116,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 117,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 118,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 119,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 120,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 121,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 122,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 123,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 124,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 125,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 126,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 127,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 128,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 129,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 130,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 131,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 132,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 133,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 134,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 135,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 136,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 137,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 138,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 139,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 140,
+        "error": 0.9
+      }
+    ],
+    "experiment_id": "T2-spinodal-007",
+    "eta": 0.4,
+    "time": 864.2370803356171
+  },
+  {
+    "seed": 8,
+    "init_error": 0.9,
+    "init_success": true,
+    "lambda_down": null,
+    "recovered": false,
+    "final_lambda": 0.38,
+    "final_error": 0.9,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 10,
+        "error": 0.8753
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 20,
+        "error": 0.8968
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 30,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 40,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 50,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 61,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 62,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 63,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 64,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 65,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 66,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 67,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 68,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 69,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 70,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 71,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 72,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 73,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 74,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 75,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 76,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 77,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 78,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 79,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 80,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 81,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 82,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 83,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 84,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 85,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 86,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 87,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 88,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 89,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 90,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 91,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 92,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 93,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 94,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 95,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 96,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 97,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 98,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 99,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 100,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 101,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 102,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 103,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 104,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 105,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 106,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 107,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 108,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 109,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 110,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 111,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 112,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 113,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 114,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 115,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 116,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 117,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 118,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 119,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 120,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 121,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 122,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 123,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 124,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 125,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 126,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 127,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 128,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 129,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 130,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 131,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 132,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 133,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 134,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 135,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 136,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 137,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 138,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 139,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 140,
+        "error": 0.9
+      }
+    ],
+    "experiment_id": "T2-spinodal-008",
+    "eta": 0.4,
+    "time": 864.8062846660614
+  },
+  {
+    "seed": 9,
+    "init_error": 0.9,
+    "init_success": true,
+    "lambda_down": null,
+    "recovered": false,
+    "final_lambda": 0.38,
+    "final_error": 0.9,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 10,
+        "error": 0.8462000000000001
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 20,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 30,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 40,
+        "error": 0.9
+      },
+      {
+        "phase": "init",
+        "lambda": 0.7,
+        "epoch": 50,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 61,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 62,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 63,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 64,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 65,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 66,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 67,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 68,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 69,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.52,
+        "epoch": 70,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 71,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 72,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 73,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 74,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 75,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 76,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 77,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 78,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 79,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.5,
+        "epoch": 80,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 81,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 82,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 83,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 84,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 85,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 86,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 87,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 88,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 89,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.48,
+        "epoch": 90,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 91,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 92,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 93,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 94,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 95,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 96,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 97,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 98,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 99,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.46,
+        "epoch": 100,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 101,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 102,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 103,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 104,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 105,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 106,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 107,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 108,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 109,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.44,
+        "epoch": 110,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 111,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 112,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 113,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 114,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 115,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 116,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 117,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 118,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 119,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.42,
+        "epoch": 120,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 121,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 122,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 123,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 124,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 125,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 126,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 127,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 128,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 129,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.4,
+        "epoch": 130,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 131,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 132,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 133,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 134,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 135,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 136,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 137,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 138,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 139,
+        "error": 0.9
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.38,
+        "epoch": 140,
+        "error": 0.9
+      }
+    ],
+    "experiment_id": "T2-spinodal-009",
+    "eta": 0.4,
+    "time": 864.1089282035828
+  }
+]

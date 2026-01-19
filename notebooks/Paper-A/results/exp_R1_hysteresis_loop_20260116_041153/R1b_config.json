@@ -1,0 +1,27 @@
+{
+  "experiment": "exp_R1_hysteresis_loop",
+  "notebook_id": "R1b",
+  "description": "Hysteresis loop measurement with slow stepwise \u03bb sweep",
+  "parameters": {
+    "noise_rate": 0.4,
+    "sweep_type": "slow",
+    "hold_epochs": 5,
+    "lambda_steps": 60,
+    "total_epochs": 300,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "batch_size": 256,
+    "lr": 0.1,
+    "K": 16
+  }
+}

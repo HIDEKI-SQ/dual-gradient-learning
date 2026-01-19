@@ -1,0 +1,713 @@
+[
+  {
+    "seed": 0,
+    "interventions": [
+      {
+        "target_lambda": 0.4,
+        "ordered": {
+          "source": "ordered",
+          "target_lambda": 0.4,
+          "init_error": 0.13190000000000002,
+          "final_error": 0.12619999999999998,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.13190000000000002
+            },
+            {
+              "epoch": 5,
+              "error": 0.13149999999999995
+            },
+            {
+              "epoch": 10,
+              "error": 0.13139999999999996
+            },
+            {
+              "epoch": 15,
+              "error": 0.13119999999999998
+            },
+            {
+              "epoch": 20,
+              "error": 0.13019999999999998
+            },
+            {
+              "epoch": 25,
+              "error": 0.12780000000000002
+            },
+            {
+              "epoch": 30,
+              "error": 0.12619999999999998
+            }
+          ]
+        },
+        "collapse": {
+          "source": "collapse",
+          "target_lambda": 0.4,
+          "init_error": 0.7901,
+          "final_error": 0.7985,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.7901
+            },
+            {
+              "epoch": 5,
+              "error": 0.7934
+            },
+            {
+              "epoch": 10,
+              "error": 0.7932
+            },
+            {
+              "epoch": 15,
+              "error": 0.7841
+            },
+            {
+              "epoch": 20,
+              "error": 0.7824
+            },
+            {
+              "epoch": 25,
+              "error": 0.789
+            },
+            {
+              "epoch": 30,
+              "error": 0.7985
+            }
+          ]
+        },
+        "final_gap": 0.6723
+      },
+      {
+        "target_lambda": 0.5,
+        "ordered": {
+          "source": "ordered",
+          "target_lambda": 0.5,
+          "init_error": 0.13190000000000002,
+          "final_error": 0.126,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.13190000000000002
+            },
+            {
+              "epoch": 5,
+              "error": 0.132
+            },
+            {
+              "epoch": 10,
+              "error": 0.13160000000000005
+            },
+            {
+              "epoch": 15,
+              "error": 0.12939999999999996
+            },
+            {
+              "epoch": 20,
+              "error": 0.12939999999999996
+            },
+            {
+              "epoch": 25,
+              "error": 0.13080000000000003
+            },
+            {
+              "epoch": 30,
+              "error": 0.126
+            }
+          ]
+        },
+        "collapse": {
+          "source": "collapse",
+          "target_lambda": 0.5,
+          "init_error": 0.7901,
+          "final_error": 0.7895,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.7901
+            },
+            {
+              "epoch": 5,
+              "error": 0.7854
+            },
+            {
+              "epoch": 10,
+              "error": 0.7928
+            },
+            {
+              "epoch": 15,
+              "error": 0.7824
+            },
+            {
+              "epoch": 20,
+              "error": 0.7913
+            },
+            {
+              "epoch": 25,
+              "error": 0.784
+            },
+            {
+              "epoch": 30,
+              "error": 0.7895
+            }
+          ]
+        },
+        "final_gap": 0.6635
+      },
+      {
+        "target_lambda": 0.55,
+        "ordered": {
+          "source": "ordered",
+          "target_lambda": 0.55,
+          "init_error": 0.13190000000000002,
+          "final_error": 0.1291,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.13190000000000002
+            },
+            {
+              "epoch": 5,
+              "error": 0.13160000000000005
+            },
+            {
+              "epoch": 10,
+              "error": 0.12929999999999997
+            },
+            {
+              "epoch": 15,
+              "error": 0.13060000000000005
+            },
+            {
+              "epoch": 20,
+              "error": 0.12890000000000001
+            },
+            {
+              "epoch": 25,
+              "error": 0.1281
+            },
+            {
+              "epoch": 30,
+              "error": 0.1291
+            }
+          ]
+        },
+        "collapse": {
+          "source": "collapse",
+          "target_lambda": 0.55,
+          "init_error": 0.7901,
+          "final_error": 0.7734,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.7901
+            },
+            {
+              "epoch": 5,
+              "error": 0.7959
+            },
+            {
+              "epoch": 10,
+              "error": 0.7837000000000001
+            },
+            {
+              "epoch": 15,
+              "error": 0.7826
+            },
+            {
+              "epoch": 20,
+              "error": 0.7881
+            },
+            {
+              "epoch": 25,
+              "error": 0.7847
+            },
+            {
+              "epoch": 30,
+              "error": 0.7734
+            }
+          ]
+        },
+        "final_gap": 0.6443
+      }
+    ],
+    "ordered_init_error": 0.13190000000000002,
+    "collapse_init_error": 0.7901,
+    "time_seconds": 1778.3588845729828,
+    "experiment_id": "W2-seed00"
+  },
+  {
+    "seed": 1,
+    "interventions": [
+      {
+        "target_lambda": 0.4,
+        "ordered": {
+          "source": "ordered",
+          "target_lambda": 0.4,
+          "init_error": 0.134,
+          "final_error": 0.12919999999999998,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.134
+            },
+            {
+              "epoch": 5,
+              "error": 0.13280000000000003
+            },
+            {
+              "epoch": 10,
+              "error": 0.13380000000000003
+            },
+            {
+              "epoch": 15,
+              "error": 0.132
+            },
+            {
+              "epoch": 20,
+              "error": 0.13070000000000004
+            },
+            {
+              "epoch": 25,
+              "error": 0.13229999999999997
+            },
+            {
+              "epoch": 30,
+              "error": 0.12919999999999998
+            }
+          ]
+        },
+        "collapse": {
+          "source": "collapse",
+          "target_lambda": 0.4,
+          "init_error": 0.486,
+          "final_error": 0.4194,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.486
+            },
+            {
+              "epoch": 5,
+              "error": 0.4636
+            },
+            {
+              "epoch": 10,
+              "error": 0.45609999999999995
+            },
+            {
+              "epoch": 15,
+              "error": 0.4466
+            },
+            {
+              "epoch": 20,
+              "error": 0.4436
+            },
+            {
+              "epoch": 25,
+              "error": 0.4255
+            },
+            {
+              "epoch": 30,
+              "error": 0.4194
+            }
+          ]
+        },
+        "final_gap": 0.2902
+      },
+      {
+        "target_lambda": 0.5,
+        "ordered": {
+          "source": "ordered",
+          "target_lambda": 0.5,
+          "init_error": 0.134,
+          "final_error": 0.12839999999999996,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.134
+            },
+            {
+              "epoch": 5,
+              "error": 0.13590000000000002
+            },
+            {
+              "epoch": 10,
+              "error": 0.13419999999999999
+            },
+            {
+              "epoch": 15,
+              "error": 0.1321
+            },
+            {
+              "epoch": 20,
+              "error": 0.13080000000000003
+            },
+            {
+              "epoch": 25,
+              "error": 0.13129999999999997
+            },
+            {
+              "epoch": 30,
+              "error": 0.12839999999999996
+            }
+          ]
+        },
+        "collapse": {
+          "source": "collapse",
+          "target_lambda": 0.5,
+          "init_error": 0.486,
+          "final_error": 0.4125,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.486
+            },
+            {
+              "epoch": 5,
+              "error": 0.46430000000000005
+            },
+            {
+              "epoch": 10,
+              "error": 0.4568
+            },
+            {
+              "epoch": 15,
+              "error": 0.44599999999999995
+            },
+            {
+              "epoch": 20,
+              "error": 0.4354
+            },
+            {
+              "epoch": 25,
+              "error": 0.4363
+            },
+            {
+              "epoch": 30,
+              "error": 0.4125
+            }
+          ]
+        },
+        "final_gap": 0.2841
+      },
+      {
+        "target_lambda": 0.55,
+        "ordered": {
+          "source": "ordered",
+          "target_lambda": 0.55,
+          "init_error": 0.134,
+          "final_error": 0.13080000000000003,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.134
+            },
+            {
+              "epoch": 5,
+              "error": 0.13390000000000002
+            },
+            {
+              "epoch": 10,
+              "error": 0.13339999999999996
+            },
+            {
+              "epoch": 15,
+              "error": 0.13049999999999995
+            },
+            {
+              "epoch": 20,
+              "error": 0.12980000000000003
+            },
+            {
+              "epoch": 25,
+              "error": 0.13090000000000002
+            },
+            {
+              "epoch": 30,
+              "error": 0.13080000000000003
+            }
+          ]
+        },
+        "collapse": {
+          "source": "collapse",
+          "target_lambda": 0.55,
+          "init_error": 0.486,
+          "final_error": 0.4262,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.486
+            },
+            {
+              "epoch": 5,
+              "error": 0.47019999999999995
+            },
+            {
+              "epoch": 10,
+              "error": 0.46130000000000004
+            },
+            {
+              "epoch": 15,
+              "error": 0.4507
+            },
+            {
+              "epoch": 20,
+              "error": 0.4366
+            },
+            {
+              "epoch": 25,
+              "error": 0.4265
+            },
+            {
+              "epoch": 30,
+              "error": 0.4262
+            }
+          ]
+        },
+        "final_gap": 0.2954
+      }
+    ],
+    "ordered_init_error": 0.134,
+    "collapse_init_error": 0.486,
+    "time_seconds": 1799.4164061546326,
+    "experiment_id": "W2-seed01"
+  },
+  {
+    "seed": 2,
+    "interventions": [
+      {
+        "target_lambda": 0.4,
+        "ordered": {
+          "source": "ordered",
+          "target_lambda": 0.4,
+          "init_error": 0.133,
+          "final_error": 0.1281,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.133
+            },
+            {
+              "epoch": 5,
+              "error": 0.13160000000000005
+            },
+            {
+              "epoch": 10,
+              "error": 0.1311
+            },
+            {
+              "epoch": 15,
+              "error": 0.13090000000000002
+            },
+            {
+              "epoch": 20,
+              "error": 0.12819999999999998
+            },
+            {
+              "epoch": 25,
+              "error": 0.12770000000000004
+            },
+            {
+              "epoch": 30,
+              "error": 0.1281
+            }
+          ]
+        },
+        "collapse": {
+          "source": "collapse",
+          "target_lambda": 0.4,
+          "init_error": 0.5867,
+          "final_error": 0.511,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.5867
+            },
+            {
+              "epoch": 5,
+              "error": 0.5597
+            },
+            {
+              "epoch": 10,
+              "error": 0.5529
+            },
+            {
+              "epoch": 15,
+              "error": 0.5353
+            },
+            {
+              "epoch": 20,
+              "error": 0.5569
+            },
+            {
+              "epoch": 25,
+              "error": 0.5205
+            },
+            {
+              "epoch": 30,
+              "error": 0.511
+            }
+          ]
+        },
+        "final_gap": 0.3829
+      },
+      {
+        "target_lambda": 0.5,
+        "ordered": {
+          "source": "ordered",
+          "target_lambda": 0.5,
+          "init_error": 0.133,
+          "final_error": 0.12649999999999995,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.133
+            },
+            {
+              "epoch": 5,
+              "error": 0.13
+            },
+            {
+              "epoch": 10,
+              "error": 0.1311
+            },
+            {
+              "epoch": 15,
+              "error": 0.12670000000000003
+            },
+            {
+              "epoch": 20,
+              "error": 0.12639999999999996
+            },
+            {
+              "epoch": 25,
+              "error": 0.1271
+            },
+            {
+              "epoch": 30,
+              "error": 0.12649999999999995
+            }
+          ]
+        },
+        "collapse": {
+          "source": "collapse",
+          "target_lambda": 0.5,
+          "init_error": 0.5867,
+          "final_error": 0.5197,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.5867
+            },
+            {
+              "epoch": 5,
+              "error": 0.5687
+            },
+            {
+              "epoch": 10,
+              "error": 0.5522
+            },
+            {
+              "epoch": 15,
+              "error": 0.5403
+            },
+            {
+              "epoch": 20,
+              "error": 0.5232
+            },
+            {
+              "epoch": 25,
+              "error": 0.5191
+            },
+            {
+              "epoch": 30,
+              "error": 0.5197
+            }
+          ]
+        },
+        "final_gap": 0.3932000000000001
+      },
+      {
+        "target_lambda": 0.55,
+        "ordered": {
+          "source": "ordered",
+          "target_lambda": 0.55,
+          "init_error": 0.133,
+          "final_error": 0.127,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.133
+            },
+            {
+              "epoch": 5,
+              "error": 0.13219999999999998
+            },
+            {
+              "epoch": 10,
+              "error": 0.13019999999999998
+            },
+            {
+              "epoch": 15,
+              "error": 0.1301
+            },
+            {
+              "epoch": 20,
+              "error": 0.12939999999999996
+            },
+            {
+              "epoch": 25,
+              "error": 0.1291
+            },
+            {
+              "epoch": 30,
+              "error": 0.127
+            }
+          ]
+        },
+        "collapse": {
+          "source": "collapse",
+          "target_lambda": 0.55,
+          "init_error": 0.5867,
+          "final_error": 0.5105,
+          "trajectory": [
+            {
+              "epoch": 0,
+              "error": 0.5867
+            },
+            {
+              "epoch": 5,
+              "error": 0.5717
+            },
+            {
+              "epoch": 10,
+              "error": 0.5519000000000001
+            },
+            {
+              "epoch": 15,
+              "error": 0.5405
+            },
+            {
+              "epoch": 20,
+              "error": 0.5306
+            },
+            {
+              "epoch": 25,
+              "error": 0.522
+            },
+            {
+              "epoch": 30,
+              "error": 0.5105
+            }
+          ]
+        },
+        "final_gap": 0.38349999999999995
+      }
+    ],
+    "ordered_init_error": 0.133,
+    "collapse_init_error": 0.5867,
+    "time_seconds": 1784.301379442215,
+    "experiment_id": "W2-seed02"
+  }
+]

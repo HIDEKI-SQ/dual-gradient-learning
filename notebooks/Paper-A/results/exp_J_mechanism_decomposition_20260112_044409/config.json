@@ -1,0 +1,27 @@
+{
+  "experiment": "exp_J_mechanism_decomposition",
+  "timestamp": "20260112_044409",
+  "parameters": {
+    "conditions": [
+      "CE_baseline",
+      "Misaligned_raw",
+      "Misaligned_renorm",
+      "LR_matched",
+      "Orthogonal_noise"
+    ],
+    "lambdas": [
+      0.1,
+      0.2,
+      0.3
+    ],
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "noise_rate": 0.4,
+    "epochs": 100,
+    "K": 16
+  },
+  "total_runs": 39
+}

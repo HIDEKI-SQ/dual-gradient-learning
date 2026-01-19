@@ -1,0 +1,11 @@
+seed,lambda,final_error,is_ordered,checkpoint_path,experiment_id,eta,time
+0,0.35,0.13190000000000002,True,/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed00_err0.132.pth,Ta-prep-O-000,0.4,283.49274706840515
+1,0.35,0.134,True,/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed01_err0.134.pth,Ta-prep-O-001,0.4,282.41888642311096
+2,0.35,0.133,True,/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed02_err0.133.pth,Ta-prep-O-002,0.4,283.9241678714752
+3,0.35,0.13729999999999998,True,/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed03_err0.137.pth,Ta-prep-O-003,0.4,283.705694437027
+4,0.35,0.1381,True,/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed04_err0.138.pth,Ta-prep-O-004,0.4,281.6386890411377
+5,0.35,0.13370000000000004,True,/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed05_err0.134.pth,Ta-prep-O-005,0.4,281.82523465156555
+6,0.35,0.1351,True,/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed06_err0.135.pth,Ta-prep-O-006,0.4,281.6941478252411
+7,0.35,0.13729999999999998,True,/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed07_err0.137.pth,Ta-prep-O-007,0.4,281.61150097846985
+8,0.35,0.1301,True,/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed08_err0.130.pth,Ta-prep-O-008,0.4,289.4711925983429
+9,0.35,0.1331,True,/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed09_err0.133.pth,Ta-prep-O-009,0.4,283.3643491268158

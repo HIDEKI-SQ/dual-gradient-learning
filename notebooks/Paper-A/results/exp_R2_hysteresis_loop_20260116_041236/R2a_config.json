@@ -1,0 +1,22 @@
+{
+  "experiment": "exp_R2_hysteresis_loop",
+  "notebook_id": "R2a",
+  "parameters": {
+    "noise_rate": 0.8,
+    "sweep_type": "fast",
+    "hold_epochs": 1,
+    "lambda_steps": 60,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

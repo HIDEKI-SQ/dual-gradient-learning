@@ -1,0 +1,254 @@
+[
+  {
+    "seed": 0,
+    "architecture": "ResNet34",
+    "ordered_init_error": 0.1361,
+    "collapse_init_error": 0.6742,
+    "ordered_trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.136
+      },
+      {
+        "lambda": 0.35,
+        "error": 0.1352
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.13470000000000004
+      },
+      {
+        "lambda": 0.45,
+        "error": 0.1351
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.13570000000000004
+      },
+      {
+        "lambda": 0.55,
+        "error": 0.13339999999999996
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.13560000000000005
+      },
+      {
+        "lambda": 0.65,
+        "error": 0.13239999999999996
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.13139999999999996
+      }
+    ],
+    "collapse_trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.6542
+      },
+      {
+        "lambda": 0.65,
+        "error": 0.6403
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.6334
+      },
+      {
+        "lambda": 0.55,
+        "error": 0.6147
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.6001000000000001
+      },
+      {
+        "lambda": 0.45,
+        "error": 0.5886
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.5797
+      },
+      {
+        "lambda": 0.35,
+        "error": 0.5820000000000001
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.5497000000000001
+      }
+    ],
+    "time_seconds": 1793.3986167907715,
+    "experiment_id": "V3_v3-seed00"
+  },
+  {
+    "seed": 1,
+    "architecture": "ResNet34",
+    "ordered_init_error": 0.13370000000000004,
+    "collapse_init_error": 0.5406,
+    "ordered_trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.1331
+      },
+      {
+        "lambda": 0.35,
+        "error": 0.13139999999999996
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.13090000000000002
+      },
+      {
+        "lambda": 0.45,
+        "error": 0.13090000000000002
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.1281
+      },
+      {
+        "lambda": 0.55,
+        "error": 0.13039999999999996
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.1291
+      },
+      {
+        "lambda": 0.65,
+        "error": 0.13129999999999997
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.12919999999999998
+      }
+    ],
+    "collapse_trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.5344
+      },
+      {
+        "lambda": 0.65,
+        "error": 0.5279
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.5356000000000001
+      },
+      {
+        "lambda": 0.55,
+        "error": 0.5171
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.506
+      },
+      {
+        "lambda": 0.45,
+        "error": 0.49429999999999996
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.49160000000000004
+      },
+      {
+        "lambda": 0.35,
+        "error": 0.4808
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.4778
+      }
+    ],
+    "time_seconds": 1800.5825643539429,
+    "experiment_id": "V3_v3-seed01"
+  },
+  {
+    "seed": 2,
+    "architecture": "ResNet34",
+    "ordered_init_error": 0.1432,
+    "collapse_init_error": 0.9,
+    "ordered_trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.1432
+      },
+      {
+        "lambda": 0.35,
+        "error": 0.14070000000000005
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.1391
+      },
+      {
+        "lambda": 0.45,
+        "error": 0.13939999999999997
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.13790000000000002
+      },
+      {
+        "lambda": 0.55,
+        "error": 0.13549999999999995
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.13670000000000004
+      },
+      {
+        "lambda": 0.65,
+        "error": 0.13539999999999996
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.1341
+      }
+    ],
+    "collapse_trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.65,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.55,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.45,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.35,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.9
+      }
+    ],
+    "time_seconds": 1795.2763829231262,
+    "experiment_id": "V3_v3-seed02"
+  }
+]

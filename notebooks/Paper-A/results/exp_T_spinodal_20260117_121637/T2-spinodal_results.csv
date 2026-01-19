@@ -1,0 +1,11 @@
+seed,init_error,init_success,lambda_down,recovered,final_lambda,final_error,experiment_id,eta,time
+0,0.9,True,,False,0.38,0.43910000000000005,T2-spinodal-000,0.4,862.1145207881927
+1,0.9072,True,,False,0.38,0.3317,T2-spinodal-001,0.4,862.9794998168945
+2,0.9,True,,False,0.38,0.9,T2-spinodal-002,0.4,865.0040686130524
+3,0.8706,True,,False,0.38,0.3396,T2-spinodal-003,0.4,874.9118800163269
+4,0.9,True,,False,0.38,0.9,T2-spinodal-004,0.4,864.9875543117523
+5,0.9,True,,False,0.38,0.9,T2-spinodal-005,0.4,864.3111853599548
+6,0.9,True,,False,0.38,0.9,T2-spinodal-006,0.4,866.1060302257538
+7,0.9,True,,False,0.38,0.9,T2-spinodal-007,0.4,864.2370803356171
+8,0.9,True,,False,0.38,0.9,T2-spinodal-008,0.4,864.8062846660614
+9,0.9,True,,False,0.38,0.9,T2-spinodal-009,0.4,864.1089282035828

@@ -1,0 +1,36 @@
+{
+  "experiment": "exp_K_learning_dynamics",
+  "timestamp": "20260112_044559",
+  "parameters": {
+    "lambdas": [
+      0.3,
+      0.35,
+      0.43,
+      0.45,
+      0.47,
+      0.55
+    ],
+    "lambda_regions": {
+      "0.3": "ordered",
+      "0.35": "ordered",
+      "0.43": "critical",
+      "0.45": "critical",
+      "0.47": "critical",
+      "0.55": "collapse"
+    },
+    "noise_rates": [
+      0.4,
+      0.8
+    ],
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "epochs": 100,
+    "K": 16
+  },
+  "total_runs": 60
+}

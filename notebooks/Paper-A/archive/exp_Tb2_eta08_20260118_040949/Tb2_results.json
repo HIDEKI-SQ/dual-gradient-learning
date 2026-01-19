@@ -1,0 +1,161 @@
+[
+  {
+    "seed": 100,
+    "init_error": 0.6517999999999999,
+    "final_error": 0.6,
+    "branch": "collapse_down",
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.6402
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.6399
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.6226
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.6132
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.6152
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.6114999999999999
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.6017
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.601
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.6038
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.5982000000000001
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.6
+      }
+    ],
+    "eta": 0.8
+  },
+  {
+    "seed": 101,
+    "init_error": 0.9,
+    "final_error": 0.9,
+    "branch": "collapse_down",
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.9
+      }
+    ],
+    "eta": 0.8
+  },
+  {
+    "seed": 102,
+    "init_error": 0.9,
+    "final_error": 0.9,
+    "branch": "collapse_down",
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.9
+      }
+    ],
+    "eta": 0.8
+  }
+]

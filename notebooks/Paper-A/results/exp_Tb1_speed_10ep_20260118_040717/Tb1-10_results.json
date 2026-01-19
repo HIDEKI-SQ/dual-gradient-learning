@@ -1,0 +1,770 @@
+[
+  {
+    "seed": 0,
+    "init_error": 0.13190000000000002,
+    "final_error": 0.11529999999999996,
+    "branch": "ordered_up",
+    "epochs_per_lambda": 10,
+    "trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.12939999999999996
+      },
+      {
+        "lambda": 0.32,
+        "error": 0.129
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.12670000000000003
+      },
+      {
+        "lambda": 0.36,
+        "error": 0.12949999999999995
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.12490000000000001
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.12629999999999997
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.122
+      },
+      {
+        "lambda": 0.44,
+        "error": 0.12360000000000004
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.12580000000000002
+      },
+      {
+        "lambda": 0.48,
+        "error": 0.12
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.12290000000000001
+      },
+      {
+        "lambda": 0.52,
+        "error": 0.1199
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.11819999999999997
+      },
+      {
+        "lambda": 0.56,
+        "error": 0.11909999999999998
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.11609999999999998
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.11719999999999997
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.11350000000000005
+      },
+      {
+        "lambda": 0.64,
+        "error": 0.11460000000000004
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.11329999999999996
+      },
+      {
+        "lambda": 0.68,
+        "error": 0.11460000000000004
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.11529999999999996
+      }
+    ],
+    "checkpoint_source": "ordered_seed00_err0.132.pth",
+    "time": 1181.453061580658,
+    "experiment_id": "Tb1-10-ord-001"
+  },
+  {
+    "seed": 1,
+    "init_error": 0.134,
+    "final_error": 0.1179,
+    "branch": "ordered_up",
+    "epochs_per_lambda": 10,
+    "trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.1331
+      },
+      {
+        "lambda": 0.32,
+        "error": 0.13070000000000004
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.133
+      },
+      {
+        "lambda": 0.36,
+        "error": 0.13019999999999998
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.129
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.12629999999999997
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.12819999999999998
+      },
+      {
+        "lambda": 0.44,
+        "error": 0.12729999999999997
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.1269
+      },
+      {
+        "lambda": 0.48,
+        "error": 0.12419999999999998
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.1261
+      },
+      {
+        "lambda": 0.52,
+        "error": 0.12280000000000002
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.12190000000000001
+      },
+      {
+        "lambda": 0.56,
+        "error": 0.12250000000000005
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.121
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.12109999999999999
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.123
+      },
+      {
+        "lambda": 0.64,
+        "error": 0.11660000000000004
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.11970000000000003
+      },
+      {
+        "lambda": 0.68,
+        "error": 0.11539999999999995
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.1179
+      }
+    ],
+    "checkpoint_source": "ordered_seed01_err0.134.pth",
+    "time": 1187.1963515281677,
+    "experiment_id": "Tb1-10-ord-002"
+  },
+  {
+    "seed": 2,
+    "init_error": 0.133,
+    "final_error": 0.1109,
+    "branch": "ordered_up",
+    "epochs_per_lambda": 10,
+    "trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.13249999999999995
+      },
+      {
+        "lambda": 0.32,
+        "error": 0.13090000000000002
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.1281
+      },
+      {
+        "lambda": 0.36,
+        "error": 0.1269
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.12719999999999998
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.12529999999999997
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.12160000000000004
+      },
+      {
+        "lambda": 0.44,
+        "error": 0.12319999999999998
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.122
+      },
+      {
+        "lambda": 0.48,
+        "error": 0.12170000000000003
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.11919999999999997
+      },
+      {
+        "lambda": 0.52,
+        "error": 0.12029999999999996
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.11939999999999995
+      },
+      {
+        "lambda": 0.56,
+        "error": 0.11519999999999997
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.11770000000000003
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.11850000000000005
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.11870000000000003
+      },
+      {
+        "lambda": 0.64,
+        "error": 0.11519999999999997
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.11199999999999999
+      },
+      {
+        "lambda": 0.68,
+        "error": 0.11660000000000004
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.1109
+      }
+    ],
+    "checkpoint_source": "ordered_seed02_err0.133.pth",
+    "time": 1199.8064014911652,
+    "experiment_id": "Tb1-10-ord-003"
+  },
+  {
+    "seed": 3,
+    "init_error": 0.13729999999999998,
+    "final_error": 0.11580000000000001,
+    "branch": "ordered_up",
+    "epochs_per_lambda": 10,
+    "trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.1352
+      },
+      {
+        "lambda": 0.32,
+        "error": 0.13190000000000002
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.1311
+      },
+      {
+        "lambda": 0.36,
+        "error": 0.13160000000000005
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.12939999999999996
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.13190000000000002
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.12739999999999996
+      },
+      {
+        "lambda": 0.44,
+        "error": 0.12890000000000001
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.12660000000000005
+      },
+      {
+        "lambda": 0.48,
+        "error": 0.12780000000000002
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.12749999999999995
+      },
+      {
+        "lambda": 0.52,
+        "error": 0.12170000000000003
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.12290000000000001
+      },
+      {
+        "lambda": 0.56,
+        "error": 0.12019999999999997
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.1179
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.11829999999999996
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.11919999999999997
+      },
+      {
+        "lambda": 0.64,
+        "error": 0.11939999999999995
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.12119999999999997
+      },
+      {
+        "lambda": 0.68,
+        "error": 0.12050000000000005
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.11580000000000001
+      }
+    ],
+    "checkpoint_source": "ordered_seed03_err0.137.pth",
+    "time": 1187.6371355056763,
+    "experiment_id": "Tb1-10-ord-004"
+  },
+  {
+    "seed": 4,
+    "init_error": 0.1381,
+    "final_error": 0.12170000000000003,
+    "branch": "ordered_up",
+    "epochs_per_lambda": 10,
+    "trajectory": [
+      {
+        "lambda": 0.3,
+        "error": 0.13680000000000003
+      },
+      {
+        "lambda": 0.32,
+        "error": 0.13370000000000004
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.13090000000000002
+      },
+      {
+        "lambda": 0.36,
+        "error": 0.13090000000000002
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.12939999999999996
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.13
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.1291
+      },
+      {
+        "lambda": 0.44,
+        "error": 0.12990000000000002
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.12639999999999996
+      },
+      {
+        "lambda": 0.48,
+        "error": 0.1279
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.128
+      },
+      {
+        "lambda": 0.52,
+        "error": 0.12560000000000004
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.12409999999999999
+      },
+      {
+        "lambda": 0.56,
+        "error": 0.12480000000000002
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.12450000000000006
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.12270000000000003
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.12209999999999999
+      },
+      {
+        "lambda": 0.64,
+        "error": 0.12209999999999999
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.12339999999999995
+      },
+      {
+        "lambda": 0.68,
+        "error": 0.12060000000000004
+      },
+      {
+        "lambda": 0.7,
+        "error": 0.12170000000000003
+      }
+    ],
+    "checkpoint_source": "ordered_seed04_err0.138.pth",
+    "time": 1189.5373132228851,
+    "experiment_id": "Tb1-10-ord-005"
+  },
+  {
+    "seed": 0,
+    "init_error": 0.5423,
+    "final_error": 0.3134,
+    "branch": "collapse_down",
+    "epochs_per_lambda": 10,
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.5253
+      },
+      {
+        "lambda": 0.68,
+        "error": 0.5001
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.4766
+      },
+      {
+        "lambda": 0.64,
+        "error": 0.4578
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.43589999999999995
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.4224
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.4075
+      },
+      {
+        "lambda": 0.56,
+        "error": 0.3962
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.39159999999999995
+      },
+      {
+        "lambda": 0.52,
+        "error": 0.37439999999999996
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.37939999999999996
+      },
+      {
+        "lambda": 0.48,
+        "error": 0.37770000000000004
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.3578
+      },
+      {
+        "lambda": 0.44,
+        "error": 0.34750000000000003
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.35009999999999997
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.35009999999999997
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.33530000000000004
+      },
+      {
+        "lambda": 0.36,
+        "error": 0.3244
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.32230000000000003
+      },
+      {
+        "lambda": 0.32,
+        "error": 0.31510000000000005
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.3134
+      }
+    ],
+    "checkpoint_source": "collapse_seed00_err0.542.pth",
+    "time": 1189.7134516239166,
+    "experiment_id": "Tb1-10-col-001"
+  },
+  {
+    "seed": 2,
+    "init_error": 0.5005,
+    "final_error": 0.2571,
+    "branch": "collapse_down",
+    "epochs_per_lambda": 10,
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.4789
+      },
+      {
+        "lambda": 0.68,
+        "error": 0.45309999999999995
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.41900000000000004
+      },
+      {
+        "lambda": 0.64,
+        "error": 0.3941
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.37860000000000005
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.37649999999999995
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.3597
+      },
+      {
+        "lambda": 0.56,
+        "error": 0.34819999999999995
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.34219999999999995
+      },
+      {
+        "lambda": 0.52,
+        "error": 0.34240000000000004
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.33020000000000005
+      },
+      {
+        "lambda": 0.48,
+        "error": 0.30589999999999995
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.3125
+      },
+      {
+        "lambda": 0.44,
+        "error": 0.2963
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.29200000000000004
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.2865
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.28300000000000003
+      },
+      {
+        "lambda": 0.36,
+        "error": 0.276
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.26480000000000004
+      },
+      {
+        "lambda": 0.32,
+        "error": 0.2629
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.2571
+      }
+    ],
+    "checkpoint_source": "collapse_seed02_err0.500.pth",
+    "time": 1185.1412224769592,
+    "experiment_id": "Tb1-10-col-002"
+  },
+  {
+    "seed": 4,
+    "init_error": 0.47240000000000004,
+    "final_error": 0.2602,
+    "branch": "collapse_down",
+    "epochs_per_lambda": 10,
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.46230000000000004
+      },
+      {
+        "lambda": 0.68,
+        "error": 0.43920000000000003
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.42769999999999997
+      },
+      {
+        "lambda": 0.64,
+        "error": 0.42100000000000004
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.40659999999999996
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.3913
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.38170000000000004
+      },
+      {
+        "lambda": 0.56,
+        "error": 0.372
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.3601
+      },
+      {
+        "lambda": 0.52,
+        "error": 0.3589
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.3315
+      },
+      {
+        "lambda": 0.48,
+        "error": 0.3319
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.3133
+      },
+      {
+        "lambda": 0.44,
+        "error": 0.3015
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.30100000000000005
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.2882
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.2814
+      },
+      {
+        "lambda": 0.36,
+        "error": 0.2764
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.26880000000000004
+      },
+      {
+        "lambda": 0.32,
+        "error": 0.27759999999999996
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.2602
+      }
+    ],
+    "checkpoint_source": "collapse_seed04_err0.472.pth",
+    "time": 1192.1666629314423,
+    "experiment_id": "Tb1-10-col-003"
+  }
+]

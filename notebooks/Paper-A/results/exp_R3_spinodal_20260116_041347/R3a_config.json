@@ -1,0 +1,36 @@
+{
+  "experiment": "exp_R3_spinodal",
+  "notebook_id": "R3a",
+  "direction": "ordered_to_collapse",
+  "parameters": {
+    "init_lambda": 0.35,
+    "init_epochs": 30,
+    "collapse_threshold": 0.4,
+    "collapse_sustain": 3,
+    "lambda_range": [
+      0.4,
+      0.7,
+      0.02
+    ],
+    "noise_rates": [
+      0.4,
+      0.8
+    ],
+    "hold_types": [
+      "short",
+      "long"
+    ],
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

@@ -1,0 +1,5842 @@
+[
+  {
+    "seed": 0,
+    "init_error": 0.2338,
+    "init_success": true,
+    "lambda_up": null,
+    "collapsed": false,
+    "final_lambda": 0.7,
+    "final_error": 0.09670000000000001,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 10,
+        "error": 0.39370000000000005
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 20,
+        "error": 0.3912
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 30,
+        "error": 0.2469
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 40,
+        "error": 0.4535
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 50,
+        "error": 0.2338
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.1511
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.14839999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.14800000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.14259999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.14029999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.13770000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.13129999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.14149999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.12760000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.127
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 61,
+        "error": 0.13329999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 62,
+        "error": 0.12980000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 63,
+        "error": 0.12660000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 64,
+        "error": 0.13119999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 65,
+        "error": 0.12949999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 66,
+        "error": 0.1269
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 67,
+        "error": 0.13629999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 68,
+        "error": 0.12939999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 69,
+        "error": 0.12919999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 70,
+        "error": 0.12549999999999994
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 71,
+        "error": 0.12749999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 72,
+        "error": 0.12450000000000006
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 73,
+        "error": 0.12919999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 74,
+        "error": 0.12160000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 75,
+        "error": 0.12870000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 76,
+        "error": 0.11329999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 77,
+        "error": 0.11109999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 78,
+        "error": 0.10840000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 79,
+        "error": 0.10850000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 80,
+        "error": 0.1069
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 81,
+        "error": 0.10629999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 82,
+        "error": 0.1058
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 83,
+        "error": 0.10529999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 84,
+        "error": 0.10429999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 85,
+        "error": 0.10319999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 86,
+        "error": 0.10260000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 87,
+        "error": 0.10319999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 88,
+        "error": 0.10440000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 89,
+        "error": 0.10189999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 90,
+        "error": 0.10540000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 91,
+        "error": 0.10309999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 92,
+        "error": 0.10299999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 93,
+        "error": 0.10289999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 94,
+        "error": 0.10319999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 95,
+        "error": 0.10309999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 96,
+        "error": 0.10160000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 97,
+        "error": 0.10309999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 98,
+        "error": 0.1028
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 99,
+        "error": 0.10509999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 100,
+        "error": 0.1028
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 101,
+        "error": 0.10299999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 102,
+        "error": 0.09970000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 103,
+        "error": 0.10050000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 104,
+        "error": 0.10070000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 105,
+        "error": 0.10229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 106,
+        "error": 0.10140000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 107,
+        "error": 0.09940000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 108,
+        "error": 0.09940000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 109,
+        "error": 0.10019999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 110,
+        "error": 0.09940000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 111,
+        "error": 0.09850000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 112,
+        "error": 0.0978
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 113,
+        "error": 0.09909999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 114,
+        "error": 0.10009999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 115,
+        "error": 0.09860000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 116,
+        "error": 0.09989999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 117,
+        "error": 0.09860000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 118,
+        "error": 0.09650000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 119,
+        "error": 0.09819999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 120,
+        "error": 0.09619999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 121,
+        "error": 0.09670000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 122,
+        "error": 0.09809999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 123,
+        "error": 0.09899999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 124,
+        "error": 0.09870000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 125,
+        "error": 0.09999999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 126,
+        "error": 0.09989999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 127,
+        "error": 0.09770000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 128,
+        "error": 0.09730000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 129,
+        "error": 0.09709999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 130,
+        "error": 0.09950000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 131,
+        "error": 0.09840000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 132,
+        "error": 0.09689999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 133,
+        "error": 0.09940000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 134,
+        "error": 0.09689999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 135,
+        "error": 0.09909999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 136,
+        "error": 0.09889999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 137,
+        "error": 0.09889999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 138,
+        "error": 0.0978
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 139,
+        "error": 0.10029999999999994
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 140,
+        "error": 0.09670000000000001
+      }
+    ],
+    "experiment_id": "T1-spinodal-000",
+    "eta": 0.4,
+    "time": 857.5498514175415
+  },
+  {
+    "seed": 1,
+    "init_error": 0.24880000000000002,
+    "init_success": true,
+    "lambda_up": null,
+    "collapsed": false,
+    "final_lambda": 0.7,
+    "final_error": 0.1008,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 10,
+        "error": 0.48650000000000004
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 20,
+        "error": 0.33240000000000003
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 30,
+        "error": 0.24580000000000002
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 40,
+        "error": 0.3346
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 50,
+        "error": 0.24880000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.15369999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.1483
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.1452
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.13880000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.13849999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.1402
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.13529999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.13490000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.12880000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.1371
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 61,
+        "error": 0.1311
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 62,
+        "error": 0.13229999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 63,
+        "error": 0.1321
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 64,
+        "error": 0.12970000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 65,
+        "error": 0.1352
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 66,
+        "error": 0.13
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 67,
+        "error": 0.13170000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 68,
+        "error": 0.13139999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 69,
+        "error": 0.1321
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 70,
+        "error": 0.12829999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 71,
+        "error": 0.13929999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 72,
+        "error": 0.128
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 73,
+        "error": 0.12580000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 74,
+        "error": 0.12860000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 75,
+        "error": 0.13139999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 76,
+        "error": 0.11909999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 77,
+        "error": 0.11539999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 78,
+        "error": 0.11350000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 79,
+        "error": 0.11339999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 80,
+        "error": 0.11319999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 81,
+        "error": 0.11140000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 82,
+        "error": 0.10960000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 83,
+        "error": 0.11040000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 84,
+        "error": 0.10870000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 85,
+        "error": 0.1099
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 86,
+        "error": 0.10919999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 87,
+        "error": 0.10729999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 88,
+        "error": 0.10760000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 89,
+        "error": 0.10519999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 90,
+        "error": 0.1068
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 91,
+        "error": 0.1068
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 92,
+        "error": 0.10870000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 93,
+        "error": 0.10719999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 94,
+        "error": 0.10840000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 95,
+        "error": 0.10909999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 96,
+        "error": 0.10909999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 97,
+        "error": 0.10760000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 98,
+        "error": 0.10340000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 99,
+        "error": 0.10519999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 100,
+        "error": 0.10599999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 101,
+        "error": 0.10650000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 102,
+        "error": 0.10709999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 103,
+        "error": 0.10389999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 104,
+        "error": 0.1049
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 105,
+        "error": 0.10560000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 106,
+        "error": 0.10440000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 107,
+        "error": 0.10419999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 108,
+        "error": 0.10389999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 109,
+        "error": 0.10509999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 110,
+        "error": 0.10350000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 111,
+        "error": 0.10509999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 112,
+        "error": 0.10389999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 113,
+        "error": 0.10209999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 114,
+        "error": 0.10419999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 115,
+        "error": 0.10529999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 116,
+        "error": 0.10450000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 117,
+        "error": 0.10309999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 118,
+        "error": 0.10219999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 119,
+        "error": 0.10340000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 120,
+        "error": 0.1018
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 121,
+        "error": 0.10409999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 122,
+        "error": 0.10319999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 123,
+        "error": 0.10299999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 124,
+        "error": 0.10170000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 125,
+        "error": 0.10350000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 126,
+        "error": 0.10209999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 127,
+        "error": 0.10250000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 128,
+        "error": 0.10050000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 129,
+        "error": 0.10170000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 130,
+        "error": 0.10160000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 131,
+        "error": 0.10109999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 132,
+        "error": 0.10129999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 133,
+        "error": 0.10270000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 134,
+        "error": 0.10250000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 135,
+        "error": 0.10309999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 136,
+        "error": 0.10009999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 137,
+        "error": 0.10270000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 138,
+        "error": 0.10319999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 139,
+        "error": 0.09909999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 140,
+        "error": 0.1008
+      }
+    ],
+    "experiment_id": "T1-spinodal-001",
+    "eta": 0.4,
+    "time": 859.0741014480591
+  },
+  {
+    "seed": 2,
+    "init_error": 0.21309999999999996,
+    "init_success": true,
+    "lambda_up": null,
+    "collapsed": false,
+    "final_lambda": 0.7,
+    "final_error": 0.09830000000000005,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 10,
+        "error": 0.47109999999999996
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 20,
+        "error": 0.49029999999999996
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 30,
+        "error": 0.25529999999999997
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 40,
+        "error": 0.3304
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 50,
+        "error": 0.21309999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.15469999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.1573
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.14939999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.14859999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.14170000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.13929999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.1392
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.13339999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.13390000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.13180000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 61,
+        "error": 0.13429999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 62,
+        "error": 0.13749999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 63,
+        "error": 0.12819999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 64,
+        "error": 0.12829999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 65,
+        "error": 0.131
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 66,
+        "error": 0.13049999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 67,
+        "error": 0.12649999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 68,
+        "error": 0.12980000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 69,
+        "error": 0.13129999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 70,
+        "error": 0.13880000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 71,
+        "error": 0.133
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 72,
+        "error": 0.12649999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 73,
+        "error": 0.13190000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 74,
+        "error": 0.13080000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 75,
+        "error": 0.12839999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 76,
+        "error": 0.1139
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 77,
+        "error": 0.11160000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 78,
+        "error": 0.11040000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 79,
+        "error": 0.10840000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 80,
+        "error": 0.10860000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 81,
+        "error": 0.10770000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 82,
+        "error": 0.10650000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 83,
+        "error": 0.10719999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 84,
+        "error": 0.10650000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 85,
+        "error": 0.10640000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 86,
+        "error": 0.10640000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 87,
+        "error": 0.10460000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 88,
+        "error": 0.10460000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 89,
+        "error": 0.10440000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 90,
+        "error": 0.1049
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 91,
+        "error": 0.10499999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 92,
+        "error": 0.10440000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 93,
+        "error": 0.10319999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 94,
+        "error": 0.10189999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 95,
+        "error": 0.10309999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 96,
+        "error": 0.10229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 97,
+        "error": 0.10299999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 98,
+        "error": 0.1028
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 99,
+        "error": 0.10250000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 100,
+        "error": 0.1018
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 101,
+        "error": 0.1018
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 102,
+        "error": 0.10240000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 103,
+        "error": 0.10050000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 104,
+        "error": 0.09940000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 105,
+        "error": 0.10119999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 106,
+        "error": 0.10160000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 107,
+        "error": 0.10150000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 108,
+        "error": 0.10319999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 109,
+        "error": 0.1008
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 110,
+        "error": 0.09909999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 111,
+        "error": 0.10219999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 112,
+        "error": 0.10019999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 113,
+        "error": 0.10150000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 114,
+        "error": 0.10119999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 115,
+        "error": 0.10129999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 116,
+        "error": 0.10129999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 117,
+        "error": 0.10209999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 118,
+        "error": 0.10219999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 119,
+        "error": 0.1038
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 120,
+        "error": 0.09960000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 121,
+        "error": 0.09940000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 122,
+        "error": 0.10019999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 123,
+        "error": 0.10309999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 124,
+        "error": 0.10219999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 125,
+        "error": 0.09830000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 126,
+        "error": 0.10160000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 127,
+        "error": 0.10009999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 128,
+        "error": 0.1008
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 129,
+        "error": 0.09930000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 130,
+        "error": 0.10089999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 131,
+        "error": 0.09940000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 132,
+        "error": 0.10019999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 133,
+        "error": 0.10319999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 134,
+        "error": 0.10299999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 135,
+        "error": 0.09940000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 136,
+        "error": 0.09950000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 137,
+        "error": 0.0998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 138,
+        "error": 0.09930000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 139,
+        "error": 0.09850000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 140,
+        "error": 0.09830000000000005
+      }
+    ],
+    "experiment_id": "T1-spinodal-002",
+    "eta": 0.4,
+    "time": 862.0052518844604
+  },
+  {
+    "seed": 3,
+    "init_error": 0.23109999999999997,
+    "init_success": true,
+    "lambda_up": null,
+    "collapsed": false,
+    "final_lambda": 0.7,
+    "final_error": 0.1028,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 10,
+        "error": 0.43310000000000004
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 20,
+        "error": 0.39590000000000003
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 30,
+        "error": 0.23970000000000002
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 40,
+        "error": 0.3509
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 50,
+        "error": 0.23109999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.16169999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.1512
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.14600000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.14680000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.1412
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.13980000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.13739999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.14080000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.131
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.13990000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 61,
+        "error": 0.1351
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 62,
+        "error": 0.1362
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 63,
+        "error": 0.12560000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 64,
+        "error": 0.12890000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 65,
+        "error": 0.13239999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 66,
+        "error": 0.13329999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 67,
+        "error": 0.13329999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 68,
+        "error": 0.133
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 69,
+        "error": 0.136
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 70,
+        "error": 0.13070000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 71,
+        "error": 0.1321
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 72,
+        "error": 0.12949999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 73,
+        "error": 0.13260000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 74,
+        "error": 0.14070000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 75,
+        "error": 0.13119999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 76,
+        "error": 0.11760000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 77,
+        "error": 0.11660000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 78,
+        "error": 0.11250000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 79,
+        "error": 0.11499999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 80,
+        "error": 0.1129
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 81,
+        "error": 0.11009999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 82,
+        "error": 0.10950000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 83,
+        "error": 0.10960000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 84,
+        "error": 0.11199999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 85,
+        "error": 0.11109999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 86,
+        "error": 0.10919999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 87,
+        "error": 0.10829999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 88,
+        "error": 0.10899999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 89,
+        "error": 0.10850000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 90,
+        "error": 0.10670000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 91,
+        "error": 0.1068
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 92,
+        "error": 0.10609999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 93,
+        "error": 0.10629999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 94,
+        "error": 0.10670000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 95,
+        "error": 0.10729999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 96,
+        "error": 0.10640000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 97,
+        "error": 0.10529999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 98,
+        "error": 0.10570000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 99,
+        "error": 0.10770000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 100,
+        "error": 0.10470000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 101,
+        "error": 0.1038
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 102,
+        "error": 0.10470000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 103,
+        "error": 0.1059
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 104,
+        "error": 0.1048
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 105,
+        "error": 0.10640000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 106,
+        "error": 0.10529999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 107,
+        "error": 0.1048
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 108,
+        "error": 0.10329999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 109,
+        "error": 0.10399999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 110,
+        "error": 0.10440000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 111,
+        "error": 0.10299999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 112,
+        "error": 0.10499999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 113,
+        "error": 0.10570000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 114,
+        "error": 0.10340000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 115,
+        "error": 0.10309999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 116,
+        "error": 0.10440000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 117,
+        "error": 0.10289999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 118,
+        "error": 0.10570000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 119,
+        "error": 0.10470000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 120,
+        "error": 0.10509999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 121,
+        "error": 0.10350000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 122,
+        "error": 0.1028
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 123,
+        "error": 0.10240000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 124,
+        "error": 0.10529999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 125,
+        "error": 0.10350000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 126,
+        "error": 0.10350000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 127,
+        "error": 0.10260000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 128,
+        "error": 0.10189999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 129,
+        "error": 0.10240000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 130,
+        "error": 0.1058
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 131,
+        "error": 0.10309999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 132,
+        "error": 0.10429999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 133,
+        "error": 0.10409999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 134,
+        "error": 0.10229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 135,
+        "error": 0.10219999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 136,
+        "error": 0.10070000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 137,
+        "error": 0.10229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 138,
+        "error": 0.10409999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 139,
+        "error": 0.10289999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 140,
+        "error": 0.1028
+      }
+    ],
+    "experiment_id": "T1-spinodal-003",
+    "eta": 0.4,
+    "time": 870.2959313392639
+  },
+  {
+    "seed": 4,
+    "init_error": 0.2349,
+    "init_success": true,
+    "lambda_up": null,
+    "collapsed": false,
+    "final_lambda": 0.7,
+    "final_error": 0.0998,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 10,
+        "error": 0.4829
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 20,
+        "error": 0.4335
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 30,
+        "error": 0.32289999999999996
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 40,
+        "error": 0.3648
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 50,
+        "error": 0.2349
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.15280000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.15849999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.14739999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.14439999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.13790000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.136
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.1392
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.1351
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.13139999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.12980000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 61,
+        "error": 0.13490000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 62,
+        "error": 0.13480000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 63,
+        "error": 0.13170000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 64,
+        "error": 0.13270000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 65,
+        "error": 0.13190000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 66,
+        "error": 0.1291
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 67,
+        "error": 0.13929999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 68,
+        "error": 0.12819999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 69,
+        "error": 0.12949999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 70,
+        "error": 0.13490000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 71,
+        "error": 0.12329999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 72,
+        "error": 0.13770000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 73,
+        "error": 0.12949999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 74,
+        "error": 0.12990000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 75,
+        "error": 0.12890000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 76,
+        "error": 0.11860000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 77,
+        "error": 0.11539999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 78,
+        "error": 0.11240000000000006
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 79,
+        "error": 0.11209999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 80,
+        "error": 0.11470000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 81,
+        "error": 0.11170000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 82,
+        "error": 0.10929999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 83,
+        "error": 0.10950000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 84,
+        "error": 0.10860000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 85,
+        "error": 0.11009999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 86,
+        "error": 0.10819999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 87,
+        "error": 0.10940000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 88,
+        "error": 0.10719999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 89,
+        "error": 0.10999999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 90,
+        "error": 0.1099
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 91,
+        "error": 0.1068
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 92,
+        "error": 0.10719999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 93,
+        "error": 0.10799999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 94,
+        "error": 0.10540000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 95,
+        "error": 0.1068
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 96,
+        "error": 0.1058
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 97,
+        "error": 0.10470000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 98,
+        "error": 0.10529999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 99,
+        "error": 0.10640000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 100,
+        "error": 0.10419999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 101,
+        "error": 0.10399999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 102,
+        "error": 0.10470000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 103,
+        "error": 0.1049
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 104,
+        "error": 0.10419999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 105,
+        "error": 0.10370000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 106,
+        "error": 0.10370000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 107,
+        "error": 0.1049
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 108,
+        "error": 0.10299999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 109,
+        "error": 0.10450000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 110,
+        "error": 0.1038
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 111,
+        "error": 0.10350000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 112,
+        "error": 0.10470000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 113,
+        "error": 0.10229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 114,
+        "error": 0.10299999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 115,
+        "error": 0.1038
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 116,
+        "error": 0.1038
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 117,
+        "error": 0.10160000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 118,
+        "error": 0.10250000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 119,
+        "error": 0.10119999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 120,
+        "error": 0.10340000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 121,
+        "error": 0.10360000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 122,
+        "error": 0.10060000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 123,
+        "error": 0.10219999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 124,
+        "error": 0.1008
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 125,
+        "error": 0.10219999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 126,
+        "error": 0.09899999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 127,
+        "error": 0.10140000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 128,
+        "error": 0.10150000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 129,
+        "error": 0.10070000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 130,
+        "error": 0.1008
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 131,
+        "error": 0.10170000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 132,
+        "error": 0.10140000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 133,
+        "error": 0.09899999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 134,
+        "error": 0.10070000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 135,
+        "error": 0.10229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 136,
+        "error": 0.10389999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 137,
+        "error": 0.09870000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 138,
+        "error": 0.09950000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 139,
+        "error": 0.09899999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 140,
+        "error": 0.0998
+      }
+    ],
+    "experiment_id": "T1-spinodal-004",
+    "eta": 0.4,
+    "time": 863.3366918563843
+  },
+  {
+    "seed": 5,
+    "init_error": 0.24129999999999996,
+    "init_success": true,
+    "lambda_up": null,
+    "collapsed": false,
+    "final_lambda": 0.7,
+    "final_error": 0.1049,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 10,
+        "error": 0.44289999999999996
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 20,
+        "error": 0.3278
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 30,
+        "error": 0.2913
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 40,
+        "error": 0.36519999999999997
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 50,
+        "error": 0.24129999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.15690000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.15449999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.1451
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.14329999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.136
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.13949999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.14139999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.1421
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.13190000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.13680000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 61,
+        "error": 0.13839999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 62,
+        "error": 0.13139999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 63,
+        "error": 0.13329999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 64,
+        "error": 0.13490000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 65,
+        "error": 0.13170000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 66,
+        "error": 0.13319999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 67,
+        "error": 0.12490000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 68,
+        "error": 0.133
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 69,
+        "error": 0.12780000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 70,
+        "error": 0.12870000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 71,
+        "error": 0.13060000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 72,
+        "error": 0.12819999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 73,
+        "error": 0.12829999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 74,
+        "error": 0.12580000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 75,
+        "error": 0.12990000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 76,
+        "error": 0.11419999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 77,
+        "error": 0.11180000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 78,
+        "error": 0.10929999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 79,
+        "error": 0.11150000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 80,
+        "error": 0.10760000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 81,
+        "error": 0.10670000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 82,
+        "error": 0.1099
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 83,
+        "error": 0.10919999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 84,
+        "error": 0.10809999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 85,
+        "error": 0.10750000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 86,
+        "error": 0.1068
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 87,
+        "error": 0.10929999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 88,
+        "error": 0.10619999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 89,
+        "error": 0.10609999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 90,
+        "error": 0.10409999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 91,
+        "error": 0.10370000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 92,
+        "error": 0.10429999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 93,
+        "error": 0.10650000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 94,
+        "error": 0.10450000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 95,
+        "error": 0.10260000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 96,
+        "error": 0.10319999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 97,
+        "error": 0.10350000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 98,
+        "error": 0.10360000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 99,
+        "error": 0.10340000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 100,
+        "error": 0.10270000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 101,
+        "error": 0.10289999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 102,
+        "error": 0.10319999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 103,
+        "error": 0.10229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 104,
+        "error": 0.10409999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 105,
+        "error": 0.10360000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 106,
+        "error": 0.10350000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 107,
+        "error": 0.10450000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 108,
+        "error": 0.1028
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 109,
+        "error": 0.10370000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 110,
+        "error": 0.10240000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 111,
+        "error": 0.10419999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 112,
+        "error": 0.10429999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 113,
+        "error": 0.10409999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 114,
+        "error": 0.10450000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 115,
+        "error": 0.10509999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 116,
+        "error": 0.10250000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 117,
+        "error": 0.1028
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 118,
+        "error": 0.10450000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 119,
+        "error": 0.10289999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 120,
+        "error": 0.10250000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 121,
+        "error": 0.10289999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 122,
+        "error": 0.10289999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 123,
+        "error": 0.10219999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 124,
+        "error": 0.10150000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 125,
+        "error": 0.10199999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 126,
+        "error": 0.10509999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 127,
+        "error": 0.10429999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 128,
+        "error": 0.10360000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 129,
+        "error": 0.10170000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 130,
+        "error": 0.10429999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 131,
+        "error": 0.10399999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 132,
+        "error": 0.10219999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 133,
+        "error": 0.10219999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 134,
+        "error": 0.10199999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 135,
+        "error": 0.10250000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 136,
+        "error": 0.10009999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 137,
+        "error": 0.10460000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 138,
+        "error": 0.10399999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 139,
+        "error": 0.10219999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 140,
+        "error": 0.1049
+      }
+    ],
+    "experiment_id": "T1-spinodal-005",
+    "eta": 0.4,
+    "time": 863.1292810440063
+  },
+  {
+    "seed": 6,
+    "init_error": 0.2459,
+    "init_success": true,
+    "lambda_up": null,
+    "collapsed": false,
+    "final_lambda": 0.7,
+    "final_error": 0.10060000000000002,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 10,
+        "error": 0.4456
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 20,
+        "error": 0.40959999999999996
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 30,
+        "error": 0.27780000000000005
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 40,
+        "error": 0.34140000000000004
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 50,
+        "error": 0.2459
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.15700000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.14770000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.14749999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.14159999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.13770000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.13639999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.1392
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.13229999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.13249999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.12729999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 61,
+        "error": 0.13229999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 62,
+        "error": 0.13639999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 63,
+        "error": 0.12939999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 64,
+        "error": 0.13570000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 65,
+        "error": 0.135
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 66,
+        "error": 0.1291
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 67,
+        "error": 0.1259
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 68,
+        "error": 0.13260000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 69,
+        "error": 0.125
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 70,
+        "error": 0.1259
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 71,
+        "error": 0.127
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 72,
+        "error": 0.13360000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 73,
+        "error": 0.13549999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 74,
+        "error": 0.13060000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 75,
+        "error": 0.12739999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 76,
+        "error": 0.11639999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 77,
+        "error": 0.11299999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 78,
+        "error": 0.11240000000000006
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 79,
+        "error": 0.11040000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 80,
+        "error": 0.10940000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 81,
+        "error": 0.10940000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 82,
+        "error": 0.10840000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 83,
+        "error": 0.10909999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 84,
+        "error": 0.1078
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 85,
+        "error": 0.10850000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 86,
+        "error": 0.10760000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 87,
+        "error": 0.10719999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 88,
+        "error": 0.10499999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 89,
+        "error": 0.1079
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 90,
+        "error": 0.10650000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 91,
+        "error": 0.10770000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 92,
+        "error": 0.10429999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 93,
+        "error": 0.10670000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 94,
+        "error": 0.10409999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 95,
+        "error": 0.10450000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 96,
+        "error": 0.10319999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 97,
+        "error": 0.10409999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 98,
+        "error": 0.10509999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 99,
+        "error": 0.10609999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 100,
+        "error": 0.10609999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 101,
+        "error": 0.10560000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 102,
+        "error": 0.1048
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 103,
+        "error": 0.10550000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 104,
+        "error": 0.10509999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 105,
+        "error": 0.10389999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 106,
+        "error": 0.10409999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 107,
+        "error": 0.10409999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 108,
+        "error": 0.10429999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 109,
+        "error": 0.1048
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 110,
+        "error": 0.10119999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 111,
+        "error": 0.10009999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 112,
+        "error": 0.10070000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 113,
+        "error": 0.10029999999999994
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 114,
+        "error": 0.10050000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 115,
+        "error": 0.10170000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 116,
+        "error": 0.10089999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 117,
+        "error": 0.10170000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 118,
+        "error": 0.09950000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 119,
+        "error": 0.1018
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 120,
+        "error": 0.10229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 121,
+        "error": 0.10160000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 122,
+        "error": 0.10099999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 123,
+        "error": 0.10150000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 124,
+        "error": 0.0988
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 125,
+        "error": 0.10070000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 126,
+        "error": 0.09970000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 127,
+        "error": 0.1008
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 128,
+        "error": 0.09970000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 129,
+        "error": 0.10160000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 130,
+        "error": 0.0988
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 131,
+        "error": 0.10099999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 132,
+        "error": 0.10140000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 133,
+        "error": 0.10009999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 134,
+        "error": 0.0988
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 135,
+        "error": 0.10060000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 136,
+        "error": 0.09940000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 137,
+        "error": 0.09899999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 138,
+        "error": 0.10009999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 139,
+        "error": 0.10050000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 140,
+        "error": 0.10060000000000002
+      }
+    ],
+    "experiment_id": "T1-spinodal-006",
+    "eta": 0.4,
+    "time": 860.8603901863098
+  },
+  {
+    "seed": 7,
+    "init_error": 0.24409999999999998,
+    "init_success": true,
+    "lambda_up": null,
+    "collapsed": false,
+    "final_lambda": 0.7,
+    "final_error": 0.09989999999999999,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 10,
+        "error": 0.47109999999999996
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 20,
+        "error": 0.4599
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 30,
+        "error": 0.26239999999999997
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 40,
+        "error": 0.3409
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 50,
+        "error": 0.24409999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.15459999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.15590000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.14380000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.14259999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.13839999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.1491
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.13629999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.12949999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.13690000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.1382
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 61,
+        "error": 0.13939999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 62,
+        "error": 0.13039999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 63,
+        "error": 0.1301
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 64,
+        "error": 0.1421
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 65,
+        "error": 0.12949999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 66,
+        "error": 0.12749999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 67,
+        "error": 0.12890000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 68,
+        "error": 0.13029999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 69,
+        "error": 0.13249999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 70,
+        "error": 0.12319999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 71,
+        "error": 0.13139999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 72,
+        "error": 0.12870000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 73,
+        "error": 0.13139999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 74,
+        "error": 0.13119999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 75,
+        "error": 0.1279
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 76,
+        "error": 0.1179
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 77,
+        "error": 0.1149
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 78,
+        "error": 0.11450000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 79,
+        "error": 0.11199999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 80,
+        "error": 0.11119999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 81,
+        "error": 0.11099999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 82,
+        "error": 0.10740000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 83,
+        "error": 0.10850000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 84,
+        "error": 0.10799999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 85,
+        "error": 0.1089
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 86,
+        "error": 0.10960000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 87,
+        "error": 0.10829999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 88,
+        "error": 0.10829999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 89,
+        "error": 0.10509999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 90,
+        "error": 0.10660000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 91,
+        "error": 0.10809999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 92,
+        "error": 0.10719999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 93,
+        "error": 0.10660000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 94,
+        "error": 0.10840000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 95,
+        "error": 0.1059
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 96,
+        "error": 0.10640000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 97,
+        "error": 0.1069
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 98,
+        "error": 0.10550000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 99,
+        "error": 0.10519999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 100,
+        "error": 0.10370000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 101,
+        "error": 0.10399999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 102,
+        "error": 0.10119999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 103,
+        "error": 0.10350000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 104,
+        "error": 0.10450000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 105,
+        "error": 0.10499999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 106,
+        "error": 0.10409999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 107,
+        "error": 0.10229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 108,
+        "error": 0.10219999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 109,
+        "error": 0.10260000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 110,
+        "error": 0.10170000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 111,
+        "error": 0.10119999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 112,
+        "error": 0.10229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 113,
+        "error": 0.10409999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 114,
+        "error": 0.10289999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 115,
+        "error": 0.10389999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 116,
+        "error": 0.10089999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 117,
+        "error": 0.10329999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 118,
+        "error": 0.10329999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 119,
+        "error": 0.10309999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 120,
+        "error": 0.10009999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 121,
+        "error": 0.10229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 122,
+        "error": 0.10089999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 123,
+        "error": 0.09870000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 124,
+        "error": 0.10329999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 125,
+        "error": 0.10140000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 126,
+        "error": 0.10229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 127,
+        "error": 0.10009999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 128,
+        "error": 0.10209999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 129,
+        "error": 0.10099999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 130,
+        "error": 0.10140000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 131,
+        "error": 0.10270000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 132,
+        "error": 0.09819999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 133,
+        "error": 0.1008
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 134,
+        "error": 0.10009999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 135,
+        "error": 0.09899999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 136,
+        "error": 0.10150000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 137,
+        "error": 0.10089999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 138,
+        "error": 0.10070000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 139,
+        "error": 0.10160000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 140,
+        "error": 0.09989999999999999
+      }
+    ],
+    "experiment_id": "T1-spinodal-007",
+    "eta": 0.4,
+    "time": 861.4433982372284
+  },
+  {
+    "seed": 8,
+    "init_error": 0.2653,
+    "init_success": true,
+    "lambda_up": null,
+    "collapsed": false,
+    "final_lambda": 0.7,
+    "final_error": 0.09860000000000002,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 10,
+        "error": 0.45189999999999997
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 20,
+        "error": 0.3972
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 30,
+        "error": 0.253
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 40,
+        "error": 0.2935
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 50,
+        "error": 0.2653
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.15659999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.14349999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.1382
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.14259999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.13790000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.13160000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.13139999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.13739999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.12819999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.12780000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 61,
+        "error": 0.13229999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 62,
+        "error": 0.13339999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 63,
+        "error": 0.12409999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 64,
+        "error": 0.13029999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 65,
+        "error": 0.12719999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 66,
+        "error": 0.12990000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 67,
+        "error": 0.12329999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 68,
+        "error": 0.12849999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 69,
+        "error": 0.12450000000000006
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 70,
+        "error": 0.12619999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 71,
+        "error": 0.12190000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 72,
+        "error": 0.12990000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 73,
+        "error": 0.131
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 74,
+        "error": 0.1301
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 75,
+        "error": 0.12280000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 76,
+        "error": 0.11270000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 77,
+        "error": 0.11240000000000006
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 78,
+        "error": 0.10880000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 79,
+        "error": 0.1078
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 80,
+        "error": 0.10729999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 81,
+        "error": 0.10609999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 82,
+        "error": 0.10450000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 83,
+        "error": 0.10429999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 84,
+        "error": 0.10509999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 85,
+        "error": 0.10719999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 86,
+        "error": 0.10599999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 87,
+        "error": 0.10399999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 88,
+        "error": 0.10599999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 89,
+        "error": 0.10429999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 90,
+        "error": 0.10419999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 91,
+        "error": 0.10360000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 92,
+        "error": 0.10329999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 93,
+        "error": 0.10270000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 94,
+        "error": 0.10009999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 95,
+        "error": 0.10209999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 96,
+        "error": 0.10160000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 97,
+        "error": 0.10060000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 98,
+        "error": 0.09940000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 99,
+        "error": 0.09999999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 100,
+        "error": 0.09940000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 101,
+        "error": 0.09999999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 102,
+        "error": 0.10060000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 103,
+        "error": 0.10109999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 104,
+        "error": 0.10029999999999994
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 105,
+        "error": 0.09960000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 106,
+        "error": 0.0978
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 107,
+        "error": 0.0998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 108,
+        "error": 0.09909999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 109,
+        "error": 0.10099999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 110,
+        "error": 0.09930000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 111,
+        "error": 0.10140000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 112,
+        "error": 0.09970000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 113,
+        "error": 0.10009999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 114,
+        "error": 0.09709999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 115,
+        "error": 0.09940000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 116,
+        "error": 0.09999999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 117,
+        "error": 0.09970000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 118,
+        "error": 0.0998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 119,
+        "error": 0.09899999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 120,
+        "error": 0.09909999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 121,
+        "error": 0.09719999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 122,
+        "error": 0.09799999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 123,
+        "error": 0.09840000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 124,
+        "error": 0.10029999999999994
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 125,
+        "error": 0.0988
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 126,
+        "error": 0.09950000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 127,
+        "error": 0.10119999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 128,
+        "error": 0.09970000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 129,
+        "error": 0.09889999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 130,
+        "error": 0.09850000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 131,
+        "error": 0.09860000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 132,
+        "error": 0.09760000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 133,
+        "error": 0.09819999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 134,
+        "error": 0.0978
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 135,
+        "error": 0.09630000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 136,
+        "error": 0.09799999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 137,
+        "error": 0.09830000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 138,
+        "error": 0.09840000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 139,
+        "error": 0.09889999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 140,
+        "error": 0.09860000000000002
+      }
+    ],
+    "experiment_id": "T1-spinodal-008",
+    "eta": 0.4,
+    "time": 861.9735896587372
+  },
+  {
+    "seed": 9,
+    "init_error": 0.26160000000000005,
+    "init_success": true,
+    "lambda_up": null,
+    "collapsed": false,
+    "final_lambda": 0.7,
+    "final_error": 0.09750000000000003,
+    "trajectory": [
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 10,
+        "error": 0.45389999999999997
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 20,
+        "error": 0.31389999999999996
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 30,
+        "error": 0.25549999999999995
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 40,
+        "error": 0.34140000000000004
+      },
+      {
+        "phase": "init",
+        "lambda": 0.35,
+        "epoch": 50,
+        "error": 0.26160000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 51,
+        "error": 0.15739999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 52,
+        "error": 0.15190000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 53,
+        "error": 0.14300000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 54,
+        "error": 0.14129999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 55,
+        "error": 0.14329999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 56,
+        "error": 0.13670000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 57,
+        "error": 0.1392
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 58,
+        "error": 0.1321
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 59,
+        "error": 0.12749999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.54,
+        "epoch": 60,
+        "error": 0.12980000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 61,
+        "error": 0.13139999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 62,
+        "error": 0.125
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 63,
+        "error": 0.13880000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 64,
+        "error": 0.13560000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 65,
+        "error": 0.13329999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 66,
+        "error": 0.12549999999999994
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 67,
+        "error": 0.1279
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 68,
+        "error": 0.1291
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 69,
+        "error": 0.12460000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.56,
+        "epoch": 70,
+        "error": 0.12839999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 71,
+        "error": 0.13119999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 72,
+        "error": 0.1261
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 73,
+        "error": 0.1301
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 74,
+        "error": 0.1279
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 75,
+        "error": 0.12339999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 76,
+        "error": 0.11219999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 77,
+        "error": 0.11170000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 78,
+        "error": 0.11050000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 79,
+        "error": 0.10819999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.58,
+        "epoch": 80,
+        "error": 0.10560000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 81,
+        "error": 0.10619999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 82,
+        "error": 0.10440000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 83,
+        "error": 0.10340000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 84,
+        "error": 0.10440000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 85,
+        "error": 0.1038
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 86,
+        "error": 0.10370000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 87,
+        "error": 0.10089999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 88,
+        "error": 0.10229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 89,
+        "error": 0.10270000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.6,
+        "epoch": 90,
+        "error": 0.1028
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 91,
+        "error": 0.10160000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 92,
+        "error": 0.1028
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 93,
+        "error": 0.10099999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 94,
+        "error": 0.10399999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 95,
+        "error": 0.10219999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 96,
+        "error": 0.10199999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 97,
+        "error": 0.10229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 98,
+        "error": 0.1018
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 99,
+        "error": 0.10329999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.62,
+        "epoch": 100,
+        "error": 0.10340000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 101,
+        "error": 0.10199999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 102,
+        "error": 0.10029999999999994
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 103,
+        "error": 0.09989999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 104,
+        "error": 0.10019999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 105,
+        "error": 0.09940000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 106,
+        "error": 0.10140000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 107,
+        "error": 0.10229999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 108,
+        "error": 0.10029999999999994
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 109,
+        "error": 0.0998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.64,
+        "epoch": 110,
+        "error": 0.0998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 111,
+        "error": 0.09899999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 112,
+        "error": 0.10060000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 113,
+        "error": 0.09999999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 114,
+        "error": 0.09950000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 115,
+        "error": 0.10150000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 116,
+        "error": 0.10019999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 117,
+        "error": 0.09899999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 118,
+        "error": 0.09919999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 119,
+        "error": 0.10309999999999997
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.66,
+        "epoch": 120,
+        "error": 0.1018
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 121,
+        "error": 0.09919999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 122,
+        "error": 0.09889999999999999
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 123,
+        "error": 0.10050000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 124,
+        "error": 0.09840000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 125,
+        "error": 0.09860000000000002
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 126,
+        "error": 0.09740000000000004
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 127,
+        "error": 0.09830000000000005
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 128,
+        "error": 0.09819999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 129,
+        "error": 0.0978
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.68,
+        "epoch": 130,
+        "error": 0.09770000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 131,
+        "error": 0.1008
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 132,
+        "error": 0.10019999999999996
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 133,
+        "error": 0.09850000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 134,
+        "error": 0.09850000000000003
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 135,
+        "error": 0.09970000000000001
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 136,
+        "error": 0.10029999999999994
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 137,
+        "error": 0.09919999999999995
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 138,
+        "error": 0.0988
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 139,
+        "error": 0.09899999999999998
+      },
+      {
+        "phase": "sweep",
+        "lambda": 0.7,
+        "epoch": 140,
+        "error": 0.09750000000000003
+      }
+    ],
+    "experiment_id": "T1-spinodal-009",
+    "eta": 0.4,
+    "time": 860.4408411979675
+  }
+]

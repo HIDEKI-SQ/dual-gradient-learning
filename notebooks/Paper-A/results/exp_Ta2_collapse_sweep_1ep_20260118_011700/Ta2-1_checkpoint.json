@@ -1,0 +1,492 @@
+[
+  {
+    "seed": 0,
+    "init_error": 0.5423,
+    "final_error": 0.4897,
+    "lambda_start": 0.7,
+    "lambda_end": 0.3,
+    "epochs_per_lambda": 1,
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.5319
+      },
+      {
+        "lambda": 0.68,
+        "error": 0.5414
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.5382
+      },
+      {
+        "lambda": 0.64,
+        "error": 0.5367
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.5277000000000001
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.5293
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.5219
+      },
+      {
+        "lambda": 0.56,
+        "error": 0.5163
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.5236000000000001
+      },
+      {
+        "lambda": 0.52,
+        "error": 0.515
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.51
+      },
+      {
+        "lambda": 0.48,
+        "error": 0.5091
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.5105
+      },
+      {
+        "lambda": 0.44,
+        "error": 0.5025
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.49970000000000003
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.5041
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.4908
+      },
+      {
+        "lambda": 0.36,
+        "error": 0.4881
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.48919999999999997
+      },
+      {
+        "lambda": 0.32,
+        "error": 0.49029999999999996
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.4897
+      }
+    ],
+    "checkpoint_source": "collapse_seed00_err0.542.pth",
+    "experiment_id": "Ta2-1-001",
+    "eta": 0.4,
+    "time": 134.29443979263306
+  },
+  {
+    "seed": 1,
+    "init_error": 0.9,
+    "final_error": 0.9,
+    "lambda_start": 0.7,
+    "lambda_end": 0.3,
+    "epochs_per_lambda": 1,
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.68,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.64,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.56,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.52,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.48,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.44,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.36,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.32,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.9
+      }
+    ],
+    "checkpoint_source": "collapse_seed01_err0.900.pth",
+    "experiment_id": "Ta2-1-002",
+    "eta": 0.4,
+    "time": 134.10456347465515
+  },
+  {
+    "seed": 2,
+    "init_error": 0.5005,
+    "final_error": 0.4407,
+    "lambda_start": 0.7,
+    "lambda_end": 0.3,
+    "epochs_per_lambda": 1,
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.5005999999999999
+      },
+      {
+        "lambda": 0.68,
+        "error": 0.4981
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.4927
+      },
+      {
+        "lambda": 0.64,
+        "error": 0.49350000000000005
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.4869
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.4877
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.483
+      },
+      {
+        "lambda": 0.56,
+        "error": 0.47709999999999997
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.4807
+      },
+      {
+        "lambda": 0.52,
+        "error": 0.47019999999999995
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.46540000000000004
+      },
+      {
+        "lambda": 0.48,
+        "error": 0.45930000000000004
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.4617
+      },
+      {
+        "lambda": 0.44,
+        "error": 0.45909999999999995
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.4629
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.4538
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.4625
+      },
+      {
+        "lambda": 0.36,
+        "error": 0.45099999999999996
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.45109999999999995
+      },
+      {
+        "lambda": 0.32,
+        "error": 0.44720000000000004
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.4407
+      }
+    ],
+    "checkpoint_source": "collapse_seed02_err0.500.pth",
+    "experiment_id": "Ta2-1-003",
+    "eta": 0.4,
+    "time": 134.16066193580627
+  },
+  {
+    "seed": 3,
+    "init_error": 0.9,
+    "final_error": 0.9,
+    "lambda_start": 0.7,
+    "lambda_end": 0.3,
+    "epochs_per_lambda": 1,
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.68,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.64,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.56,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.52,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.48,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.44,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.36,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.32,
+        "error": 0.9
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.9
+      }
+    ],
+    "checkpoint_source": "collapse_seed03_err0.900.pth",
+    "experiment_id": "Ta2-1-004",
+    "eta": 0.4,
+    "time": 134.4054310321808
+  },
+  {
+    "seed": 4,
+    "init_error": 0.47240000000000004,
+    "final_error": 0.4316,
+    "lambda_start": 0.7,
+    "lambda_end": 0.3,
+    "epochs_per_lambda": 1,
+    "trajectory": [
+      {
+        "lambda": 0.7,
+        "error": 0.46840000000000004
+      },
+      {
+        "lambda": 0.68,
+        "error": 0.46319999999999995
+      },
+      {
+        "lambda": 0.66,
+        "error": 0.46509999999999996
+      },
+      {
+        "lambda": 0.64,
+        "error": 0.47
+      },
+      {
+        "lambda": 0.62,
+        "error": 0.47009999999999996
+      },
+      {
+        "lambda": 0.6,
+        "error": 0.4655
+      },
+      {
+        "lambda": 0.58,
+        "error": 0.4577
+      },
+      {
+        "lambda": 0.56,
+        "error": 0.45809999999999995
+      },
+      {
+        "lambda": 0.54,
+        "error": 0.45509999999999995
+      },
+      {
+        "lambda": 0.52,
+        "error": 0.45330000000000004
+      },
+      {
+        "lambda": 0.5,
+        "error": 0.45009999999999994
+      },
+      {
+        "lambda": 0.48,
+        "error": 0.4486
+      },
+      {
+        "lambda": 0.46,
+        "error": 0.44320000000000004
+      },
+      {
+        "lambda": 0.44,
+        "error": 0.44510000000000005
+      },
+      {
+        "lambda": 0.42,
+        "error": 0.4444
+      },
+      {
+        "lambda": 0.4,
+        "error": 0.44210000000000005
+      },
+      {
+        "lambda": 0.38,
+        "error": 0.43700000000000006
+      },
+      {
+        "lambda": 0.36,
+        "error": 0.43489999999999995
+      },
+      {
+        "lambda": 0.34,
+        "error": 0.43700000000000006
+      },
+      {
+        "lambda": 0.32,
+        "error": 0.43600000000000005
+      },
+      {
+        "lambda": 0.3,
+        "error": 0.4316
+      }
+    ],
+    "checkpoint_source": "collapse_seed04_err0.472.pth",
+    "experiment_id": "Ta2-1-005",
+    "eta": 0.4,
+    "time": 134.33521485328674
+  }
+]

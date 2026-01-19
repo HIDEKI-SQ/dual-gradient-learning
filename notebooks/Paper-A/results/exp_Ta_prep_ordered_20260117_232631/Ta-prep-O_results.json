@@ -1,0 +1,322 @@
+[
+  {
+    "seed": 0,
+    "lambda": 0.35,
+    "final_error": 0.13190000000000002,
+    "is_ordered": true,
+    "checkpoint_path": "/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed00_err0.132.pth",
+    "trajectory": [
+      {
+        "epoch": 10,
+        "error": 0.39370000000000005
+      },
+      {
+        "epoch": 20,
+        "error": 0.3912
+      },
+      {
+        "epoch": 30,
+        "error": 0.2469
+      },
+      {
+        "epoch": 40,
+        "error": 0.13859999999999995
+      },
+      {
+        "epoch": 50,
+        "error": 0.13190000000000002
+      }
+    ],
+    "experiment_id": "Ta-prep-O-000",
+    "eta": 0.4,
+    "time": 283.49274706840515
+  },
+  {
+    "seed": 1,
+    "lambda": 0.35,
+    "final_error": 0.134,
+    "is_ordered": true,
+    "checkpoint_path": "/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed01_err0.134.pth",
+    "trajectory": [
+      {
+        "epoch": 10,
+        "error": 0.48650000000000004
+      },
+      {
+        "epoch": 20,
+        "error": 0.33240000000000003
+      },
+      {
+        "epoch": 30,
+        "error": 0.24580000000000002
+      },
+      {
+        "epoch": 40,
+        "error": 0.14639999999999997
+      },
+      {
+        "epoch": 50,
+        "error": 0.134
+      }
+    ],
+    "experiment_id": "Ta-prep-O-001",
+    "eta": 0.4,
+    "time": 282.41888642311096
+  },
+  {
+    "seed": 2,
+    "lambda": 0.35,
+    "final_error": 0.133,
+    "is_ordered": true,
+    "checkpoint_path": "/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed02_err0.133.pth",
+    "trajectory": [
+      {
+        "epoch": 10,
+        "error": 0.47109999999999996
+      },
+      {
+        "epoch": 20,
+        "error": 0.49029999999999996
+      },
+      {
+        "epoch": 30,
+        "error": 0.25529999999999997
+      },
+      {
+        "epoch": 40,
+        "error": 0.13880000000000003
+      },
+      {
+        "epoch": 50,
+        "error": 0.133
+      }
+    ],
+    "experiment_id": "Ta-prep-O-002",
+    "eta": 0.4,
+    "time": 283.9241678714752
+  },
+  {
+    "seed": 3,
+    "lambda": 0.35,
+    "final_error": 0.13729999999999998,
+    "is_ordered": true,
+    "checkpoint_path": "/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed03_err0.137.pth",
+    "trajectory": [
+      {
+        "epoch": 10,
+        "error": 0.43310000000000004
+      },
+      {
+        "epoch": 20,
+        "error": 0.39590000000000003
+      },
+      {
+        "epoch": 30,
+        "error": 0.23970000000000002
+      },
+      {
+        "epoch": 40,
+        "error": 0.14749999999999996
+      },
+      {
+        "epoch": 50,
+        "error": 0.13729999999999998
+      }
+    ],
+    "experiment_id": "Ta-prep-O-003",
+    "eta": 0.4,
+    "time": 283.705694437027
+  },
+  {
+    "seed": 4,
+    "lambda": 0.35,
+    "final_error": 0.1381,
+    "is_ordered": true,
+    "checkpoint_path": "/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed04_err0.138.pth",
+    "trajectory": [
+      {
+        "epoch": 10,
+        "error": 0.4829
+      },
+      {
+        "epoch": 20,
+        "error": 0.4335
+      },
+      {
+        "epoch": 30,
+        "error": 0.32289999999999996
+      },
+      {
+        "epoch": 40,
+        "error": 0.14590000000000003
+      },
+      {
+        "epoch": 50,
+        "error": 0.1381
+      }
+    ],
+    "experiment_id": "Ta-prep-O-004",
+    "eta": 0.4,
+    "time": 281.6386890411377
+  },
+  {
+    "seed": 5,
+    "lambda": 0.35,
+    "final_error": 0.13370000000000004,
+    "is_ordered": true,
+    "checkpoint_path": "/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed05_err0.134.pth",
+    "trajectory": [
+      {
+        "epoch": 10,
+        "error": 0.44289999999999996
+      },
+      {
+        "epoch": 20,
+        "error": 0.3278
+      },
+      {
+        "epoch": 30,
+        "error": 0.2913
+      },
+      {
+        "epoch": 40,
+        "error": 0.13949999999999996
+      },
+      {
+        "epoch": 50,
+        "error": 0.13370000000000004
+      }
+    ],
+    "experiment_id": "Ta-prep-O-005",
+    "eta": 0.4,
+    "time": 281.82523465156555
+  },
+  {
+    "seed": 6,
+    "lambda": 0.35,
+    "final_error": 0.1351,
+    "is_ordered": true,
+    "checkpoint_path": "/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed06_err0.135.pth",
+    "trajectory": [
+      {
+        "epoch": 10,
+        "error": 0.4456
+      },
+      {
+        "epoch": 20,
+        "error": 0.40959999999999996
+      },
+      {
+        "epoch": 30,
+        "error": 0.27780000000000005
+      },
+      {
+        "epoch": 40,
+        "error": 0.1471
+      },
+      {
+        "epoch": 50,
+        "error": 0.1351
+      }
+    ],
+    "experiment_id": "Ta-prep-O-006",
+    "eta": 0.4,
+    "time": 281.6941478252411
+  },
+  {
+    "seed": 7,
+    "lambda": 0.35,
+    "final_error": 0.13729999999999998,
+    "is_ordered": true,
+    "checkpoint_path": "/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed07_err0.137.pth",
+    "trajectory": [
+      {
+        "epoch": 10,
+        "error": 0.47109999999999996
+      },
+      {
+        "epoch": 20,
+        "error": 0.4599
+      },
+      {
+        "epoch": 30,
+        "error": 0.26239999999999997
+      },
+      {
+        "epoch": 40,
+        "error": 0.1431
+      },
+      {
+        "epoch": 50,
+        "error": 0.13729999999999998
+      }
+    ],
+    "experiment_id": "Ta-prep-O-007",
+    "eta": 0.4,
+    "time": 281.61150097846985
+  },
+  {
+    "seed": 8,
+    "lambda": 0.35,
+    "final_error": 0.1301,
+    "is_ordered": true,
+    "checkpoint_path": "/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed08_err0.130.pth",
+    "trajectory": [
+      {
+        "epoch": 10,
+        "error": 0.45189999999999997
+      },
+      {
+        "epoch": 20,
+        "error": 0.3972
+      },
+      {
+        "epoch": 30,
+        "error": 0.253
+      },
+      {
+        "epoch": 40,
+        "error": 0.1442
+      },
+      {
+        "epoch": 50,
+        "error": 0.1301
+      }
+    ],
+    "experiment_id": "Ta-prep-O-008",
+    "eta": 0.4,
+    "time": 289.4711925983429
+  },
+  {
+    "seed": 9,
+    "lambda": 0.35,
+    "final_error": 0.1331,
+    "is_ordered": true,
+    "checkpoint_path": "/content/drive/MyDrive/dual-gradient-learning/Paper-A/exp_Ta_prep_ordered_20260117_232631/checkpoints/ordered_seed09_err0.133.pth",
+    "trajectory": [
+      {
+        "epoch": 10,
+        "error": 0.45389999999999997
+      },
+      {
+        "epoch": 20,
+        "error": 0.31389999999999996
+      },
+      {
+        "epoch": 30,
+        "error": 0.25549999999999995
+      },
+      {
+        "epoch": 40,
+        "error": 0.14259999999999995
+      },
+      {
+        "epoch": 50,
+        "error": 0.1331
+      }
+    ],
+    "experiment_id": "Ta-prep-O-009",
+    "eta": 0.4,
+    "time": 283.3643491268158
+  }
+]

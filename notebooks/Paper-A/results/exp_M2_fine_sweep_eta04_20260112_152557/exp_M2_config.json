@@ -1,0 +1,36 @@
+{
+  "experiment": "exp_M2_fine_sweep_eta04",
+  "timestamp": "20260112_152557",
+  "description": "Fine lambda sweep around critical region (eta=0.4)",
+  "parameters": {
+    "lambdas": [
+      0.38,
+      0.4,
+      0.42,
+      0.44,
+      0.46,
+      0.48,
+      0.5
+    ],
+    "noise_rate": 0.4,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "epochs": 100,
+    "batch_size": 256,
+    "lr": 0.1,
+    "K": 16
+  },
+  "total_runs": 70,
+  "series": "M (lambda sweep)",
+  "part": "2 of 3 (fine, eta=0.4)"
+}

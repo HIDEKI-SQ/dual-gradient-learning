@@ -1,0 +1,31 @@
+{
+  "experiment": "exp_Q2_hysteresis",
+  "description": "Hysteresis/path dependence: \u03bb schedule effects",
+  "parameters": {
+    "schedule_types": [
+      "fixed_ordered",
+      "fixed_collapse",
+      "quench_to_collapse",
+      "quench_to_ordered",
+      "ramp_up",
+      "ramp_down"
+    ],
+    "noise_rates": [
+      0.4,
+      0.8
+    ],
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "epochs": 100,
+    "batch_size": 256,
+    "lr": 0.1,
+    "K": 16,
+    "quench_epoch": 30
+  },
+  "total_runs": 60
+}
