@@ -1,0 +1,59 @@
+{
+  "experiment": "exp_Y2k10_path_control_long",
+  "experiment_id": "Y2k10",
+  "series": "Y",
+  "experiment_id_prefix": "Y2k10",
+  "dataset": "SST-2",
+  "num_classes": 2,
+  "model_name": "distilbert-base-uncased",
+  "noise_type": "symmetric",
+  "noise_rate": 0.8,
+  "trusted_ratio": 0.05,
+  "phases": [
+    {
+      "name": "phase1_good",
+      "lambda": 0.6,
+      "epochs": 3
+    },
+    {
+      "name": "phase2_damage",
+      "lambda": 0.2,
+      "epochs": 10
+    },
+    {
+      "name": "phase3_recovery",
+      "lambda": 0.6,
+      "epochs": 13
+    }
+  ],
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "batch_size": 64,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "max_seq_length": 128,
+  "use_bf16": true,
+  "max_train_samples": 16000,
+  "output_dir": "Y2k10_results"
+}

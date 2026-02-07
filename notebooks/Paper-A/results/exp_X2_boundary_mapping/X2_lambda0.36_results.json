@@ -1,0 +1,1022 @@
+[
+  {
+    "experiment_id": "X2-000-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 0,
+    "test_acc": 0.2202,
+    "test_error": 0.7798,
+    "best_acc": 0.2202,
+    "best_error": 0.7798,
+    "avg_cos_struct_value": -0.3581,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.2007,
+        "test_error": 0.7993,
+        "test_loss": 0.8268,
+        "loss_struct": 0.674,
+        "loss_value": 0.7308,
+        "c_sv_head": -0.3346
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.2099,
+        "test_error": 0.7901,
+        "test_loss": 0.91,
+        "loss_struct": 0.6133,
+        "loss_value": 0.7826,
+        "c_sv_head": -0.2897
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.2202,
+        "test_error": 0.7798,
+        "test_loss": 1.0353,
+        "loss_struct": 0.5642,
+        "loss_value": 0.723,
+        "c_sv_head": -0.4499
+      }
+    ],
+    "time_seconds": 48.4
+  },
+  {
+    "experiment_id": "X2-001-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 1,
+    "test_acc": 0.3337,
+    "test_error": 0.6663,
+    "best_acc": 0.3337,
+    "best_error": 0.6663,
+    "avg_cos_struct_value": -0.2707,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.281,
+        "test_error": 0.719,
+        "test_loss": 0.7472,
+        "loss_struct": 0.6831,
+        "loss_value": 0.7103,
+        "c_sv_head": -0.1869
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.3119,
+        "test_error": 0.6881,
+        "test_loss": 0.843,
+        "loss_struct": 0.6282,
+        "loss_value": 0.7287,
+        "c_sv_head": -0.1963
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.3337,
+        "test_error": 0.6663,
+        "test_loss": 0.92,
+        "loss_struct": 0.5769,
+        "loss_value": 0.6348,
+        "c_sv_head": -0.4288
+      }
+    ],
+    "time_seconds": 48.5
+  },
+  {
+    "experiment_id": "X2-002-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 2,
+    "test_acc": 0.2764,
+    "test_error": 0.7236,
+    "best_acc": 0.2764,
+    "best_error": 0.7236,
+    "avg_cos_struct_value": -0.3756,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.1938,
+        "test_error": 0.8062,
+        "test_loss": 0.8691,
+        "loss_struct": 0.6594,
+        "loss_value": 0.7638,
+        "c_sv_head": -0.361
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.2397,
+        "test_error": 0.7603,
+        "test_loss": 0.9409,
+        "loss_struct": 0.6024,
+        "loss_value": 0.8133,
+        "c_sv_head": -0.4067
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.2764,
+        "test_error": 0.7236,
+        "test_loss": 0.9874,
+        "loss_struct": 0.5628,
+        "loss_value": 0.7594,
+        "c_sv_head": -0.359
+      }
+    ],
+    "time_seconds": 48.7
+  },
+  {
+    "experiment_id": "X2-003-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 3,
+    "test_acc": 0.2385,
+    "test_error": 0.7615,
+    "best_acc": 0.2385,
+    "best_error": 0.7615,
+    "avg_cos_struct_value": -0.2647,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.1732,
+        "test_error": 0.8268,
+        "test_loss": 0.8376,
+        "loss_struct": 0.6738,
+        "loss_value": 0.7302,
+        "c_sv_head": -0.2862
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.2087,
+        "test_error": 0.7913,
+        "test_loss": 0.9151,
+        "loss_struct": 0.6084,
+        "loss_value": 0.7998,
+        "c_sv_head": -0.1818
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.2385,
+        "test_error": 0.7615,
+        "test_loss": 1.0352,
+        "loss_struct": 0.5634,
+        "loss_value": 0.731,
+        "c_sv_head": -0.3263
+      }
+    ],
+    "time_seconds": 48.9
+  },
+  {
+    "experiment_id": "X2-004-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 4,
+    "test_acc": 0.3303,
+    "test_error": 0.6697,
+    "best_acc": 0.3303,
+    "best_error": 0.6697,
+    "avg_cos_struct_value": -0.113,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.25,
+        "test_error": 0.75,
+        "test_loss": 0.7896,
+        "loss_struct": 0.6847,
+        "loss_value": 0.708,
+        "c_sv_head": -0.0777
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.2913,
+        "test_error": 0.7087,
+        "test_loss": 0.8736,
+        "loss_struct": 0.6274,
+        "loss_value": 0.7383,
+        "c_sv_head": -0.0926
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.3303,
+        "test_error": 0.6697,
+        "test_loss": 0.9499,
+        "loss_struct": 0.5761,
+        "loss_value": 0.6525,
+        "c_sv_head": -0.1687
+      }
+    ],
+    "time_seconds": 48.7
+  },
+  {
+    "experiment_id": "X2-005-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 5,
+    "test_acc": 0.2385,
+    "test_error": 0.7615,
+    "best_acc": 0.2385,
+    "best_error": 0.7615,
+    "avg_cos_struct_value": -0.291,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.1881,
+        "test_error": 0.8119,
+        "test_loss": 0.8508,
+        "loss_struct": 0.6687,
+        "loss_value": 0.7439,
+        "c_sv_head": -0.3404
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.2213,
+        "test_error": 0.7787,
+        "test_loss": 0.9568,
+        "loss_struct": 0.608,
+        "loss_value": 0.7968,
+        "c_sv_head": -0.2934
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.2385,
+        "test_error": 0.7615,
+        "test_loss": 1.0356,
+        "loss_struct": 0.562,
+        "loss_value": 0.7386,
+        "c_sv_head": -0.2392
+      }
+    ],
+    "time_seconds": 48.8
+  },
+  {
+    "experiment_id": "X2-006-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 6,
+    "test_acc": 0.2282,
+    "test_error": 0.7718,
+    "best_acc": 0.3142,
+    "best_error": 0.6858,
+    "avg_cos_struct_value": -0.3631,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.3142,
+        "test_error": 0.6858,
+        "test_loss": 0.7574,
+        "loss_struct": 0.6779,
+        "loss_value": 0.7244,
+        "c_sv_head": -0.502
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.1961,
+        "test_error": 0.8039,
+        "test_loss": 0.8976,
+        "loss_struct": 0.6193,
+        "loss_value": 0.7798,
+        "c_sv_head": -0.2035
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.2282,
+        "test_error": 0.7718,
+        "test_loss": 0.981,
+        "loss_struct": 0.5663,
+        "loss_value": 0.7353,
+        "c_sv_head": -0.3838
+      }
+    ],
+    "time_seconds": 48.9
+  },
+  {
+    "experiment_id": "X2-007-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 7,
+    "test_acc": 0.2099,
+    "test_error": 0.7901,
+    "best_acc": 0.2099,
+    "best_error": 0.7901,
+    "avg_cos_struct_value": -0.3001,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.2053,
+        "test_error": 0.7947,
+        "test_loss": 0.8288,
+        "loss_struct": 0.6665,
+        "loss_value": 0.7452,
+        "c_sv_head": -0.2021
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.1881,
+        "test_error": 0.8119,
+        "test_loss": 0.895,
+        "loss_struct": 0.5999,
+        "loss_value": 0.8022,
+        "c_sv_head": -0.2976
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.2099,
+        "test_error": 0.7901,
+        "test_loss": 1.0111,
+        "loss_struct": 0.548,
+        "loss_value": 0.748,
+        "c_sv_head": -0.4007
+      }
+    ],
+    "time_seconds": 49.2
+  },
+  {
+    "experiment_id": "X2-008-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 8,
+    "test_acc": 0.3028,
+    "test_error": 0.6972,
+    "best_acc": 0.3028,
+    "best_error": 0.6972,
+    "avg_cos_struct_value": -0.3284,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.2053,
+        "test_error": 0.7947,
+        "test_loss": 0.8066,
+        "loss_struct": 0.6783,
+        "loss_value": 0.72,
+        "c_sv_head": -0.3135
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.3028,
+        "test_error": 0.6972,
+        "test_loss": 0.8398,
+        "loss_struct": 0.6135,
+        "loss_value": 0.771,
+        "c_sv_head": -0.3826
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.3028,
+        "test_error": 0.6972,
+        "test_loss": 0.9387,
+        "loss_struct": 0.5683,
+        "loss_value": 0.6809,
+        "c_sv_head": -0.289
+      }
+    ],
+    "time_seconds": 48.6
+  },
+  {
+    "experiment_id": "X2-009-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 9,
+    "test_acc": 0.2661,
+    "test_error": 0.7339,
+    "best_acc": 0.2661,
+    "best_error": 0.7339,
+    "avg_cos_struct_value": -0.2417,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.1938,
+        "test_error": 0.8062,
+        "test_loss": 0.7984,
+        "loss_struct": 0.684,
+        "loss_value": 0.7116,
+        "c_sv_head": -0.1341
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.2489,
+        "test_error": 0.7511,
+        "test_loss": 0.8654,
+        "loss_struct": 0.6252,
+        "loss_value": 0.7736,
+        "c_sv_head": -0.238
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.2661,
+        "test_error": 0.7339,
+        "test_loss": 0.9516,
+        "loss_struct": 0.5765,
+        "loss_value": 0.707,
+        "c_sv_head": -0.3529
+      }
+    ],
+    "time_seconds": 48.6
+  },
+  {
+    "experiment_id": "X2-010-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 10,
+    "test_acc": 0.2924,
+    "test_error": 0.7076,
+    "best_acc": 0.2924,
+    "best_error": 0.7076,
+    "avg_cos_struct_value": -0.1939,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.1961,
+        "test_error": 0.8039,
+        "test_loss": 0.7683,
+        "loss_struct": 0.6859,
+        "loss_value": 0.7087,
+        "c_sv_head": -0.0603
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.2592,
+        "test_error": 0.7408,
+        "test_loss": 0.8683,
+        "loss_struct": 0.6279,
+        "loss_value": 0.76,
+        "c_sv_head": -0.3409
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.2924,
+        "test_error": 0.7076,
+        "test_loss": 0.9312,
+        "loss_struct": 0.5737,
+        "loss_value": 0.6975,
+        "c_sv_head": -0.1804
+      }
+    ],
+    "time_seconds": 48.6
+  },
+  {
+    "experiment_id": "X2-011-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 11,
+    "test_acc": 0.3589,
+    "test_error": 0.6411,
+    "best_acc": 0.3589,
+    "best_error": 0.6411,
+    "avg_cos_struct_value": -0.1684,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.2615,
+        "test_error": 0.7385,
+        "test_loss": 0.7671,
+        "loss_struct": 0.6862,
+        "loss_value": 0.7063,
+        "c_sv_head": -0.2227
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.3154,
+        "test_error": 0.6846,
+        "test_loss": 0.8756,
+        "loss_struct": 0.6408,
+        "loss_value": 0.7135,
+        "c_sv_head": -0.3416
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.3589,
+        "test_error": 0.6411,
+        "test_loss": 0.9452,
+        "loss_struct": 0.5857,
+        "loss_value": 0.6105,
+        "c_sv_head": 0.0591
+      }
+    ],
+    "time_seconds": 48.5
+  },
+  {
+    "experiment_id": "X2-012-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 12,
+    "test_acc": 0.336,
+    "test_error": 0.664,
+    "best_acc": 0.336,
+    "best_error": 0.664,
+    "avg_cos_struct_value": -0.2115,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.2626,
+        "test_error": 0.7374,
+        "test_loss": 0.7507,
+        "loss_struct": 0.6872,
+        "loss_value": 0.7038,
+        "c_sv_head": -0.1707
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.3062,
+        "test_error": 0.6938,
+        "test_loss": 0.8282,
+        "loss_struct": 0.6411,
+        "loss_value": 0.7231,
+        "c_sv_head": -0.2345
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.336,
+        "test_error": 0.664,
+        "test_loss": 0.8955,
+        "loss_struct": 0.588,
+        "loss_value": 0.6428,
+        "c_sv_head": -0.2294
+      }
+    ],
+    "time_seconds": 48.7
+  },
+  {
+    "experiment_id": "X2-013-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 13,
+    "test_acc": 0.3062,
+    "test_error": 0.6938,
+    "best_acc": 0.3062,
+    "best_error": 0.6938,
+    "avg_cos_struct_value": -0.2082,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.2144,
+        "test_error": 0.7856,
+        "test_loss": 0.7746,
+        "loss_struct": 0.6785,
+        "loss_value": 0.7204,
+        "c_sv_head": -0.0688
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.3039,
+        "test_error": 0.6961,
+        "test_loss": 0.8328,
+        "loss_struct": 0.6262,
+        "loss_value": 0.7511,
+        "c_sv_head": -0.4041
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.3062,
+        "test_error": 0.6938,
+        "test_loss": 0.9172,
+        "loss_struct": 0.5771,
+        "loss_value": 0.6814,
+        "c_sv_head": -0.1516
+      }
+    ],
+    "time_seconds": 48.6
+  },
+  {
+    "experiment_id": "X2-014-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 14,
+    "test_acc": 0.281,
+    "test_error": 0.719,
+    "best_acc": 0.2867,
+    "best_error": 0.7133,
+    "avg_cos_struct_value": -0.3138,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.2867,
+        "test_error": 0.7133,
+        "test_loss": 0.8179,
+        "loss_struct": 0.6842,
+        "loss_value": 0.7124,
+        "c_sv_head": -0.2453
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.2546,
+        "test_error": 0.7454,
+        "test_loss": 0.8962,
+        "loss_struct": 0.628,
+        "loss_value": 0.7592,
+        "c_sv_head": -0.4027
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.281,
+        "test_error": 0.719,
+        "test_loss": 0.965,
+        "loss_struct": 0.5794,
+        "loss_value": 0.6912,
+        "c_sv_head": -0.2934
+      }
+    ],
+    "time_seconds": 48.5
+  },
+  {
+    "experiment_id": "X2-015-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 15,
+    "test_acc": 0.289,
+    "test_error": 0.711,
+    "best_acc": 0.289,
+    "best_error": 0.711,
+    "avg_cos_struct_value": -0.2388,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.1995,
+        "test_error": 0.8005,
+        "test_loss": 0.7861,
+        "loss_struct": 0.678,
+        "loss_value": 0.7235,
+        "c_sv_head": -0.3183
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.2615,
+        "test_error": 0.7385,
+        "test_loss": 0.8758,
+        "loss_struct": 0.6225,
+        "loss_value": 0.7588,
+        "c_sv_head": -0.1494
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.289,
+        "test_error": 0.711,
+        "test_loss": 0.9883,
+        "loss_struct": 0.5754,
+        "loss_value": 0.6768,
+        "c_sv_head": -0.2488
+      }
+    ],
+    "time_seconds": 48.6
+  },
+  {
+    "experiment_id": "X2-016-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 16,
+    "test_acc": 0.3257,
+    "test_error": 0.6743,
+    "best_acc": 0.3257,
+    "best_error": 0.6743,
+    "avg_cos_struct_value": -0.1938,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.2443,
+        "test_error": 0.7557,
+        "test_loss": 0.7555,
+        "loss_struct": 0.6843,
+        "loss_value": 0.7084,
+        "c_sv_head": -0.2524
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.2844,
+        "test_error": 0.7156,
+        "test_loss": 0.8714,
+        "loss_struct": 0.6407,
+        "loss_value": 0.7183,
+        "c_sv_head": -0.2173
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.3257,
+        "test_error": 0.6743,
+        "test_loss": 0.9593,
+        "loss_struct": 0.5933,
+        "loss_value": 0.6302,
+        "c_sv_head": -0.1117
+      }
+    ],
+    "time_seconds": 48.9
+  },
+  {
+    "experiment_id": "X2-017-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 17,
+    "test_acc": 0.2683,
+    "test_error": 0.7317,
+    "best_acc": 0.2683,
+    "best_error": 0.7317,
+    "avg_cos_struct_value": -0.2956,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.219,
+        "test_error": 0.781,
+        "test_loss": 0.7653,
+        "loss_struct": 0.6824,
+        "loss_value": 0.7135,
+        "c_sv_head": -0.2404
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.2317,
+        "test_error": 0.7683,
+        "test_loss": 0.8765,
+        "loss_struct": 0.6197,
+        "loss_value": 0.7746,
+        "c_sv_head": -0.5166
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.2683,
+        "test_error": 0.7317,
+        "test_loss": 0.9445,
+        "loss_struct": 0.5674,
+        "loss_value": 0.7112,
+        "c_sv_head": -0.1297
+      }
+    ],
+    "time_seconds": 48.7
+  },
+  {
+    "experiment_id": "X2-018-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 18,
+    "test_acc": 0.2489,
+    "test_error": 0.7511,
+    "best_acc": 0.2489,
+    "best_error": 0.7511,
+    "avg_cos_struct_value": -0.3463,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.1835,
+        "test_error": 0.8165,
+        "test_loss": 0.7889,
+        "loss_struct": 0.6649,
+        "loss_value": 0.7524,
+        "c_sv_head": -0.3452
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.2351,
+        "test_error": 0.7649,
+        "test_loss": 0.899,
+        "loss_struct": 0.602,
+        "loss_value": 0.8032,
+        "c_sv_head": -0.4701
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.2489,
+        "test_error": 0.7511,
+        "test_loss": 1.003,
+        "loss_struct": 0.5554,
+        "loss_value": 0.7279,
+        "c_sv_head": -0.2234
+      }
+    ],
+    "time_seconds": 48.9
+  },
+  {
+    "experiment_id": "X2-019-lam0.36",
+    "experiment": "exp_X2_boundary_mapping",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.36,
+    "seed": 19,
+    "test_acc": 0.2213,
+    "test_error": 0.7787,
+    "best_acc": 0.2454,
+    "best_error": 0.7546,
+    "avg_cos_struct_value": -0.2606,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.2454,
+        "test_error": 0.7546,
+        "test_loss": 0.814,
+        "loss_struct": 0.6713,
+        "loss_value": 0.7362,
+        "c_sv_head": -0.28
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.2213,
+        "test_error": 0.7787,
+        "test_loss": 0.9235,
+        "loss_struct": 0.6008,
+        "loss_value": 0.7968,
+        "c_sv_head": -0.4225
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.2213,
+        "test_error": 0.7787,
+        "test_loss": 1.0028,
+        "loss_struct": 0.5488,
+        "loss_value": 0.733,
+        "c_sv_head": -0.0793
+      }
+    ],
+    "time_seconds": 48.5
+  }
+]

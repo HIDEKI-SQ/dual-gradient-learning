@@ -1,0 +1,45 @@
+{
+  "experiment_id": "Y1B-003-lam0.60",
+  "experiment": "exp_Y1B_time_control_short",
+  "seed": 3,
+  "lambda": 0.6,
+  "noise_rate": 0.8,
+  "trusted_ratio": 0.05,
+  "epochs": 3,
+  "test_error": 0.272936,
+  "best_error": 0.158257,
+  "best_epoch": 1,
+  "epoch_logs": [
+    {
+      "epoch": 1,
+      "test_error": 0.158257,
+      "test_acc": 0.841743,
+      "test_loss": 0.373656,
+      "train_loss_struct": 1.097888,
+      "train_loss_value": 0.367948,
+      "mean_cos_sv": -0.708804,
+      "n_batches": 250
+    },
+    {
+      "epoch": 2,
+      "test_error": 0.216743,
+      "test_acc": 0.783257,
+      "test_loss": 0.535829,
+      "train_loss_struct": 1.753618,
+      "train_loss_value": 0.078924,
+      "mean_cos_sv": -0.84016,
+      "n_batches": 250
+    },
+    {
+      "epoch": 3,
+      "test_error": 0.272936,
+      "test_acc": 0.727064,
+      "test_loss": 1.005198,
+      "train_loss_struct": 2.318873,
+      "train_loss_value": 0.01511,
+      "mean_cos_sv": -0.758954,
+      "n_batches": 250
+    }
+  ],
+  "time_seconds": 50.4
+}

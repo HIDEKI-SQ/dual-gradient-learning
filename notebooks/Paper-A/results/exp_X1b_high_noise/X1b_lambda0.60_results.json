@@ -1,0 +1,1022 @@
+[
+  {
+    "experiment_id": "X1b-000-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 0,
+    "test_acc": 0.8154,
+    "test_error": 0.1846,
+    "best_acc": 0.8612,
+    "best_error": 0.1388,
+    "avg_cos_struct_value": -0.8297,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8612,
+        "test_error": 0.1388,
+        "test_loss": 0.3571,
+        "loss_struct": 1.0131,
+        "loss_value": 0.4322,
+        "c_sv_head": -0.6976
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8314,
+        "test_error": 0.1686,
+        "test_loss": 0.4449,
+        "loss_struct": 1.7904,
+        "loss_value": 0.0955,
+        "c_sv_head": -0.9035
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8154,
+        "test_error": 0.1846,
+        "test_loss": 0.7131,
+        "loss_struct": 2.8545,
+        "loss_value": 0.016,
+        "c_sv_head": -0.888
+      }
+    ],
+    "time_seconds": 49.1
+  },
+  {
+    "experiment_id": "X1b-001-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 1,
+    "test_acc": 0.8245,
+    "test_error": 0.1755,
+    "best_acc": 0.8383,
+    "best_error": 0.1617,
+    "avg_cos_struct_value": -0.7766,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8337,
+        "test_error": 0.1663,
+        "test_loss": 0.3872,
+        "loss_struct": 1.0167,
+        "loss_value": 0.4327,
+        "c_sv_head": -0.6563
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8383,
+        "test_error": 0.1617,
+        "test_loss": 0.4876,
+        "loss_struct": 1.7388,
+        "loss_value": 0.0967,
+        "c_sv_head": -0.8397
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8245,
+        "test_error": 0.1755,
+        "test_loss": 0.6991,
+        "loss_struct": 3.0101,
+        "loss_value": 0.0103,
+        "c_sv_head": -0.8338
+      }
+    ],
+    "time_seconds": 49.0
+  },
+  {
+    "experiment_id": "X1b-002-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 2,
+    "test_acc": 0.8188,
+    "test_error": 0.1812,
+    "best_acc": 0.8486,
+    "best_error": 0.1514,
+    "avg_cos_struct_value": -0.7199,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8486,
+        "test_error": 0.1514,
+        "test_loss": 0.3757,
+        "loss_struct": 1.0007,
+        "loss_value": 0.4403,
+        "c_sv_head": -0.6668
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.836,
+        "test_error": 0.164,
+        "test_loss": 0.4933,
+        "loss_struct": 1.8161,
+        "loss_value": 0.0882,
+        "c_sv_head": -0.8363
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8188,
+        "test_error": 0.1812,
+        "test_loss": 0.6766,
+        "loss_struct": 2.6477,
+        "loss_value": 0.0131,
+        "c_sv_head": -0.6566
+      }
+    ],
+    "time_seconds": 49.0
+  },
+  {
+    "experiment_id": "X1b-003-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 3,
+    "test_acc": 0.8211,
+    "test_error": 0.1789,
+    "best_acc": 0.8567,
+    "best_error": 0.1433,
+    "avg_cos_struct_value": -0.7963,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8567,
+        "test_error": 0.1433,
+        "test_loss": 0.3567,
+        "loss_struct": 1.0067,
+        "loss_value": 0.4352,
+        "c_sv_head": -0.6704
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.828,
+        "test_error": 0.172,
+        "test_loss": 0.4415,
+        "loss_struct": 1.6911,
+        "loss_value": 0.0989,
+        "c_sv_head": -0.8156
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8211,
+        "test_error": 0.1789,
+        "test_loss": 0.6529,
+        "loss_struct": 2.6721,
+        "loss_value": 0.0131,
+        "c_sv_head": -0.9029
+      }
+    ],
+    "time_seconds": 49.0
+  },
+  {
+    "experiment_id": "X1b-004-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 4,
+    "test_acc": 0.8303,
+    "test_error": 0.1697,
+    "best_acc": 0.8589,
+    "best_error": 0.1411,
+    "avg_cos_struct_value": -0.8106,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8589,
+        "test_error": 0.1411,
+        "test_loss": 0.3525,
+        "loss_struct": 1.0264,
+        "loss_value": 0.4256,
+        "c_sv_head": -0.6148
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8383,
+        "test_error": 0.1617,
+        "test_loss": 0.4321,
+        "loss_struct": 1.785,
+        "loss_value": 0.0871,
+        "c_sv_head": -0.9211
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8303,
+        "test_error": 0.1697,
+        "test_loss": 0.5843,
+        "loss_struct": 2.5615,
+        "loss_value": 0.0148,
+        "c_sv_head": -0.8959
+      }
+    ],
+    "time_seconds": 49.0
+  },
+  {
+    "experiment_id": "X1b-005-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 5,
+    "test_acc": 0.8291,
+    "test_error": 0.1709,
+    "best_acc": 0.8716,
+    "best_error": 0.1284,
+    "avg_cos_struct_value": -0.7862,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8716,
+        "test_error": 0.1284,
+        "test_loss": 0.3613,
+        "loss_struct": 1.0078,
+        "loss_value": 0.4363,
+        "c_sv_head": -0.6446
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8349,
+        "test_error": 0.1651,
+        "test_loss": 0.4167,
+        "loss_struct": 1.6197,
+        "loss_value": 0.1166,
+        "c_sv_head": -0.8658
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8291,
+        "test_error": 0.1709,
+        "test_loss": 0.6515,
+        "loss_struct": 2.6516,
+        "loss_value": 0.021,
+        "c_sv_head": -0.8482
+      }
+    ],
+    "time_seconds": 49.0
+  },
+  {
+    "experiment_id": "X1b-006-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 6,
+    "test_acc": 0.8131,
+    "test_error": 0.1869,
+    "best_acc": 0.8509,
+    "best_error": 0.1491,
+    "avg_cos_struct_value": -0.7666,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8509,
+        "test_error": 0.1491,
+        "test_loss": 0.3677,
+        "loss_struct": 1.0217,
+        "loss_value": 0.4276,
+        "c_sv_head": -0.7484
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8028,
+        "test_error": 0.1972,
+        "test_loss": 0.4884,
+        "loss_struct": 1.7572,
+        "loss_value": 0.0923,
+        "c_sv_head": -0.8626
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8131,
+        "test_error": 0.1869,
+        "test_loss": 0.6333,
+        "loss_struct": 2.5031,
+        "loss_value": 0.0204,
+        "c_sv_head": -0.6887
+      }
+    ],
+    "time_seconds": 49.8
+  },
+  {
+    "experiment_id": "X1b-007-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 7,
+    "test_acc": 0.8016,
+    "test_error": 0.1984,
+    "best_acc": 0.8417,
+    "best_error": 0.1583,
+    "avg_cos_struct_value": -0.7423,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8417,
+        "test_error": 0.1583,
+        "test_loss": 0.3703,
+        "loss_struct": 0.9865,
+        "loss_value": 0.4538,
+        "c_sv_head": -0.5031
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8154,
+        "test_error": 0.1846,
+        "test_loss": 0.4691,
+        "loss_struct": 1.6482,
+        "loss_value": 0.1118,
+        "c_sv_head": -0.8292
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8016,
+        "test_error": 0.1984,
+        "test_loss": 0.6267,
+        "loss_struct": 2.3798,
+        "loss_value": 0.0205,
+        "c_sv_head": -0.8947
+      }
+    ],
+    "time_seconds": 48.9
+  },
+  {
+    "experiment_id": "X1b-008-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 8,
+    "test_acc": 0.8005,
+    "test_error": 0.1995,
+    "best_acc": 0.8245,
+    "best_error": 0.1755,
+    "avg_cos_struct_value": -0.7921,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8245,
+        "test_error": 0.1755,
+        "test_loss": 0.3961,
+        "loss_struct": 1.015,
+        "loss_value": 0.4322,
+        "c_sv_head": -0.6476
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8142,
+        "test_error": 0.1858,
+        "test_loss": 0.4956,
+        "loss_struct": 1.7432,
+        "loss_value": 0.0991,
+        "c_sv_head": -0.8674
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8005,
+        "test_error": 0.1995,
+        "test_loss": 0.7246,
+        "loss_struct": 2.6419,
+        "loss_value": 0.0177,
+        "c_sv_head": -0.8611
+      }
+    ],
+    "time_seconds": 49.0
+  },
+  {
+    "experiment_id": "X1b-009-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 9,
+    "test_acc": 0.8131,
+    "test_error": 0.1869,
+    "best_acc": 0.8429,
+    "best_error": 0.1571,
+    "avg_cos_struct_value": -0.7755,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8429,
+        "test_error": 0.1571,
+        "test_loss": 0.3832,
+        "loss_struct": 1.044,
+        "loss_value": 0.4183,
+        "c_sv_head": -0.6593
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8188,
+        "test_error": 0.1812,
+        "test_loss": 0.4962,
+        "loss_struct": 1.8079,
+        "loss_value": 0.0858,
+        "c_sv_head": -0.8611
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8131,
+        "test_error": 0.1869,
+        "test_loss": 0.6723,
+        "loss_struct": 2.7717,
+        "loss_value": 0.0132,
+        "c_sv_head": -0.8063
+      }
+    ],
+    "time_seconds": 48.9
+  },
+  {
+    "experiment_id": "X1b-010-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 10,
+    "test_acc": 0.8406,
+    "test_error": 0.1594,
+    "best_acc": 0.8452,
+    "best_error": 0.1548,
+    "avg_cos_struct_value": -0.8148,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8452,
+        "test_error": 0.1548,
+        "test_loss": 0.3687,
+        "loss_struct": 0.9952,
+        "loss_value": 0.4358,
+        "c_sv_head": -0.6299
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8383,
+        "test_error": 0.1617,
+        "test_loss": 0.4367,
+        "loss_struct": 1.6819,
+        "loss_value": 0.111,
+        "c_sv_head": -0.89
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8406,
+        "test_error": 0.1594,
+        "test_loss": 0.5969,
+        "loss_struct": 2.6075,
+        "loss_value": 0.0169,
+        "c_sv_head": -0.9244
+      }
+    ],
+    "time_seconds": 49.0
+  },
+  {
+    "experiment_id": "X1b-011-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 11,
+    "test_acc": 0.7856,
+    "test_error": 0.2144,
+    "best_acc": 0.8314,
+    "best_error": 0.1686,
+    "avg_cos_struct_value": -0.7926,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8314,
+        "test_error": 0.1686,
+        "test_loss": 0.385,
+        "loss_struct": 1.0173,
+        "loss_value": 0.4208,
+        "c_sv_head": -0.729
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.7936,
+        "test_error": 0.2064,
+        "test_loss": 0.4936,
+        "loss_struct": 1.6827,
+        "loss_value": 0.0991,
+        "c_sv_head": -0.8881
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.7856,
+        "test_error": 0.2144,
+        "test_loss": 0.6871,
+        "loss_struct": 2.4111,
+        "loss_value": 0.0211,
+        "c_sv_head": -0.7606
+      }
+    ],
+    "time_seconds": 48.9
+  },
+  {
+    "experiment_id": "X1b-012-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 12,
+    "test_acc": 0.8245,
+    "test_error": 0.1755,
+    "best_acc": 0.8532,
+    "best_error": 0.1468,
+    "avg_cos_struct_value": -0.8409,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8532,
+        "test_error": 0.1468,
+        "test_loss": 0.3543,
+        "loss_struct": 1.0162,
+        "loss_value": 0.4255,
+        "c_sv_head": -0.7188
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8337,
+        "test_error": 0.1663,
+        "test_loss": 0.4036,
+        "loss_struct": 1.5894,
+        "loss_value": 0.1191,
+        "c_sv_head": -0.8723
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8245,
+        "test_error": 0.1755,
+        "test_loss": 0.5612,
+        "loss_struct": 2.3913,
+        "loss_value": 0.0231,
+        "c_sv_head": -0.9316
+      }
+    ],
+    "time_seconds": 49.0
+  },
+  {
+    "experiment_id": "X1b-013-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 13,
+    "test_acc": 0.8062,
+    "test_error": 0.1938,
+    "best_acc": 0.8486,
+    "best_error": 0.1514,
+    "avg_cos_struct_value": -0.7794,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8486,
+        "test_error": 0.1514,
+        "test_loss": 0.3681,
+        "loss_struct": 1.0364,
+        "loss_value": 0.4164,
+        "c_sv_head": -0.5881
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8096,
+        "test_error": 0.1904,
+        "test_loss": 0.4932,
+        "loss_struct": 1.8409,
+        "loss_value": 0.0829,
+        "c_sv_head": -0.8695
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8062,
+        "test_error": 0.1938,
+        "test_loss": 0.6986,
+        "loss_struct": 2.6848,
+        "loss_value": 0.0137,
+        "c_sv_head": -0.8807
+      }
+    ],
+    "time_seconds": 48.9
+  },
+  {
+    "experiment_id": "X1b-014-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 14,
+    "test_acc": 0.8016,
+    "test_error": 0.1984,
+    "best_acc": 0.8326,
+    "best_error": 0.1674,
+    "avg_cos_struct_value": -0.8397,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8326,
+        "test_error": 0.1674,
+        "test_loss": 0.3977,
+        "loss_struct": 1.0245,
+        "loss_value": 0.4195,
+        "c_sv_head": -0.7538
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.7982,
+        "test_error": 0.2018,
+        "test_loss": 0.5897,
+        "loss_struct": 1.7611,
+        "loss_value": 0.0939,
+        "c_sv_head": -0.8484
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8016,
+        "test_error": 0.1984,
+        "test_loss": 0.6269,
+        "loss_struct": 2.461,
+        "loss_value": 0.0185,
+        "c_sv_head": -0.9169
+      }
+    ],
+    "time_seconds": 48.9
+  },
+  {
+    "experiment_id": "X1b-015-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 15,
+    "test_acc": 0.8142,
+    "test_error": 0.1858,
+    "best_acc": 0.8326,
+    "best_error": 0.1674,
+    "avg_cos_struct_value": -0.8151,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8016,
+        "test_error": 0.1984,
+        "test_loss": 0.4197,
+        "loss_struct": 1.0382,
+        "loss_value": 0.4181,
+        "c_sv_head": -0.783
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8326,
+        "test_error": 0.1674,
+        "test_loss": 0.4634,
+        "loss_struct": 1.7243,
+        "loss_value": 0.0988,
+        "c_sv_head": -0.8284
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8142,
+        "test_error": 0.1858,
+        "test_loss": 0.6747,
+        "loss_struct": 2.6217,
+        "loss_value": 0.014,
+        "c_sv_head": -0.8338
+      }
+    ],
+    "time_seconds": 49.0
+  },
+  {
+    "experiment_id": "X1b-016-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 16,
+    "test_acc": 0.828,
+    "test_error": 0.172,
+    "best_acc": 0.8544,
+    "best_error": 0.1456,
+    "avg_cos_struct_value": -0.7952,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8544,
+        "test_error": 0.1456,
+        "test_loss": 0.3481,
+        "loss_struct": 1.0133,
+        "loss_value": 0.4311,
+        "c_sv_head": -0.685
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8394,
+        "test_error": 0.1606,
+        "test_loss": 0.4216,
+        "loss_struct": 1.7567,
+        "loss_value": 0.0947,
+        "c_sv_head": -0.871
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.828,
+        "test_error": 0.172,
+        "test_loss": 0.6307,
+        "loss_struct": 2.7336,
+        "loss_value": 0.0125,
+        "c_sv_head": -0.8297
+      }
+    ],
+    "time_seconds": 49.0
+  },
+  {
+    "experiment_id": "X1b-017-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 17,
+    "test_acc": 0.8211,
+    "test_error": 0.1789,
+    "best_acc": 0.8463,
+    "best_error": 0.1537,
+    "avg_cos_struct_value": -0.8008,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8463,
+        "test_error": 0.1537,
+        "test_loss": 0.3728,
+        "loss_struct": 1.0346,
+        "loss_value": 0.4232,
+        "c_sv_head": -0.6595
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8268,
+        "test_error": 0.1732,
+        "test_loss": 0.5355,
+        "loss_struct": 1.7754,
+        "loss_value": 0.0891,
+        "c_sv_head": -0.9106
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8211,
+        "test_error": 0.1789,
+        "test_loss": 0.7755,
+        "loss_struct": 3.0822,
+        "loss_value": 0.0086,
+        "c_sv_head": -0.8324
+      }
+    ],
+    "time_seconds": 49.0
+  },
+  {
+    "experiment_id": "X1b-018-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 18,
+    "test_acc": 0.8073,
+    "test_error": 0.1927,
+    "best_acc": 0.8555,
+    "best_error": 0.1445,
+    "avg_cos_struct_value": -0.8087,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8555,
+        "test_error": 0.1445,
+        "test_loss": 0.3641,
+        "loss_struct": 0.9982,
+        "loss_value": 0.4449,
+        "c_sv_head": -0.6778
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8142,
+        "test_error": 0.1858,
+        "test_loss": 0.5027,
+        "loss_struct": 1.7482,
+        "loss_value": 0.0993,
+        "c_sv_head": -0.902
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8073,
+        "test_error": 0.1927,
+        "test_loss": 0.7012,
+        "loss_struct": 2.7015,
+        "loss_value": 0.0146,
+        "c_sv_head": -0.8463
+      }
+    ],
+    "time_seconds": 51.1
+  },
+  {
+    "experiment_id": "X1b-019-lam0.60",
+    "experiment": "exp_X1b_high_noise",
+    "dataset": "SST-2",
+    "model": "distilbert-base-uncased",
+    "noise_type": "symmetric",
+    "noise_rate": 0.8,
+    "trusted_ratio": 0.05,
+    "lambda": 0.6,
+    "seed": 19,
+    "test_acc": 0.8039,
+    "test_error": 0.1961,
+    "best_acc": 0.8394,
+    "best_error": 0.1606,
+    "avg_cos_struct_value": -0.7702,
+    "total_steps": 750,
+    "epochs": 3,
+    "epoch_logs": [
+      {
+        "epoch": 1,
+        "steps": 250,
+        "test_acc": 0.8394,
+        "test_error": 0.1606,
+        "test_loss": 0.3964,
+        "loss_struct": 1.0069,
+        "loss_value": 0.4468,
+        "c_sv_head": -0.577
+      },
+      {
+        "epoch": 2,
+        "steps": 250,
+        "test_acc": 0.8188,
+        "test_error": 0.1812,
+        "test_loss": 0.4664,
+        "loss_struct": 1.6281,
+        "loss_value": 0.1096,
+        "c_sv_head": -0.818
+      },
+      {
+        "epoch": 3,
+        "steps": 250,
+        "test_acc": 0.8039,
+        "test_error": 0.1961,
+        "test_loss": 0.6573,
+        "loss_struct": 2.4835,
+        "loss_value": 0.0191,
+        "c_sv_head": -0.9154
+      }
+    ],
+    "time_seconds": 49.2
+  }
+]
