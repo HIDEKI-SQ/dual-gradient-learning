@@ -1,94 +1,103 @@
 # Dual-Gradient Learning
 
-This repository contains the experimental code and results for the **Dual-Gradient Learning Series**—a collection of six papers extending information geometry through value-perturbation theory and empirical validation.
+This repository contains experimental code, data, and figures for the **Dual-Gradient Learning** research program.
+The central result is a regime-structured view of robust learning under label noise, formalized and empirically validated
+in **Paper A**, with extensions across vision and NLP.
+
+The repository is organized to support **full numerical reproducibility** of all reported results, figures, and statistics.
+
+---
 
 ## Author
 
 **HIDEKI**  
 Independent Researcher, Japan  
 ORCID: [0009-0002-0019-6608](https://orcid.org/0009-0002-0019-6608)  
-Contact: hideki@r3776.jp
+Contact: **hideki@r3776.jp**
+
+---
 
 ## Papers
 
-| Paper | Title | Preprint DOI |
-|-------|-------|--------------|
-| **A** | Phase Transitions in Gradient-Mixed Learning: Path Dependence and Metastability under Label Noise | TO BE ASSIGNED |
-| **B-I** | The Sub-Additivity Principle: How Integration and Value Alignment Jointly Determine Cognitive Capacity | [10.5281/zenodo.17970754](https://doi.org/10.5281/zenodo.17970754) |
-| **B-II** | Sub-additive Interaction between Integration and Value Alignment in Learning Systems: Evidence from 14,400 Simulations | [10.5281/zenodo.17940361](https://doi.org/10.5281/zenodo.17940361) |
-| **C** | ρ-Design: Orthogonal Control of Gradient Direction and Mixing Strength in Learning Experiments | [10.5281/zenodo.17982236](https://doi.org/10.5281/zenodo.17982236) |
-| **D** | Beyond Dual Flatness: Curvature Emergence via Anisotropic Metric Perturbations | [10.5281/zenodo.18027618](https://doi.org/10.5281/zenodo.18027618) |
-| **E** | Natural Gradient Descent: Characterizing Local Efficiency and Coordinate Invariance in Controlled Settings | [10.5281/zenodo.18163401](https://doi.org/10.5281/zenodo.18163401) |
+| ID | Title | Status / DOI |
+|----|-------|--------------|
+| **A** | **Designing Robust Learning as Phase Control: Identical Training Produces Stable Success or Irreversible Failure** | DOI to be assigned |
+| **B‑I** | The Sub‑Additivity Principle: How Integration and Value Alignment Jointly Determine Cognitive Capacity | https://doi.org/10.5281/zenodo.17970754 |
+| **B‑II** | Sub‑additive Interaction between Integration and Value Alignment in Learning Systems: Evidence from 14,400 Simulations | https://doi.org/10.5281/zenodo.17940361 |
+| **C** | ρ‑Design: Orthogonal Control of Gradient Direction and Mixing Strength in Learning Experiments | https://doi.org/10.5281/zenodo.17982236 |
+| **D** | Beyond Dual Flatness: Curvature Emergence via Anisotropic Metric Perturbations | https://doi.org/10.5281/zenodo.18027618 |
+| **E** | Natural Gradient Descent: Characterizing Local Efficiency and Coordinate Invariance in Controlled Settings | https://doi.org/10.5281/zenodo.18163401 |
+
+---
 
 ## Repository Structure
 
 ```
-notebooks/
-├── Paper-A/          # Dual-Gradient Learning (~3,000 runs)
-│   ├── README.md
-│   ├── *.ipynb       # Experimental notebooks
-│   └── results/      # Outputs and figures
+.
+├── notebooks/
+│   ├── Paper-A/
+│   │   ├── README.md            # Detailed experimental ledger (v4.1)
+│   │   ├── notebooks/           # Training / analysis notebooks
+│   │   ├── results/             # CSV / JSON summaries
+│   │   └── figures/
+│   │       ├── main/             # Figure 1–5 (paper)
+│   │       └── extended_data/    # Extended Data Fig. 1–8
+│   │
+│   ├── Paper-B/
+│   ├── Paper-C/
+│   ├── Paper-D/
+│   └── Paper-E/
 │
-├── Paper-B/          # Sub-Additivity Principle (B-I theory + B-II evidence)
-│   ├── README.md
-│   ├── *.ipynb
-│   └── results/
-│
-├── Paper-C/          # ρ-Design methodology (1,230 runs)
-│   ├── README.md
-│   ├── *.ipynb
-│   └── results/
-│
-├── Paper-D/          # Curvature Emergence
-│   ├── README.md
-│   ├── *.ipynb
-│   └── results/
-│
-└── Paper-E/          # Natural Gradient Validation (234 trials)
-    ├── README.md
-    ├── *.ipynb
-    └── results/
+└── README.md  (this file)
 ```
 
-## Key Contributions
+---
 
-### Theoretical Framework
-- **Structure-Value-Meaning (SVM) Framework**: Meaning emerges through value-mediated projection of structure: M = Π_V(S)
-- **Sub-Additivity Principle**: Integration and value alignment combine sub-additively (β₃ < 0)
-- **Dichotomy Theorem**: Characterization of when metric perturbations preserve or destroy dual flatness
+## Paper A at a Glance
 
-### Methodological Innovations
-- **ρ-Design**: Protocol for orthogonal control of gradient direction (ρ) and mixing strength (λ)
-- **Gate Validation System**: Quality assurance framework for Fisher matrix properties and KL calibration
-- **KL-Controlled Learning**: Fair comparison protocol for optimization methods
+**Problem**  
+Robust learning under label noise is typically assumed to degrade smoothly as noise increases.
 
-### Empirical Findings
-- Phase structure in dual-gradient learning with optimal λ ∈ [0.25, 0.40]
-- Machine-precision coordinate invariance of Natural Gradient (10⁻¹⁶ to 10⁻¹¹)
-- Curvature emergence requires both directional selectivity AND point dependence
+**Core Finding**  
+Dual‑gradient learning exhibits **regime structure**:
+identical training conditions can produce either stable low‑error solutions or persistent high‑error failures.
 
-## Experimental Scale
+**Key phenomena**
+- Sharp boundary and variance peak as a function of mixing coefficient λ
+- Bimodality, hysteresis, and metastability in vision
+- Absorbing high‑error failure states at high noise
+- Cross‑domain validation in NLP with domain‑specific phenomenology
+- Causal decomposition of non‑recovery into **time‑driven corrosion** and **path‑dependent damage**
 
-| Paper | Experimental Runs | Key Metrics |
-|-------|-------------------|-------------|
-| A | ~3,000 | Hysteresis gap 22–71%, 100% metastability |
-| B-II | 14,400 | β₃ = -0.311, f² = 0.37 |
-| C | 1,230 | cos deviation < 3×10⁻⁸ |
-| D | Gaussian + Categorical | ε_max = 9.75 (Gaussian), 0.435 (Categorical) |
-| E | 234 | ~10⁹-fold invariance advantage |
+This motivates reframing robust learning as **phase control** rather than loss optimization.
 
-## Requirements
+---
 
-- Python 3.10+
-- PyTorch 2.0+
-- NumPy, SciPy, Matplotlib
+## Experimental Scale (Paper A)
 
-All notebooks are designed for **Google Colab** (A100 GPU recommended for Paper-A, B-II).
+| Domain | Series | Runs |
+|-------|--------|-----:|
+| Vision | A–Q | 1,773 |
+| Vision | R–W | 1,273 |
+| NLP | X | 790 |
+| NLP (controls) | Y | 80 |
+| **Total** | | **3,916** |
+
+All run counts are derived from released data archives and exclude archived or failed runs.
+The complete census and definitions are documented in `notebooks/Paper-A/README.md` (v4.1).
+
+---
 
 ## Reproducibility
 
-All experiments follow a **Deterministic Execution Contract**:
+This repository constitutes the **complete reproducibility package** for Paper A.
 
+All numerical values and figures in the manuscript can be regenerated from:
+- raw data (CSV / JSON),
+- analysis notebooks, and
+- fixed experimental protocols documented in Paper‑A/README.md.
+
+**Deterministic Execution Contract**
 ```python
 torch.manual_seed(seed)
 np.random.seed(seed)
@@ -97,70 +106,21 @@ torch.backends.cudnn.benchmark = False
 torch.set_default_dtype(torch.float64)
 ```
 
-Each Paper directory contains:
-- Complete source notebooks
-- Raw experimental data (CSV, JSON)
-- Publication-ready figures (PDF, PNG)
-- Detailed README with parameters
+All experiments were executed on **Google Colab (A100 GPU)**.
 
-**Experimental Environment**: All experiments were conducted on Google Colab (December 2025).
-
-## Citation
-
-If you use this code or data, please cite the relevant paper(s):
-
-```bibtex
-@misc{hideki2026dualgradient,
-  author = {HIDEKI},
-  title = {Phase Transitions in Gradient-Mixed Learning: Path Dependence and Metastability under Label Noise},
-  year = {2026},
-  note = {DOI to be assigned}
-}
-
-@misc{hideki2025subadditivity_theory,
-  author = {HIDEKI},
-  title = {The Sub-Additivity Principle: How Integration and Value Alignment Jointly Determine Cognitive Capacity},
-  year = {2025},
-  doi = {10.5281/zenodo.17970754}
-}
-
-@misc{hideki2025subadditivity_evidence,
-  author = {HIDEKI},
-  title = {Sub-additive Interaction between Integration and Value Alignment in Learning Systems: Evidence from 14,400 Simulations},
-  year = {2025},
-  doi = {10.5281/zenodo.17940361}
-}
-
-@misc{hideki2025rhodesign,
-  author = {HIDEKI},
-  title = {ρ-Design: Orthogonal Control of Gradient Direction and Mixing Strength in Learning Experiments},
-  year = {2025},
-  doi = {10.5281/zenodo.17982236}
-}
-
-@misc{hideki2025dualflatness,
-  author = {HIDEKI},
-  title = {Beyond Dual Flatness: Curvature Emergence via Anisotropic Metric Perturbations},
-  year = {2025},
-  doi = {10.5281/zenodo.18027618}
-}
-
-@misc{hideki2025natgrad,
-  author = {HIDEKI},
-  title = {Natural Gradient Descent: Characterizing Local Efficiency and Coordinate Invariance in Controlled Settings},
-  year = {2026},
-  doi = {10.5281/zenodo.18163401}
-}
-```
+---
 
 ## License
 
 MIT License
 
+---
+
 ## Acknowledgments
 
-This research was conducted independently. The theoretical framework builds on foundational work by Shun-ichi Amari and the information geometry community.
+This research was conducted independently.
+The theoretical foundations build on information geometry and related work by Shun‑ichi Amari and collaborators.
 
 ---
 
-**Last updated**: January 2026
+**Last updated**: March 2026
